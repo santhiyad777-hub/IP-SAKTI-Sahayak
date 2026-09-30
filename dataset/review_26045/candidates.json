@@ -1,0 +1,381 @@
+[
+  {
+    "source_id": "bd_act_consolidated",
+    "title": "Biological Diversity Act 2002 (amended through 2023)",
+    "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23111",
+    "regime": "biodiversity_abs",
+    "required_patterns": [
+      "Biological Diversity",
+      "2023"
+    ],
+    "organization": "Government of India / WIPO Lex",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "bd_rules_2024",
+    "title": "Biological Diversity Rules 2024 (read with 2025 Amendment Rules)",
+    "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23135",
+    "regime": "biodiversity_abs",
+    "required_patterns": [
+      "2024",
+      "665",
+      "Form"
+    ],
+    "organization": "Government of India / WIPO Lex",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "bd_rules_amendment_2025",
+    "title": "Biological Diversity (Amendment) Rules 2025",
+    "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23136",
+    "regime": "biodiversity_abs",
+    "required_patterns": [
+      "2025",
+      "2024"
+    ],
+    "organization": "Government of India / WIPO Lex",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "cbd_convention",
+    "title": "Convention on Biological Diversity: text and annexes",
+    "source_url": "https://www.cbd.int/doc/legal/cbd-en.pdf",
+    "regime": "biodiversity_abs",
+    "required_patterns": [
+      "Article 8",
+      "Article 15"
+    ],
+    "organization": "CBD Secretariat",
+    "jurisdiction": "international",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "cosmetics_rules_2020",
+    "title": "Cosmetics Rules 2020",
+    "source_url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/cos_rules/Cosmetics%20Rules%202020.pdf",
+    "regime": "drug_regulation",
+    "required_patterns": [
+      "COSMETICS",
+      "2020",
+      "label"
+    ],
+    "organization": "CDSCO",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "ndct_rules_2019",
+    "title": "New Drugs and Clinical Trials Rules 2019",
+    "source_url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf",
+    "regime": "drug_regulation",
+    "required_patterns": [
+      "2019",
+      "phytopharmaceutical"
+    ],
+    "organization": "CDSCO",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "ayurveda_aahara_2022",
+    "title": "Food Safety and Standards (Ayurveda Aahara) Regulations 2022: original Gazette",
+    "source_url": "https://stg-old.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf",
+    "regime": "food_regulation",
+    "required_patterns": [
+      "Ayurveda",
+      "2022",
+      "Schedule"
+    ],
+    "organization": "FSSAI",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "drugs_magic_remedies_1954",
+    "title": "Drugs and Magic Remedies (Objectionable Advertisements) Act 1954: original statute",
+    "source_url": "https://ayush.assam.gov.in/sites/default/files/swf_utility_folder/departments/dirayush_lipl_in_oid_9/do_u_want_2_know/Drugs_magic_remedies_%28%20advertisement%29_act.pdf",
+    "regime": "drug_regulation",
+    "required_patterns": [
+      "1954",
+      "advertisement",
+      "SCHEDULE"
+    ],
+    "organization": "Directorate of AYUSH, Assam (official statutory text)",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "fda_botanical_guidance",
+    "title": "FDA Botanical Drug Development: Guidance for Industry (December 2016)",
+    "source_url": "https://www.fda.gov/files/drugs/published/Botanical-Drug-Development--Guidance-for-Industry.pdf",
+    "regime": "export_us",
+    "required_patterns": [
+      "Botanical",
+      "2016",
+      "IND"
+    ],
+    "organization": "US FDA",
+    "jurisdiction": "international",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "cgptdm_tk_guidelines",
+    "title": "Guidelines for Processing Patent Applications Relating to Traditional Knowledge and Biological Material (2012)",
+    "source_url": "https://ipindia.gov.in/frontend/pdf/patents/guidelines/Guidelines%20for%20Processing%20of%20Patent%20Applications%20relating%20to%20Traditional%20Knowledge%20and%20Biological%20Material%20-%202012.pdf",
+    "regime": "traditional_knowledge",
+    "required_patterns": [
+      "traditional knowledge",
+      "biological"
+    ],
+    "organization": "CGPDTM / IP India",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "tkdl_csir",
+    "title": "CSIR TKDL public information and access framework",
+    "source_url": "https://www.csir.res.in/en/documents/tkdl",
+    "regime": "traditional_knowledge",
+    "required_patterns": [
+      "Traditional Knowledge Digital Library",
+      "Access"
+    ],
+    "organization": "CSIR",
+    "jurisdiction": "india",
+    "kind": "web",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "uk_herbal_registration",
+    "title": "MHRA: Apply for a traditional herbal registration (THR)",
+    "source_url": "https://www.gov.uk/guidance/apply-for-a-traditional-herbal-registration-thr",
+    "regime": "export_uk",
+    "required_patterns": [
+      "traditional herbal registration",
+      "30 years"
+    ],
+    "organization": "UK MHRA",
+    "jurisdiction": "international",
+    "kind": "web",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "pcimh_standards_faq",
+    "title": "PCIMH: official pharmacopoeia and formulary standards FAQ",
+    "source_url": "https://www.portal.pcimh.gov.in/content/faqs",
+    "regime": "drug_regulation",
+    "required_patterns": [
+      "Pharmacopoeia",
+      "standards"
+    ],
+    "organization": "PCIMH / Ministry of Ayush",
+    "jurisdiction": "india",
+    "kind": "web",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "patanjali_judgment_2024",
+    "title": "Supreme Court: In Re Patanjali Ayurved Ltd, 2024 INSC 605, 13 August 2024",
+    "source_url": "https://api.sci.gov.in/supremecourt/2024/35078/35078_2024_9_1501_54748_Judgement_13-Aug-2024.pdf",
+    "regime": "drug_regulation",
+    "required_patterns": [
+      "PATANJALI",
+      "2024",
+      "advertise"
+    ],
+    "organization": "Supreme Court of India",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Judgment dated 2024-08-13; case-specific decision, not a current consolidated advertising regime"
+  },
+  {
+    "source_id": "dpdp_act_2023",
+    "title": "Digital Personal Data Protection Act 2023",
+    "source_url": "https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "regime": "privacy",
+    "required_patterns": [
+      "2023",
+      "Data Fiduciary"
+    ],
+    "organization": "MeitY",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "dpdp_rules_2025",
+    "title": "Digital Personal Data Protection Rules 2025: notified rules with phased commencement",
+    "source_url": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf",
+    "regime": "privacy",
+    "required_patterns": [
+      "2025",
+      "Data Fiduciary",
+      "eighteen"
+    ],
+    "organization": "MeitY",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "resolve_pdf": false,
+    "version": "Official source snapshot; check subsequent amendments before relying on current law"
+  },
+  {
+    "source_id": "fssai_nutraceuticals",
+    "title": "FSSAI Health Supplements and Nutraceuticals Regulations 2016: original notification",
+    "source_url": "https://stg-old.fssai.gov.in/upload/uploadfiles/files/Nutraceuticals_Regulations.pdf",
+    "regime": "food_regulation",
+    "required_patterns": [
+      "2016",
+      "Nutraceutical"
+    ],
+    "organization": "FSSAI",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "version": "Original Gazette notification; later amendments must also be consulted"
+  },
+  {
+    "source_id": "fssai_food_claims",
+    "title": "FSSAI Advertising and Claims Regulations 2018: original notification",
+    "source_url": "https://stg-old.fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Advertising_Claims_27_11_2018.pdf",
+    "regime": "food_regulation",
+    "required_patterns": [
+      "2018",
+      "claims"
+    ],
+    "organization": "FSSAI",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "version": "Original Gazette notification; later amendments must also be consulted"
+  },
+  {
+    "source_id": "fssai_labelling",
+    "title": "FSSAI Labelling and Display Regulations 2020: original notification",
+    "source_url": "https://stg-old.fssai.gov.in/upload/notifications/2020/12/5fd87c6a0f6adGazette_Notification_Labelling_Display_14_12_2020.pdf",
+    "regime": "food_regulation",
+    "required_patterns": [
+      "2020",
+      "Labelling"
+    ],
+    "organization": "FSSAI",
+    "jurisdiction": "india",
+    "kind": "pdf",
+    "version": "Original Gazette notification; later amendments must also be consulted"
+  },
+  {
+    "source_id": "pct_treaty",
+    "title": "Patent Cooperation Treaty (modified 2001)",
+    "source_url": "https://www.wipo.int/wipolex/en/text/288637",
+    "regime": "patents",
+    "required_patterns": [
+      "international application",
+      "Article"
+    ],
+    "organization": "WIPO",
+    "jurisdiction": "international",
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "version": "Patent Cooperation Treaty (modified 2001); procedural regulations and fees may change separately"
+  },
+  {
+    "source_id": "budapest_treaty",
+    "title": "Budapest Treaty (amended 1980)",
+    "source_url": "https://www.wipo.int/wipolex/en/text/283781",
+    "regime": "patents",
+    "required_patterns": [
+      "microorganisms",
+      "Article"
+    ],
+    "organization": "WIPO",
+    "jurisdiction": "international",
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "version": "Budapest Treaty (amended 1980); procedural regulations and fees may change separately"
+  },
+  {
+    "source_id": "hague_geneva_act",
+    "title": "Hague Agreement: Geneva Act 1999",
+    "source_url": "https://www.wipo.int/wipolex/en/text/285198",
+    "regime": "designs",
+    "required_patterns": [
+      "international registration",
+      "Article"
+    ],
+    "organization": "WIPO",
+    "jurisdiction": "international",
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "version": "Hague Agreement: Geneva Act 1999; procedural regulations and fees may change separately"
+  },
+  {
+    "source_id": "madrid_protocol",
+    "title": "Madrid Protocol (amended 2007)",
+    "source_url": "https://www.wipo.int/wipolex/en/text/283483",
+    "regime": "trademarks",
+    "required_patterns": [
+      "international registration",
+      "Article"
+    ],
+    "organization": "WIPO",
+    "jurisdiction": "international",
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "version": "Madrid Protocol (amended 2007); procedural regulations and fees may change separately"
+  },
+  {
+    "source_id": "navara_gi_record",
+    "title": "GI Registry application 17: Navara Rice",
+    "source_url": "https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/17",
+    "regime": "gi",
+    "required_patterns": [
+      "Navara",
+      "17"
+    ],
+    "organization": "GI Registry / IP India",
+    "jurisdiction": "india",
+    "kind": "web",
+    "version": "Public registry snapshot; recheck live status before filing"
+  },
+  {
+    "source_id": "nist_ai_rmf",
+    "title": "NIST AI Risk Management Framework (AI RMF 1.0)",
+    "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+    "regime": "ai_governance",
+    "required_patterns": [
+      "GOVERN",
+      "MAP",
+      "MEASURE",
+      "MANAGE"
+    ],
+    "organization": "US NIST",
+    "jurisdiction": "international",
+    "kind": "pdf",
+    "version": "January 2023; voluntary risk-management framework, not Indian law"
+  }
+]

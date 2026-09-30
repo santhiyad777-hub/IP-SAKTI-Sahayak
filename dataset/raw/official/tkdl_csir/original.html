@@ -1,0 +1,1676 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+	
+    <meta charset="utf-8" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="text/javascript" data-toolbar-anti-flicker-loading>(function() {
+  const toolbarState = sessionStorage.getItem('Drupal.toolbar.toolbarState')
+    ? JSON.parse(sessionStorage.getItem('Drupal.toolbar.toolbarState'))
+    : false;
+  // These are classes that toolbar typically adds to <body>, but this code
+  // executes before the first paint, when <body> is not yet present. The
+  // classes are added to <html> so styling immediately reflects the current
+  // toolbar state. The classes are removed after the toolbar completes
+  // initialization.
+  const classesToAdd = ['toolbar-loading', 'toolbar-anti-flicker'];
+  if (toolbarState) {
+    const {
+      orientation,
+      hasActiveTab,
+      isFixed,
+      activeTray,
+      activeTabId,
+      isOriented,
+      userButtonMinWidth
+    } = toolbarState;
+
+    classesToAdd.push(
+      orientation ? `toolbar-` + orientation + `` : 'toolbar-horizontal',
+    );
+    if (hasActiveTab !== false) {
+      classesToAdd.push('toolbar-tray-open');
+    }
+    if (isFixed) {
+      classesToAdd.push('toolbar-fixed');
+    }
+    if (isOriented) {
+      classesToAdd.push('toolbar-oriented');
+    }
+
+    if (activeTray) {
+      // These styles are added so the active tab/tray styles are present
+      // immediately instead of "flickering" on as the toolbar initializes. In
+      // instances where a tray is lazy loaded, these styles facilitate the
+      // lazy loaded tray appearing gracefully and without reflow.
+      const styleContent = `
+      .toolbar-loading #` + activeTabId + ` {
+        background-image: linear-gradient(rgba(255, 255, 255, 0.25) 20%, transparent 200%);
+      }
+      .toolbar-loading #` + activeTabId + `-tray {
+        display: block; box-shadow: -1px 0 5px 2px rgb(0 0 0 / 33%);
+        border-right: 1px solid #aaa; background-color: #f5f5f5;
+        z-index: 0;
+      }
+      .toolbar-loading.toolbar-vertical.toolbar-tray-open #` + activeTabId + `-tray {
+        width: 15rem; height: 100vh;
+      }
+     .toolbar-loading.toolbar-horizontal :not(#` + activeTray + `) > .toolbar-lining {opacity: 0}`;
+
+      const style = document.createElement('style');
+      style.textContent = styleContent;
+      style.setAttribute('data-toolbar-anti-flicker-loading', true);
+      document.querySelector('head').appendChild(style);
+
+      if (userButtonMinWidth) {
+        const userButtonStyle = document.createElement('style');
+        userButtonStyle.textContent = `#toolbar-item-user {min-width: ` + userButtonMinWidth +`px;}`
+        document.querySelector('head').appendChild(userButtonStyle);
+      }
+    }
+  }
+  document.querySelector('html').classList.add(...classesToAdd);
+})();</script>
+<script type="application/ld+json">{
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": "1",
+            "name": "Home",
+            "item": "https://www.csir.res.in/en"
+          },{
+              "@type": "ListItem",
+              "position": "2",
+              "name": "Documents"
+            },{
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Traditional Knowledge Digital Library Unit (TKDL)"
+            }]}</script>
+<link rel="icon" href="/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.csir.res.in/en/documents/tkdl" />
+<link rel="alternate" hreflang="hi" href="https://www.csir.res.in/hi/documents/tkdl" />
+<link rel="canonical" href="https://www.csir.res.in/en/documents/tkdl" />
+<link rel="shortlink" href="https://www.csir.res.in/en/node/1544" />
+
+    <title>Traditional Knowledge Digital Library Unit (TKDL) | Council of Scientific &amp; Industrial Research</title>
+	
+    <meta name="keywords" content=", Traditional Knowledge Digital Library Unit (TKDL) | Council of Scientific &amp; Industrial Research,csir official website, council of scientific and industrial research, csir, csir india, Scientific, Research">
+    <meta name="description" content="Traditional Knowledge Digital Library Unit (TKDL) | Council of Scientific &amp; Industrial Research CSIR - Council of Scientific & Industrial Research covers a wide spectrum from radio and space physics, oceanography, chemicals,">
+
+    <meta name="title" content="Traditional Knowledge Digital Library Unit (TKDL) | Council of Scientific &amp; Industrial Research">
+    <link rel="stylesheet" media="all" href="/libraries/superfish/css/superfish.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/node/css/node.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/controlgroup.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/checkboxradio.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/resizable.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/button.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/dialog.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/ckeditor5/css/ckeditor5.dialog.fix.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/misc/vertical-tabs.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/blazy/css/blazy.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/simple_popup_blocks/css/simple_popup_blocks.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/custom/unee_header/css/base.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/custom/unee_header/css/base-responsive.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/custom/unee_header/css/grid.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/custom/unee_header/css/font.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/custom/unee_header/css/font-awesome.min.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/custom/unee_header/css/flexslider.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/custom/unee_header/css/print.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/quicktabs/css/quicktabs.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/themes/csir/css/bootstrap.min.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/themes/csir/css/slick.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/themes/csir/css/flexslider.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/themes/csir/css/style.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/themes/csir/css/responsive.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/themes/csir/css/font-awesome.css?tlz17k" />
+<link rel="stylesheet" media="all" href="/themes/csir/css/accesibility-style-v2.1.css?tlz17k" />
+
+    
+	<!-- No script -->
+   
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MT0RKVLZWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MT0RKVLZWL');
+</script>
+
+  
+  </head>
+  <body id="fontSize" class="documentstkdl page-node-1544 en path-node page-node-type-page">
+    	<!-- skip to main content 
+	<a class="skip-link screen-reader-text" href="#main-content">Skip to main content</a> -->
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <!-- -------------------- Top bar Start -------------------- -->
+
+
+      <section class="topbar">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                  <div class="d-flex justify-content-center align-items-center">
+				    				  <a href="/en/eoffice" title="e-office">
+				   <img src="/themes/csir/img/logoēoffice.png" alt="e-office"></a>
+				   <ul class="accessibility-icons">
+				     <li class="pensioner">
+                        <a href="/en/pensioners-corner"> <img src="/themes/csir/img/user.svg" alt="Pensioners Corner"> Pensioners Corner</a>
+                      </li>
+                      <li class="employer">
+                        <a href="/en/user"> <img src="/themes/csir/img/user.svg" alt="Employee Corner"> Employee Corner</a>
+                      </li>
+				   </ul>
+				   				   
+                       <div>
+    <div id="block-uneeheaderdata">
+  
+    
+      
+
+ <!--<ul class="accessibility-icons float-end">
+ <li class="skip-content">
+                       <a href="#skipCont">Skip to main content</a>
+                    </li>
+                    <li class="sitemap-moca">
+                                      <a href="hi/sitemap">Sitemap</a>
+                              </li>
+ <li class="theme-changer">
+    <span>Theme</span>
+    <div class="inner"><a href="javascript:void(0);" class="high-contrast light current" title="Normal Contrast" style="display: none;">A</a>
+    <a href="javascript:void(0);" class="high-contrast dark" title="High Contrast">A</a> </div>
+  </li> 
+    <li class="screen-reader">
+       <a href="https://www.csir.res.in/en/help" title="Screen Reader Access">Screen Reader Access</a>
+    </li>
+    <li class="screen-reader">
+       <a class="fontdecrease test" title="Decrease font size" href="javascript:void(0);">A-</a></li>
+        <li><a class="fontreset" title="Reset font size" href="javascript:void(0);">A</a></li>
+        <li><a class="fontincrease" title="Increase font size" href="javascript:void(0);">A+</a>
+     </li>
+     
+  
+    
+  </ul> -->
+  
+   <ul class="accessibility-icons">
+      
+      
+                    
+                      <li class="screen-reader">
+                       
+             <a href="https://www.csir.res.in/en/help" title="Screen Reader Access"><img src="/themes/csir/img/screen-reader.svg" alt="Screen Reader Access">Screen Reader Access</a>
+                      </li>
+                      <li class="skip-content">
+            <a href="#skipCont" title="Skip to main content" ><img src="/themes/csir/img/skip-content.png" alt="Skip to main content">Skip to main content</a>
+                        
+                      </li>
+                      <li class="dropdown icon-drop bg">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                          <img src="/themes/csir/img/disabled.svg" alt="Text Resize">
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                         <li class="screen-reader">
+              <a class="fontdecrease test" title="Decrease font size" href="javascript:void(0);">A-</a></li>
+              <li><a class="fontreset" title="Reset font size" href="javascript:void(0);">A</a></li>
+              <li><a class="fontincrease" title="Increase font size" href="javascript:void(0);">A+</a>
+              </li>
+                  <li class="theme-changer">
+    
+    <a href="javascript:void(0);" class="high-contrast light current" title="Normal Contrast" style="display: none;">A</a>
+    <a href="javascript:void(0);" class="high-contrast dark" title="High Contrast">A</a> 
+  </li> 
+              </ul>
+                      </li>
+             <li class="dropdown icon-drop social">
+			            
+			            <a class="dropdown-item" href="https://www.whatsapp.com/channel/0029VaINdbL5q08ecWc8zV1P" target="_blank"> <img src="/themes/csir/img/ico-whatsapp.svg" title="whatsapp" alt="whatsapp" style="width: 30px !important;"> </a>  
+                      <!--  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                          <img src="/themes/csir/img/ico-social.svg" alt="Social">
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                          <li><a class="dropdown-item" href="https://www.facebook.com/INDIA.CSIR"> <img src="/themes/csir/img/fb.svg" alt="FB"> </a></li>
+                          <li><a class="dropdown-item" href="https://www.instagram.com/csirindia/?hl=en"> <img src="/themes/csir/img/insta.svg" alt="Insta"> </a></li>
+                          <li><a class="dropdown-item" href="https://twitter.com/csir_ind"> <img src="/themes/csir/img/twitter.svg" alt="Twitter"> </a></li>
+                          <li><a class="dropdown-item" href="https://www.youtube.com/channel/UC-ZY_sMrNWx-gNxtEA6L9Uw"> <img src="/themes/csir/img/yt.svg" alt="YouTube"> </a></li>
+                        </ul>  -->
+                      </li>
+                    
+            
+            </ul>
+  </div>
+
+  </div>
+
+                     <ul class="accessibility-icons">
+                        <li class="dropdown language search">
+                           <button class="btn btn-secondary dropdown-toggle p-0" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                           <img src="/themes/csir/img/search.svg" style="width:25px;" alt="Search">
+                           </button>
+                           <ul class="dropdown-menu modal-search ps-2 pe-2" aria-labelledby="dropdownMenuButton1">
+                              <li class="ico-site-search cf">
+                                 <div class="input-group flex-nowrap">
+                                    <div class="search-drop ">
+                                         <div>
+    <div class="search-block-form" data-drupal-selector="search-block-form" id="block-searchform" role="search">
+  
+    
+      <form action="/en/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" data-msg-maxlength="Search field has a maximum length of 128." type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+                                    </div>
+                                   
+                              </li>
+                           </ul>
+                        </li>
+                        <li> <span class="sitemap-csir">
+                                                <a href="/sitemap">Sitemap</a>
+                                                </span></li>
+                          <div>
+    <div class="language-switcher-language-url" id="block-languageswitcher" role="navigation">
+  
+    
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/1544" class="is-active"><a href="/en/documents/tkdl" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/1544">English</a></li><li hreflang="hi" data-drupal-link-system-path="node/1544"><a href="/hi/documents/tkdl" class="language-link" hreflang="hi" data-drupal-link-system-path="node/1544">Hindi</a></li></ul>
+  </div>
+
+  </div>
+
+                     </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- -------------------- Top bar End -------------------- -->
+      <!-- header bar start -->
+      <section class="wrapper header-wrapper">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-6 col-md-6 col-sm-8">
+                  <a href="/en" title="Council of Scientific & Industrial Research" class="brand d-inline-flex align-items-center text-decoration-none">
+                     <span><img src="/themes/csir/img/csir-logo.png"  alt="CSIR Logo"></span>
+                     <div>
+                        <span class="fw-bold"> वैज्ञानिक तथा औद्योगिक अनुसंधान परिषद्</span>
+                        <span>  Council of Scientific & Industrial Research</span>
+                        <span > (विज्ञान एवं प्रौद्योगिकी मंत्रालय, भारत सरकार)  </span> 
+                        <span  > Ministry of Science & Technology, Govt. of India </span>
+                     </div>
+                  </a>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-4 text-end img-head">
+                    <div>
+    <div class="views-element-container" id="block-views-block-csir-homepage-logos-block-1">
+  
+    
+      <div><div class="js-view-dom-id-16d4b76cad3e67d157a1e6ea36de1a3eb095dc336003f7ae7f0e519f06e9a806">
+  
+  
+  
+
+  
+  
+  
+
+      <div><a href="https://kheloindia.gov.in/" class="ext-department-logos" target="_blank">  <img loading="eager" src="/sites/default/files/2026-06/khelo-color.png" width="585" height="333" alt="Khelo India" title="Khelo India" />
+
+</a></div>
+    <div><a href="/en/csir-social-media" class="ext-department-logos" target="_blank">  <img loading="eager" src="/sites/default/files/2025-07/social_media_icon.png" width="67" height="67" alt="CSIR Social Media" title="CSIR Social Media" />
+
+</a></div>
+    <div><a href="https://shebox.wcd.gov.in/" class="ext-department-logos" target="_blank">  <img loading="eager" src="/sites/default/files/2025-06/she-box111.jpeg" width="532" height="531" alt="SHe-Box" title="SHe-Box" />
+
+</a></div>
+    <div><a href="http://prabhass.gov.in" class="ext-department-logos" target="_blank">  <img loading="eager" src="/sites/default/files/2023-08/prabhas%20%281%29.png" width="67" height="67" alt="Prabhas" title="Prabhas" />
+
+</a></div>
+    <div><a href="https://innovateindia.mygov.in/csir-societal-platform-2024/" class="ext-department-logos" target="_blank">  <img loading="eager" src="/sites/default/files/2023-08/img-s%20%281%29.png" width="67" height="67" alt="CSIR Societal Portal" title="CSIR Societal Portal" />
+
+</a></div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- -------------------- header bar end -------------------- -->
+      <!-- -------------------- Navbar start -------------------- -->
+      <section class="navigation-bar">
+         <div class="container-fluid">
+                          <div>
+    <div id="block-mainnavigation">
+  
+    
+      
+<ul id="superfish-main" class="menu sf-menu sf-main sf-horizontal sf-style-none">
+  
+
+
+  
+  <li id="main-standardfront-page" class="sf-depth-1 sf-no-children">
+              <a href="/en" class="sf-depth-1">Home</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-contentb2518584-137e-469b-b65d-921df0440f96" class="sf-depth-1 menuparent">
+              <span title="About Us" class="sf-depth-1 menuparent nolink">About Us</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-contentee79aca4-ae7b-40af-a0af-45d98b7381ba" class="sf-depth-2 sf-no-children">
+              <a href="/en/about-us/about-csir" title="About CSIR" class="sf-depth-2">About CSIR</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content7a177111-5072-4b6e-94b3-b7c189b18568" class="sf-depth-2 sf-no-children">
+              <a href="/en/vision-mission" title="Vision &amp; Mission" class="sf-depth-2">Vision &amp; Mission</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content89607d2e-03b9-494d-8ed5-005995359b3f" class="sf-depth-2 sf-no-children">
+              <a href="/en/about-us/profile" title="Profile" class="sf-depth-2">Profile</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content9bb79da7-f007-4727-996f-0a7c9358c645" class="sf-depth-2 sf-no-children">
+              <a href="/en/about-us/organization-structure" title="Organisational Structure" class="sf-depth-2">Organisational Structure</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contente2e9c71c-5fd2-493b-8554-0c267e23db82" class="sf-depth-2 sf-no-children">
+              <a href="/en/about-us/csir-network-map" title="Network Map" class="sf-depth-2">Network Map</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content3e0dd32d-53ab-4821-835d-8b4cbdb1ea76" class="sf-depth-2 sf-no-children">
+              <a href="/en/about-us/csir-leader" title="CSIR Leader" class="sf-depth-2">CSIR Leader</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta1f7d08a-c1bc-486b-ba90-dab0f1553a1a" class="sf-depth-2 sf-no-children">
+              <a href="/en/csir-directory" title="CSIR Directory" class="sf-depth-2">CSIR Directory</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-content0d7fe955-09f3-4fef-ab8d-0face332a949" class="sf-depth-2 menuparent">
+              <span title="Science Technology and Innovation Management Structure" class="sf-depth-2 menuparent nolink">Science Technology and Innovation Management Structure</span>
+                  <ul>      
+
+
+            
+  <li id="main-menu-link-content28b9a301-42ad-4f8c-8ec5-87d8b15d5d64" class="sf-depth-3 menuparent">
+              <span title="Central Planning Directorate" class="sf-depth-3 menuparent nolink">Central Planning Directorate</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-content2a26531b-0db8-40d5-a15b-9e1d393dcc64" class="sf-depth-4 sf-no-children">
+              <a href="/en/mandate-cpd" title="Mandate &amp; Activities of CPD" class="sf-depth-4">Mandate &amp; Activities of CPD</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc1425caa-bdf5-481d-af3b-d760cf1916a0" class="sf-depth-4 sf-no-children">
+              <a href="/en/officials-and-staff-details" title="Officials and Staff details" class="sf-depth-4">Officials and Staff details</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+            
+  <li id="main-menu-link-content255b4179-450a-4496-86e8-3f09d718dcea" class="sf-depth-3 menuparent">
+              <span title="Innovation Management Directorate" class="sf-depth-3 menuparent nolink">Innovation Management Directorate</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-content3e343c0e-1847-450b-a9b2-fef4cb12af52" class="sf-depth-4 sf-no-children">
+              <a href="/en/mandate-imd" title="Mandate of IMD" class="sf-depth-4">Mandate of IMD</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content565c9a68-b101-4234-9bc2-6bd32591b49a" class="sf-depth-4 sf-no-children">
+              <a href="/en/scientists-and-staff-imd" title="Details of Staff of the Directorate" class="sf-depth-4">Details of Staff of the Directorate</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-contentcf4e0086-7496-485a-be07-d7628bc43ac5" class="sf-depth-4 menuparent">
+              <span title="Activities of IMD" class="sf-depth-4 menuparent nolink">Activities of IMD</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-content767bcc59-9de7-474e-ab78-e4b0af4d74b7" class="sf-depth-5 sf-no-children">
+              <a href="/en/hcp-and-mlp-projects" title="HCP and MLP Projects" class="sf-depth-5">HCP and MLP Projects</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content07f3d509-5759-4fd0-baf8-91cabab662d7" class="sf-depth-5 sf-no-children">
+              <a href="/en/mission-mode-project" title="Mission Mode Project" class="sf-depth-5">Mission Mode Project</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentb7ed27ae-5fe1-46a3-b3c0-55ab679b58a1" class="sf-depth-5 sf-no-children">
+              <a href="/en/fast-track-translation-and-fast-track-commercialization-projects" title="Fast Track Translation and Fast Track Commercialization Projects" class="sf-depth-5">Fast Track Translation and Fast Track Commercialization Projects</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+
+      </ul>              </li>
+
+
+  
+  <li id="main-menu-link-contentf25081fb-f3b4-4123-8766-764a5b949b1a" class="sf-depth-3 sf-no-children">
+              <a href="/en/intellectual-property-directorate-ipd" title="Innovation Protection Unit (IPU)" class="sf-depth-3">Innovation Protection Unit (IPU)</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentd454317f-3089-4051-8ca6-f7ffa75518ef" class="sf-depth-3 sf-no-children">
+              <a href="/en/technology-management-directorate" title="Technology Management Directorate" class="sf-depth-3">Technology Management Directorate</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content325c3894-aaf3-4cbc-8f6b-53e1e38ce56e" class="sf-depth-3 sf-no-children">
+              <a href="/en/csir-unit-research-and-development-information-products-urdip" title="CSIR Unit for Research and Development of Information Products (URDIP)" class="sf-depth-3">CSIR Unit for Research and Development of Information Products (URDIP)</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-contente3cbd5fe-4278-4c50-ac43-ba391976e801" class="sf-depth-3 menuparent">
+              <span title="International S&amp;T Affairs Directorate" class="sf-depth-3 menuparent nolink">International S&amp;T Affairs Directorate</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-content0767e898-4598-4d29-9e97-f29fd97f4adc" class="sf-depth-4 sf-no-children">
+              <a href="/en/istad" title="About ISTAD" class="sf-depth-4">About ISTAD</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentac5876c4-c25e-4ea5-a832-88620f216ca7" class="sf-depth-4 sf-no-children">
+              <a href="/en/csir-istad-forms" title="CSIR ISTAD Forms" class="sf-depth-4">CSIR ISTAD Forms</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-content7f045a49-053f-41dc-8ba9-852eee21f1cd" class="sf-depth-4 menuparent">
+              <span title="FAQs/ OMs/ Procedural Information" class="sf-depth-4 menuparent nolink">FAQs/ OMs/ Procedural Information</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-contentc8248766-b107-4912-aa78-10994595c5c8" class="sf-depth-5 sf-no-children">
+              <a href="/en/istad-accr-faqs" title="FAQs" class="sf-depth-5">FAQs</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content0d2138e4-bce9-434a-b80b-6433ac9db64b" class="sf-depth-5 sf-no-children">
+              <a href="/en/information-istad" title=" ISTAD’s Procedural Information" class="sf-depth-5"> ISTAD’s Procedural Information</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content18871a80-4c0c-4ec0-b4e5-6044e5315292" class="sf-depth-5 sf-no-children">
+              <a href="/en/om-issued-by-csir-and-various-ministries-departments" title="International Cooperation related OMs" class="sf-depth-5">International Cooperation related OMs</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+  
+  <li id="main-menu-link-contente8f46a34-33aa-48e0-92ef-bdd171b18cc0" class="sf-depth-4 sf-no-children">
+              <a href="/en/International-R-and-D-Updates" title="International R&amp;D updates" class="sf-depth-4">International R&amp;D updates</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentb3c180ee-b805-445d-b4f0-d2fbd3251c62" class="sf-depth-4 sf-no-children">
+              <a href="/en/news-call-for-proposals-announcements" title="International Cooperation Opportunities" class="sf-depth-4">International Cooperation Opportunities</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content74a16474-1985-400e-a276-b67a1e7a127c" class="sf-depth-4 sf-no-children">
+              <a href="/en/team-istad-directory" title="Contact Us ISTAD" class="sf-depth-4">Contact Us ISTAD</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentec2e0326-2377-493b-ab4c-93c49eb6497c" class="sf-depth-4 sf-no-children">
+              <a href="/en/csir-science-diplomacy-journal" title="Science Diplomacy Journal" class="sf-depth-4">Science Diplomacy Journal</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content7e001847-9e28-459d-be80-ddcc258af511" class="sf-depth-4 sf-no-children">
+              <a href="https://www.csir.res.in/csir-outreach" title="CSIR Outreach" class="sf-depth-4 sf-external">CSIR Outreach</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+            
+  <li id="main-menu-link-content8e3d1afa-87d1-4693-bd7f-99984faf1892" class="sf-depth-3 menuparent">
+              <span title="Science Communication and Dissemination Directorate (SCDD)" class="sf-depth-3 menuparent nolink">Science Communication and Dissemination Directorate (SCDD)</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-contentfaecc526-67d2-4c1f-a46a-56b38e5a5cad" class="sf-depth-4 sf-no-children">
+              <a href="/en/science-communication-and-dissemination-directorate-scdd/mandate-of-SCDD" title="Mandate of SCDD" class="sf-depth-4">Mandate of SCDD</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content5341d8ed-8e5a-4334-be28-06736c68327c" class="sf-depth-4 sf-no-children">
+              <a href="/en/science-communication-and-dissemination-directorate-scdd/list-of-staff" title="Officials and Staff details" class="sf-depth-4">Officials and Staff details</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+  
+  <li id="main-menu-link-contentf414bb99-9acc-48d5-ba04-2140fba272a9" class="sf-depth-3 sf-no-children">
+              <a href="/en/DG%E2%80%99s-executive-directorate" title="Director General’s Executive Directorate (DGED)" class="sf-depth-3">DG’s Executive Directorate</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content04c40077-1f24-4ac2-8c16-b2c5174e4ec0" class="sf-depth-3 sf-no-children">
+              <a href="/en/csir-innovation-complex-mumbai-c-icm" title="CSIR-Innovation Complex Mumbai (C-ICM)" class="sf-depth-3">CSIR-Innovation Complex Mumbai (C-ICM)</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+  
+  <li id="main-menu-link-content49072d35-bf12-47c6-b087-ff6a5d137a14" class="sf-depth-2 sf-no-children">
+              <a href="/en/about-us/csir-annual-accounts" title="CSIR Annual Accounts" class="sf-depth-2">CSIR Annual Accounts</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content168fba04-cb4f-4c2c-9e29-a19ef26eb191" class="sf-depth-2 sf-no-children">
+              <a href="/en/annual-report" class="sf-depth-2">Annual Report</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content616daaeb-2c49-47ed-881d-d51d56f70f03" class="sf-depth-2 sf-no-children">
+              <a href="/en/csir-annual-grantsbudget" title="CSIR Annual Grants/Budget" class="sf-depth-2">CSIR Annual Grants/Budget</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentbc59d16b-e8b5-4898-bbed-b655af406e4f" class="sf-depth-2 sf-no-children">
+              <a href="/en/about-us/former-director-generals" title="Former Director Generals" class="sf-depth-2">Former Director Generals</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content1381355c-0bcb-4c3a-8643-e4889f5bc17c" class="sf-depth-2 sf-no-children">
+              <a href="/en/about-us/faqs" title="FAQs" class="sf-depth-2">FAQs</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content802a8351-f891-4e43-981c-6525bdd5797f" class="sf-depth-2 sf-no-children">
+              <a href="/en/obituary" title="Obituary" class="sf-depth-2">Obituary</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content4037e071-01fc-40eb-a9f5-bb69bebe6f9d" class="sf-depth-2 sf-no-children">
+              <a href="/en/flipbook/2" title="Rules &amp; Regulations &amp; Bye Laws" class="sf-depth-2">Rules &amp; Regulations &amp; Bye Laws</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content4d91304a-844b-4dbd-b45e-ce3780a454eb" class="sf-depth-2 sf-no-children">
+              <a href="https://guesthouse.csir.res.in" title="CSIR - MBSA Booking" class="sf-depth-2 sf-external">CSIR - MBSA Booking</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+            
+  <li id="main-menu-link-content20dd8b57-413d-48e1-9409-be2dc66e2f88" class="sf-depth-1 menuparent">
+              <span title="R &amp; D Activities" class="sf-depth-1 menuparent nolink">R &amp;D Activities</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-content0119b944-500a-4d5f-acad-a47efae8e613" class="sf-depth-2 sf-no-children">
+              <a href="/en/csir-theme-directorates" title="CSIR theme directorates" class="sf-depth-2">CSIR theme directorates</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content1b98f633-17af-4275-93a9-4f787432a859" class="sf-depth-2 sf-no-children">
+              <a href="/en/research-publication" title="Research Publication" class="sf-depth-2">Research Publication</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content3a07479d-d4b5-4735-8529-6ea4f31b98cc" class="sf-depth-2 sf-no-children">
+              <a href="/en/rd-projects-csir" title="R&amp;D Projects of CSIR" class="sf-depth-2">R&amp;D Projects of CSIR</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc8a31508-26d7-4f41-975a-77f0204ba7ac" class="sf-depth-2 sf-no-children">
+              <a href="/en/technology-transfer" title="Technology Transfer" class="sf-depth-2">Technology Transfer</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content849dd5e0-09f2-4cb3-8668-d7f6701dbb4c" class="sf-depth-2 sf-no-children">
+              <a href="/en/r-d-activities/compendium-technologies" title="Compendium of Technologies" class="sf-depth-2">Compendium of Technologies</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-content48fed5e4-7900-40d9-a6ba-b6bb3cb90f9c" class="sf-depth-2 menuparent">
+              <span title="Reports" class="sf-depth-2 menuparent nolink">Reports</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-contenta7a1a47d-c1f1-4ffe-8a8f-2057d3261e91" class="sf-depth-3 sf-no-children">
+              <a href="https://www.csir.res.in/flipbook/44" title="Outcome Review of CSIR Schemes" class="sf-depth-3 sf-external">Outcome Review of CSIR Schemes</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+
+      </ul>              </li>
+
+
+            
+  <li id="main-menu-link-content5218a703-c423-4ccc-bc1e-20d3b954f6a7" class="sf-depth-1 menuparent">
+              <span title="Achievements" class="sf-depth-1 menuparent nolink">Achievements</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-contentc2f8448d-a6ca-4414-b5ec-064e75910183" class="sf-depth-2 sf-no-children">
+              <a href="/en/achievements/appreciation-letters" title="Appreciation Letters" class="sf-depth-2">Appreciation Letters</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content1860ce4b-7efe-4dc3-97db-af0f1e4a2018" class="sf-depth-2 sf-no-children">
+              <a href="/en/latest-achievements" class="sf-depth-2">Latest Achievements</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta30a0146-c0ba-4bd7-8d73-4e90990a3b10" class="sf-depth-2 sf-no-children">
+              <a href="/en/flipbook/59" title="CSIR@85: Select 85 Technologies" class="sf-depth-2">CSIR@85: Select 85 Technologies</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-content43a47071-d035-4456-8150-f423ffeb6c17" class="sf-depth-2 menuparent">
+              <span title="CSIR Success Stories and Milestones" class="sf-depth-2 menuparent nolink">CSIR Success Stories and Milestones</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-contentb4323fac-cb9f-43a7-a95a-de9a68e66342" class="sf-depth-3 sf-no-children">
+              <a href="https://techindiacsir.anusandhan.net/online/Control.do?_sucstr=" title="CSIR Success Stories" class="sf-depth-3 sf-external">CSIR Success Stories</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta19e5259-be96-4580-ab7e-5b0751259539" class="sf-depth-3 sf-no-children">
+              <a href="/en/csir-milestones" title="csir-milestones" class="sf-depth-3">CSIR Milestones</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+
+      </ul>              </li>
+
+
+            
+  <li id="main-menu-link-content7a8c3566-f9e1-4931-9ffd-886466ce5a6f" class="sf-depth-1 menuparent">
+              <span title="Collaborations" class="sf-depth-1 menuparent nolink">Collaborations</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-contentc5a38ee7-ed94-40c3-8b9c-00f2233b4fd7" class="sf-depth-2 sf-no-children">
+              <a href="/en/collaborations/mous-signed" title="MOUs Signed" class="sf-depth-2">MOUs Signed</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-content6dfa4293-d970-41fd-8909-beb75a984a33" class="sf-depth-2 menuparent">
+              <span title="NMITLI" class="sf-depth-2 menuparent nolink">NMITLI</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-contentb6a725d1-509a-46e8-9a7f-8a98cc8eca9f" class="sf-depth-3 sf-no-children">
+              <a href="/en/NMITLI/about-nmitli" title="About NMITLI" class="sf-depth-3">About NMITLI</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+
+      </ul>              </li>
+
+
+            
+  <li id="main-menu-link-content9cb33108-8535-4e7a-81f9-78f70bfde2fe" class="sf-depth-1 menuparent">
+              <span title="CSIR in Media" class="sf-depth-1 menuparent nolink">CSIR in Media</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-content72eb07b7-fe37-4908-b024-626ac8deee72" class="sf-depth-2 sf-no-children">
+              <a href="/en/news-bulletin" title="News Bulletin" class="sf-depth-2">News Bulletin</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentd7b474d9-37e3-4aa2-91d4-fb096c448864" class="sf-depth-2 sf-no-children">
+              <a href="/en/press-release" title="Press Release" class="sf-depth-2">Press Release</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content14125403-137a-4440-8d80-08fabb9d280a" class="sf-depth-2 sf-no-children">
+              <a href="https://niscpr.res.in/periodicals/csirnews" title="CSIR News" class="sf-depth-2 sf-external">CSIR News</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc0c69759-5e32-44fe-949a-c2b95806f5a1" class="sf-depth-2 sf-no-children">
+              <a href="https://niscpr.res.in/periodicals/csirsamachar" title="CSIR Samachar" class="sf-depth-2 sf-external">CSIR Samachar</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content4d69e75d-9949-436d-a3bd-1d8198b6e1dd" class="sf-depth-2 sf-no-children">
+              <a href="https://www.youtube.com/channel/UC-ZY_sMrNWx-gNxtEA6L9Uw" title="CSIR India YouTube" class="sf-depth-2 sf-external">CSIR India YouTube</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc9679475-333e-49d7-9562-df6393b7147d" class="sf-depth-2 sf-no-children">
+              <a href="/en/photo-gallery" title="Photo Gallery" class="sf-depth-2">Photo Gallery</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content9d8d53ef-b7d9-4585-b292-0865dd9ab1dd" class="sf-depth-2 sf-no-children">
+              <a href="https://newindiasamachar.pib.gov.in/" title="New India Samachar" class="sf-depth-2 sf-external">New India Samachar</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentf75b2be1-4016-4949-9958-6dca272d363a" class="sf-depth-2 sf-no-children">
+              <a href="/en/csir-events" title="CSIR Events" class="sf-depth-2">CSIR Events</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content78be1d4c-2968-4048-9191-7dba7e7a635d" class="sf-depth-2 sf-no-children">
+              <a href="/en/csirtechconnect" title="CSIR TechConnect" class="sf-depth-2">CSIR TechConnect</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+  
+  <li id="main-views-viewviewscommon-content-categorypage-3" class="sf-depth-1 sf-no-children">
+              <a href="/en/corporate-social-responsibility-csr" title="Corporate Social Responsibility (CSR)" class="sf-depth-1">CSR</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content1b0ca542-685c-4c89-8ebd-89b74ab78d87" class="sf-depth-1 sf-no-children">
+              <a href="/en/scientific-social-responsibility" title="Scientific Social Responsibility" class="sf-depth-1">SSR</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-content08d3dbd1-2118-4d11-aa3b-80a4e4130b89" class="sf-depth-1 menuparent">
+              <span title="CSIR Blog" class="sf-depth-1 menuparent nolink">CSIR Blog</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-contentf692fb21-31bb-49b4-bbf5-cd4a033f6076" class="sf-depth-2 sf-no-children">
+              <a href="/en/blog-csir/success-stories" title="CSIR Success Stories" class="sf-depth-2">CSIR Success Stories</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content5fca3081-c349-41f7-8333-ee45e7aacfbe" class="sf-depth-2 sf-no-children">
+              <a href="/en/blog-csir/science-stories" title="CSIR Science Stories" class="sf-depth-2">CSIR Science Stories</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta5ee7dff-93c5-4a5d-a510-ccf6e89e070d" class="sf-depth-2 sf-no-children">
+              <a href="/en/blog-csir/SciArt" title="CSIR SciArt" class="sf-depth-2">CSIR SciArt</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+            
+  <li id="main-menu-link-content8429761d-ac52-448f-8a2e-87fccee13f78" class="sf-depth-1 menuparent">
+              <span title="ETHICS AT CSIR" class="sf-depth-1 menuparent nolink">ETHICS AT CSIR</span>
+                  <ul>      
+
+
+  
+  <li id="main-menu-link-content03b8a28e-d80c-46d6-a42a-93727d66d1c0" class="sf-depth-2 sf-no-children">
+              <a href="/en/about-sec-csir" title="About SEC-CSIR" class="sf-depth-2">About SEC-CSIR</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentdcce77c9-ce7d-4fdd-a53b-00dd9c3a5442" class="sf-depth-2 sf-no-children">
+              <a href="/en/declaration-form" title="Declaration Form" class="sf-depth-2">Declaration Form</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentddcaadd0-33fc-49fd-bb88-ffcfaca0039b" class="sf-depth-2 sf-no-children">
+              <a href="/en/ethics-csir/external-resources" title="External Resources" class="sf-depth-2">External Resources</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content5a6d0a91-f390-4e89-8263-d723b5510119" class="sf-depth-2 sf-no-children">
+              <a href="/en/conflict-interest-statement-formats" title="Conflict of Interest Statement Formats" class="sf-depth-2">Conflict of Interest Statement Formats</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content3e380921-c010-4f1b-9e78-edbc96c53129" class="sf-depth-2 sf-no-children">
+              <a href="/en/c-dis-template" title="C-DIS Template" class="sf-depth-2">C-DIS Template</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content676bbcca-2088-416d-8f9b-c8eae9ea0282" class="sf-depth-2 sf-no-children">
+              <a href="/en/flipbook/40" title="CSIR Ethics Guidelines" class="sf-depth-2">CSIR Ethics Guidelines</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentb28ee031-a7da-4e56-beff-5ffb110371f6" class="sf-depth-2 sf-no-children">
+              <a href="/en/list-csir-ethics-officers" title="List of CSIR Ethics and Safety Officers" class="sf-depth-2">List of CSIR Ethics and Safety Officers</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content7a2026f2-3200-4644-8dcb-cf9ec308634f" class="sf-depth-2 sf-no-children">
+              <a href="/en/ethics-at-CSIR/events" title="Events" class="sf-depth-2">Events</a>
+                      </li>
+
+
+
+      </ul>              </li>
+
+
+  
+  <li id="main-menu-link-content734e3c71-18f8-4b16-88a8-cf3bf7b66ae1" class="sf-depth-1 sf-no-children">
+              <a href="/en/career-opportunities/recruitment" title="Recruitments" class="sf-depth-1">Recruitments</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content76fa809c-6f02-4b38-b31a-a66570c3d273" class="sf-depth-1 sf-no-children">
+              <a href="/en/video-gallery/amrit-lecture" title="CSIR Accelerating Modern Research, Innovation and Technology [AMRIT] Lectures" class="sf-depth-1">AMRIT Lectures</a>
+                      </li>
+
+
+
+</ul>
+
+  </div>
+
+  </div>
+
+                     </div>
+      </section>
+      <!-- -------------------- Navbar end -------------------- -->
+      <!-- -------------------- Page Banner -------------------- -->
+      <section class="banner">
+         <div class="Inner-page-banner">
+                          <div>
+    <div id="block-innerbannercsir">
+  
+    
+      
+            <div><img data-entity-uuid="98580b14-f8b8-4743-b727-2fd97380f63a" data-entity-type="file" src="/sites/default/files/inline-images/csir-inner-page-bg.png" alt="Inner-banner-csir" width="1920" height="180" loading="lazy" /></div>
+      
+  </div>
+
+  </div>
+
+                     </div>
+      </section>
+      <!-- -------------------- Page Banner -------------------- -->
+      <!-- -------------------- board start -------------------- -->
+      <section class="boards-wrapper-bread">
+         <div class="container">
+                          <div>
+    <div id="block-csir-breadcrumbs">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/en">Home</a>
+              </li>
+          <li>
+                  Documents
+              </li>
+          <li>
+                  Traditional Knowledge Digital Library Unit (TKDL)
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+  </div>
+
+                     </div>
+      </section>
+      <!-- -------------------- boards end -------------------- --> 
+      <section class="print-button-wrapper">
+         <div class="container">
+                     </div>
+      </section>
+  <section class="container full" id="skipCont">
+	<div class="row">
+	  <div class="inner-page-content col-lg-12 col-md-12 departmentside">
+		
+		  <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+		
+					
+					<div class="sidebar-first no-sidebar">
+				
+			</div>
+				
+			<div class="content-area no-sidebar">
+		
+					  <div>
+    <div id="block-csir-page-title">
+  
+    
+      
+  <h1>
+<span>Traditional Knowledge Digital Library Unit (TKDL)</span>
+</h1>
+
+
+  </div>
+<div id="block-tkdl">
+  
+    
+      <div class="quicktabs-wrapper" id="quicktabs-traditional_knowledge_digital_li"><ul class="quicktabs-tabs" role="tablist"><li role="tab" aria-controls="quicktabs-tabpage-traditional_knowledge_digital_li-0" aria-selected="true" id="quicktabs-tab-traditional_knowledge_digital_li-0" tabIndex="-1" class="active traditional-quicktab about-tkdl" tabindex="0"><a href="/en/quicktabs/nojs/traditional_knowledge_digital_li/0" class="use-ajax quicktabs-loaded" data-quicktabs-tab-index="0">About TKDL</a></li><li role="tab" aria-controls="quicktabs-tabpage-traditional_knowledge_digital_li-1" aria-selected="false" id="quicktabs-tab-traditional_knowledge_digital_li-1" tabIndex="-1" class="traditional-quicktab tkdl-journey"><a href="/en/quicktabs/nojs/traditional_knowledge_digital_li/1" class="use-ajax" data-quicktabs-tab-index="1">TKDL Journey</a></li><li role="tab" aria-controls="quicktabs-tabpage-traditional_knowledge_digital_li-2" aria-selected="false" id="quicktabs-tab-traditional_knowledge_digital_li-2" tabIndex="-1" class="traditional-quicktab contact-information"><a href="/en/quicktabs/nojs/traditional_knowledge_digital_li/2" class="use-ajax" data-quicktabs-tab-index="2">Contact Information</a></li><li role="tab" aria-controls="quicktabs-tabpage-traditional_knowledge_digital_li-3" aria-selected="false" id="quicktabs-tab-traditional_knowledge_digital_li-3" tabIndex="-1" class="traditional-quicktab outcomes-against-bio-piracy"><a href="/en/quicktabs/nojs/traditional_knowledge_digital_li/3" class="use-ajax" data-quicktabs-tab-index="3">Outcomes against Bio-Piracy</a></li></ul><div class="quicktabs-main" id="quicktabs-container-traditional_knowledge_digital_li"><div id="quicktabs-tabpage-traditional_knowledge_digital_li-0" class="quicktabs-tabpage" role="tabpanel" aria-labelledby="quicktabs-tab-traditional_knowledge_digital_li-0" tabindex="0">
+<div class="quicktabs-block-title"></div>
+<div><div class="views-element-container"><div class="js-view-dom-id-f870df57bca1fd46c7ba59d1f571788ae4ef75ce0afac9d74b8a5998b5a2c41d">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="views-row"><p>The Traditional Knowledge Digital Library (TKDL) is a pioneering initiative of India to protect Indian traditional medicinal knowledge and prevent its misappropriation due to wrong grant of patents. Traditional Knowledge (TK) is a valuable yet vulnerable asset to indigenous and local communities who depend on TK for their livelihood. In the context of traditional medicine for instance, the healthcare needs of a vast population and livelihood of millions of people in India is dependent on traditional medicine. Globally, too there has been renewed attention and interest in the use of traditional medicine increasing its vulnerability to exploitation. The grant of a US patent to wound healing properties of turmeric flagged the danger of complacence in proactively guarding the traditional knowledge. The time, effort and money spent on revocation of turmeric patent at USPTO highlighted the need for putting in place a proactive mechanism for TK protection. The problem related to Indian TK is further compounded by the fact that India’s traditional medicinal knowledge exists in languages such as Sanskrit, Hindi, Arabic, Urdu, Tamil etc. that too in ancient local dialects that are no more in practice. Thus, the published Indian TK literature is neither accessible nor understood by patent examiners at international patent offices. Such challenges exist in all forms of traditional knowledge in India, making them susceptible to misappropriation.</p><p>Traditional Knowledge Digital Library has overcome the language and format barrier by systematically and scientifically converting and structuring the available content of the ancient texts on Indian Systems of Medicines i.e. Ayurveda, Siddha, Unani and Sowa Rigpa as well as Yoga, into five international languages, namely, English, Japanese, French, German and Spanish, with the help of information technology tools and an innovative classification system - Traditional Knowledge Resource Classification (TKRC). As on date, more than 5.0 lakh formulations/ practices have been transcribed into the TKDL database.</p><p>TKDL technology integrates diverse disciplines such as Ayurveda, Unani, Siddha, Yoga, modern science &amp; modern medicine as well as diverse languages such as Sanskrit, Arabic, Urdu, Persian, Tamil, English, Japanese, Spanish, French, German. Currently, TKDL is based on texts of Indian Systems of Medicine, which are available in open domain and can be sourced by any individual/organization at national/international level. TKDL acts as a bridge between these texts (prior art) and patent examiners worldwide.</p><p>Currently, TKRC has structured and classified the Indian Traditional Medicine System into several thousand subgroups for Ayurveda, Unani, Siddha and Yoga. The creation of the TKDL and TKRC enabled incorporation of about 200 sub-groups under A61K 36/00 in International Patent Classification instead of few sub-groups earlier available on medicinal plants under A61K 35/00, thus enhancing the quality of search and examination of priorart with respect to patent applications field in the area of traditional knowledge.</p><p>The TKDL has also set international specifications and standards for setting up of TK databases based on TKDL specifications. This was adopted in 2003 by the Intergovernmental Committee (IGC) of WIPO on Intellectual Property and Genetic Resources, Traditional Knowledge and Expression of Folklore in their Fifth session. As of May 2024, the much-awaited WIPO treaty on Intellectual Property genetic resources (GR) and associated TK was concluded. Notable is that in the Article 6 recommends establishing information systems such as databases of GR associated TK. This is a recognition of the efforts leading to the creation of TKDL and its immense utility.</p><p>At present, as per the approval of Cabinet Committee on Economic Affairs, access of TKDL is available to seventeen Patent Offices (European Patent Office, United State Patent &amp; Trademark Office, Japan Patent Office, United Kingdom Patent Office, Canadian Intellectual Property Office, German Patent Office, Intellectual Property Australia, Indian Patent Office, Chile Patent Office, Intellectual Property Corporation of Malaysia, Rospatent- Intellectual Property Office of Russia, Peru Patent Office, Spanish Patent and Trademark Office, Danish Patent, Trademark office, National Industrial Property Institute, France and Eurasian Patent Organization), and Intellectual Property Office of the Philippines under TKDL Access (Non-disclosure) Agreement. As per the terms and conditions of the Access agreement, examiners of patent office can utilize TKDL for search and examination purposes only and cannot reveal the contents of TKDL to any third party unless it is necessary for the purpose of citation. TKDL Access Agreement comprises in-built safeguards on non-disclosure to protect India’s interest against any possible misuse.</p><p>In addition, third party submissions or pre-grant oppositions (as per provisions available in national laws) are being filed at various Patent Offices, along with prior art evidences from TKDL. Significant impact has already been realized. So far globally close to 370 patent applications have either been rejected/ set aside/ withdrawn/ amended/ abandoned based on the prior art evidences present in the TKDL database. This is with minimal cost and in a short period of time, whereas APEDA had to spend about seven crores towards legal fee only for getting few claims of Basmati rice patent revoked.</p><p>The TKDL is proving to be an effective deterrent against bio-piracy and has been recognized internationally as a unique effort. TKDL has set a benchmark in TK protection around the world, particularly in TK-rich countries, by demonstrating the advantages of proactive action and the power of strong deterrence. The key here is preventing the wrong grant of patents by ensuring access to TK related prior art for patent examiners, without restricting the use of traditional knowledge.</p><p>Work towards digitization of traditional agricultural practices and traditional metallurgical knowledge from India into the TKDL has been initiated.</p><p>For further query on TKDL and Access Agreement (for Patent Offices), contact Head, CSIR-Traditional Knowledge Digital Library Unit (email: <a href="mailto:head.tkdl@csir.res.in">head[dot]tkdl[at]csir[dot]res[dot]in)</a></p><p> </p></div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+</div>
+</div>
+<div id="quicktabs-tabpage-traditional_knowledge_digital_li-1" class="quicktabs-tabpage quicktabs-hide" role="tabpanel" aria-labelledby="quicktabs-tab-traditional_knowledge_digital_li-1" tabindex="0">
+<div class="quicktabs-block-title"></div>
+<div>Loading content ...</div>
+</div>
+<div id="quicktabs-tabpage-traditional_knowledge_digital_li-2" class="quicktabs-tabpage quicktabs-hide" role="tabpanel" aria-labelledby="quicktabs-tab-traditional_knowledge_digital_li-2" tabindex="0">
+<div class="quicktabs-block-title"></div>
+<div>Loading content ...</div>
+</div>
+<div id="quicktabs-tabpage-traditional_knowledge_digital_li-3" class="quicktabs-tabpage quicktabs-hide" role="tabpanel" aria-labelledby="quicktabs-tab-traditional_knowledge_digital_li-3" tabindex="0">
+<div class="quicktabs-block-title"></div>
+<div>Loading content ...</div>
+</div>
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+							  <div>
+    <div class="views-element-container" id="block-csir-views-block-basic-page-block-1">
+  
+    
+      <div><div class="js-view-dom-id-533d2c243cd357b839ee15ec367718fe1af28888a59aa4fe28dc6bafb3b89fb1">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="views-row"><div class="views-field views-field-body"><div class="field-content"></div></div></div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+<div class="views-element-container" id="block-csir-views-block-csir-nasb-form-block-1">
+  
+    
+      <div><div class="js-view-dom-id-b4dbaad41f37c977102fe90cb6e89726d9e3ace55f19f8413a600fc36d549982">
+  
+  
+  
+
+  
+  
+  
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+<div class="views-element-container" id="block-csir-views-block-homepage-slider-block-3">
+  
+    
+      <div><div class="js-view-dom-id-abe358de448e0d16080ea68485936fb0bf751e48b2eec3be8ef14304fe76e174">
+  
+  
+  
+
+  
+  
+  
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+				
+		</div>
+	  </div>
+		</div>
+	</section>
+      <!-- -------------------- footer slider start -------------------- -->
+      <section class="footer-slider">
+         <div class="container">
+            <div id="flexCarousel" class="flexslider footer-corousel footer-slider-b">
+                                <div>
+    <div class="views-element-container" id="block-views-block-footer-banner-block-1">
+  
+    
+      <div><div class="js-view-dom-id-b2b3cb164cafca5261b60cd587f85407ed1aa1d4aa824f1a29c787adeec72c96">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="item-list">
+  
+  <ul class="slides">
+
+          <li><a href="https://apctt.org/" title="APCTT " target="_blank">  <img loading="lazy" src="/sites/default/files/2026-07/apctt1.png" width="200" height="87" alt="APCTT " title="APCTT " />
+
+ </a></li>
+          <li><a href="https://kheloindia.gov.in/" title="Khelo India" target="_blank">  <img loading="lazy" src="/sites/default/files/2026-06/khelo-india-image4.png" width="200" height="87" alt="Khelo India" title="Khelo India" />
+
+ </a></li>
+          <li><a href="https://covid19csir.urdip.res.in/" title="CSIR Against COVID-19" target="_blank">  <img loading="lazy" src="/sites/default/files/2025-07/covid-banner.png" width="200" height="87" alt="CSIR Against COVID-19" title="CSIR Against COVID-19" />
+
+ </a></li>
+          <li><a href="https://www.cooperation.gov.in/" title="IYC" target="_blank">  <img loading="lazy" src="/sites/default/files/2025-06/iyc-logo-image.png.png" width="200" height="87" alt="IYC" title="IYC" />
+
+ </a></li>
+          <li><a href="/en/csir-one-week-one-lab-program" title="One Week One Lab" target="_blank">  <img loading="lazy" src="/sites/default/files/2024-01/one-week%C5%8Dne-lab.png" width="200" height="87" alt="One Week one Lab" title="One Week one Lab" />
+
+ </a></li>
+          <li><a href="" title="Integrity Pledge" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/integrity-pledge%201.png" width="200" height="87" alt="Integrity Pledge" title="Integrity Pledge" />
+
+ </a></li>
+          <li><a href="https://www.g20.org/en/" title="G20" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/g20_banner1.png" width="200" height="87" alt="G20" title="G20" />
+
+ </a></li>
+          <li><a href="https://www.india.gov.in/" title="India Gov" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/india-govn_0.png" width="200" height="87" alt="India Gov" title="India Gov" />
+
+ </a></li>
+          <li><a href="/en/cyber-jaagrookta" title="Cyber Jaagrookta" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/cyberjaagrokta.png" width="200" height="87" alt="Cyber Jaagrookta" title="Cyber Jaagrookta" />
+
+ </a></li>
+          <li><a href="https://www.mygov.in/" title="MyGov" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/mygov%201.png" width="200" height="87" alt="MyGov" title="MyGov" />
+
+ </a></li>
+          <li><a href="https://www.aarogyapath.in/" title="Aarogyapath" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/arogyapath.png" width="200" height="87" alt="Aarogyapath" title="Aarogyapath" />
+
+ </a></li>
+          <li><a href="https://pgportal.gov.in/" title="Portal For Public Grievances" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/pg-portal_0%201.png" width="200" height="87" alt="Portal For Public Grievances" title="Portal For Public Grievances" />
+
+ </a></li>
+          <li><a href="https://twitter.com/cyberdost?lang=en" title="Cyber Dost" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/cyber-dost%201.png" width="200" height="87" alt="Cyber Dost" title="Cyber Dost" />
+
+ </a></li>
+          <li><a href="https://services.india.gov.in/" title="National Government Services Portal" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/services_portal-GSP1%201.png" width="200" height="87" alt="National Government Services Portal" title="National Government Services Portal" />
+
+ </a></li>
+          <li><a href="https://transformingindia.mygov.in/" title="Transforming India" target="_blank">  <img loading="lazy" src="/sites/default/files/2023-08/img-1%201.png" width="200" height="87" alt="Transforming India" title="Transforming India" />
+
+ </a></li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+                           </div>
+         </div>
+      </section>
+      <!-- -------------------- footer slider end -------------------- -->
+      <!-- -------------------- footer bottom start -------------------- -->
+      <section class="footer-wrapper">
+         <div class="container-fluid footer-bottom">
+                          <div>
+    <nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        
+              <ul class="footer-menu container d-flex justify-content-center list-unstyled">
+              <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/website-policies" title="Website Policies" data-drupal-link-system-path="node/3">Website Policies</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/help" title="Help" data-drupal-link-system-path="node/538">Help</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/csir/contact" title="Feedback" data-drupal-link-system-path="webform/contact">Feedback</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/Contact-us" title="Contact us" data-drupal-link-system-path="node/459">Contact us</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/Web-Information-Manager" title="Web Information Manager" data-drupal-link-system-path="node/477">Web Information Manager</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/cyber-jaagrookta" title="Cyber Jaagrookta" data-drupal-link-system-path="node/1615">Cyber Jaagrookta</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/Public-Grievances" title="Public Grievances" data-drupal-link-system-path="node/478">Public Grievances</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/Terms-and-Conditions" title="Terms &amp; Conditions" data-drupal-link-system-path="node/481">Terms &amp; Conditions</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="http://spb.ncl.res.in/" title="Sports Promotion Board">Sports Promotion Board</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/tenders" title="Tenders" data-drupal-link-system-path="tenders">Tenders</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/csir-directory" title="CSIR Directory" data-drupal-link-system-path="csir-directory">CSIR Directory</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/forms" title="Forms" data-drupal-link-system-path="forms">Forms</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/about-us/faqs" title="FAQ" data-drupal-link-system-path="about-us/faqs">FAQ</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/knowledge-resource-center" title="Knowledge Resource Center" data-drupal-link-system-path="knowledge-resource-center">Knowledge Resource Center</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/notification" title="Notification" data-drupal-link-system-path="notification">Notification</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/IEM-Integrity-Pact" title="IEM Integrity Pact" data-drupal-link-system-path="node/482">IEM Integrity Pact</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/Disclaimer" title="Disclaimer" data-drupal-link-system-path="node/483">Disclaimer</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/covid-guidelines" title="COVID Guidelines" data-drupal-link-system-path="taxonomy/term/84">COVID Guidelines</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/archival-section" title="Archival Section" data-drupal-link-system-path="taxonomy/term/376">Archival Section</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/stores-purchase-universe" title="Stores - Purchase Universe" data-drupal-link-system-path="node/1229">Stores - Purchase Universe</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/finance-accounts-universe" title="Finance &amp; Accounts Universe" data-drupal-link-system-path="node/22672">Finance &amp; Accounts Universe</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/procurement-plan-of-csir-labs" title="Procurement Plans" data-drupal-link-system-path="procurement-plan-of-csir-labs">Procurement Plans</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/handling-of-complaints-of-sexual-harassment" title="Handling of Complaints of Sexual Harassment" data-drupal-link-system-path="handling-of-complaints-of-sexual-harassment">Handling of Complaints of Sexual Harassment</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/csir-logo" title="CSIR Logo" data-drupal-link-system-path="node/6527">CSIR Logo</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="https://sparrow-dsir.eoffice.gov.in/" title="Smart Performance Appraisal Report Recording Online Window">SPARROW</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="https://onlinecomplaint.csir.res.in/home/complaint" title="Lodge complaint with CVO,CSIR">Lodge complaint with CVO,CSIR</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/debarred-firms-in-whole-of-csir" title="Debarred Firms" data-drupal-link-system-path="debarred-firms-in-whole-of-csir">Debarred Firms</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="https://e-hrms.gov.in/login" title="e-HRMS">e-HRMS</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/best-practices" title="Best Practices" data-drupal-link-system-path="best-practices">Best Practices</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="/en/csir-owot-logo" title="CSIR OWOT Logo" data-drupal-link-system-path="node/18499">CSIR OWOT Logo</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="http://saraldata.csir.res.in/" title="SARAL Data Portal">SARAL Data Portal</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="https://datalink.csir.res.in/" title="SnP Datalink">SnP Datalink</a>
+              </li>
+          <li class="menu__item is-leaf leaf d-inline-block ms-2 me-2">
+        <a href="https://guesthouse.csir.res.in" title="CSIR-MBSA Guest-house Online Web Application">CSIR-MBSA Guest-house Online Web Application</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                        <div class="container m-auto d-flex justify-content-between">
+                 <div>
+    <div id="block-cbpsbanner">
+  
+    
+      
+            <div><div class="cbps-banner"><img style="cursor:pointer;" src="https://cbpssubscriber.mygov.in/assets/uploads/X0qP81f7lg3YqNFI?74?71" alt="Share your ideas" id="_bjvFE8DQEdO675zZ" onclick="javascript:window.open('https://cbpssubscriber.mygov.in/aff/bjvFE8DQEdO675zZ')" onload="javascript:(function(){if(typeof _done == 'undefined' || !_done){this.setAttribute('src', this.getAttribute('src')+'?'+Math.floor((Math.random() * 100) + 1)); _done=true;}}).call(this)" /></div></div>
+      
+  </div>
+
+  </div>
+
+                 <div>
+    <div id="block-footercontent">
+  
+    
+      
+            <div><p class="copyright-text">Website Content Owned and Managed by Council of Scientific &amp; Industrial Research, Copyright© 2023 All Rights Reserved: Designed by CSIR and Hosted by <a href="https://www.nic.in/" title="National Informatics Centre( NIC )" target="_blank">National Informatics Centre</a></p><p class="copyright-text">The site is best viewed in Mozilla, Chrome, Edge browsers.</p></div>
+      
+  </div>
+<div class="views-element-container" id="block-views-block-last-updated-block-1">
+  
+    
+      <div><div class="js-view-dom-id-f758f4b796afc755a49a6d283e1a9fded083c22f0260d950f8a73f5993f960dc">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><span class="copyright-text">Last Updated : <time datetime="2026-09-28T10:06:14+05:30">28/Sep/2026</time>
+</span></span></div></div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+                                <div>
+    <div id="block-csir-uneevisitorblock">
+  
+    
+      Total Visitor: 30236668
+  </div>
+<div id="block-csir-newslettersubscribeform-2">
+  
+      <h2>Subscribe to CSIR Daily News Bulletin, Enter Your Email ID </h2>
+    
+      <div><div id="newsletter-form-wrapper"><form class="node-newsletter-subscribe-form node-form" data-drupal-selector="node-newsletter-subscribe-form" action="/en/documents/tkdl" method="post" id="node-newsletter-subscribe-form" accept-charset="UTF-8">
+  <input data-drupal-selector="edit-changed" type="hidden" name="changed" value="1790593225" />
+<div class="field--type-string field--name-title field--widget-string-textfield js-form-wrapper form-wrapper" data-drupal-selector="edit-title-wrapper" id="edit-title-wrapper">      <div class="js-form-item form-item js-form-type-textfield form-item-title-0-value js-form-item-title-0-value">
+      <label for="edit-title-0-value" class="js-form-required form-required">Email Address</label>
+        <input class="js-text-full text-full form-text required" data-drupal-selector="edit-title-0-value" data-msg-maxlength="Email Address field has a maximum length of 255." data-msg-required="Email Address field is required." type="text" id="edit-title-0-value" name="title[0][value]" value="" size="60" maxlength="255" placeholder="" required="required" aria-required="true" />
+
+        </div>
+
+  </div>
+<input autocomplete="off" data-drupal-selector="form-t6eslfmntfwhkjdcrsozwcnknwmzyjyndtvxkcxnoh0" type="hidden" name="form_build_id" value="form-T6EslFMnTfwHkjdcrsOzwcNKnWMZYJYndTVxKCXnoH0" />
+<input data-drupal-selector="edit-node-newsletter-subscribe-form" type="hidden" name="form_id" value="node_newsletter_subscribe_form" />
+<div class="js-form-item form-item js-form-type-vertical-tabs form-item- js-form-item- form-no-label">
+      <label for="edit-advanced" class="visually-hidden">Vertical Tabs</label>
+        <div class="entity-meta" data-drupal-selector="edit-advanced" data-vertical-tabs-panes><input class="vertical-tabs__active-tab" data-drupal-selector="edit-advanced-active-tab" type="hidden" name="advanced__active_tab" value="" />
+</div>
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Subscribe" class="button button--primary js-form-submit form-submit" />
+</div>
+
+</form>
+</div></div>
+
+  </div>
+
+  </div>
+
+                              <div>
+                    <div>
+    <div id="block-stqclogo">
+  
+    
+      
+            <div><div class="stqc-logo"><a href="/sites/default/files/2023-08/CSIR-GIGW-2023-1.pdf" target="_blank" title="GIGW Certificate"><img src="/sites/default/files/inline-images/cqw_logo.png" data-entity-uuid="d9f28fab-69a3-4466-927b-bc0bc2bbf572" data-entity-type="file" alt="CQW Logo" width="71" height="66" loading="lazy" /></a>    <br /><a href="/sites/default/files/2025-09/security-audit-2025_d10.pdf" target="_blank" title="Security Audit Certificate"><img src="/sites/default/files/inline-images/security_audit.png" data-entity-uuid="a29efb40-81b1-4da6-a8e2-8befce01cdc3" data-entity-type="file" alt="Audit" width="71" height="66" loading="lazy" /></a></div></div>
+      
+  </div>
+
+  </div>
+
+               </div>
+            </div>
+         </div>
+      </section>
+ 
+</div>
+		<!-- accessibility panel --><div   class="uwaw uw-light-theme gradient-head uwaw-initial paid_widget"   id="uw-main"   >   <div class="relative second-panel">      <h3>Accessibility options by UX4G</h3>      <div class="uwaw-close" onclick="closeMain()"></div>   </div>   <div class="uwaw-body">      <div class="h-scroll">         <div class="uwaw-features">            <div class="uwaw-features__item reset-feature" id="featureItem_sp">               <button                  id="speak"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-speaker"> </span>               </span>               <span class="uwaw-features__item__name">Text To Speech</span>               <span                  class="tick-active uwaw-features__item__enabled reset-tick"                  id="tickIcon_sp"                  style="display: none"                  >               </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem">               <button                  id="btn-s9"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >                  <span class="uwaw-features__item__icon">                  <span class="ux4g-icon icon-bigger-text"> </span> </span                     ><span class="uwaw-features__item__name">Bigger Text</span>                  <div                     class="uwaw-features__item__steps reset-steps"                     id="featureSteps"                     >                     <!-- Steps span tags will be dynamically added here -->                  </div>                  <span                     class="tick-active uwaw-features__item__enabled reset-tick"                     id="tickIcon"                     style="display: none"                     >                  </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-st">               <button                  id="btn-small-text"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >                  <span class="uwaw-features__item__icon">                  <span class="ux4g-icon icon-small-text"> </span> </span                     ><span class="uwaw-features__item__name">Small Text</span>                  <div                     class="uwaw-features__item__steps reset-steps"                     id="featureSteps-st"                     >                     <!-- Steps span tags will be dynamically added here -->                  </div>                  <span                     class="tick-active uwaw-features__item__enabled reset-tick"                     id="tickIcon-st"                     style="display: none"                     >                  </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-lh">               <button                  id="btn-s12"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >                  <span class="uwaw-features__item__icon">                  <span class="ux4g-icon icon-line-hight"> </span>                  </span>                  <span class="uwaw-features__item__name">Line Height</span>                  <div                     class="uwaw-features__item__steps reset-steps"                     id="featureSteps-lh"                     >                     <!-- Steps span tags will be dynamically added here -->                  </div>                  <span                     class="tick-active uwaw-features__item__enabled reset-tick"                     id="tickIcon-lh"                     style="display: none"                     >                  </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-ht">               <button                  id="btn-s10"                  onclick="highlightLinks()"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-highlight-links"> </span>               </span>               <span class="uwaw-features__item__name">Highlight Links</span>               <span                  class="tick-active uwaw-features__item__enabled reset-tick"                  id="tickIcon-ht"                  style="display: none"                  >               </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-ts">               <button                  id="btn-s13"                  onclick="increaseAndReset()"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >                  <span class="uwaw-features__item__icon">                  <span class="ux4g-icon icon-text-spacing"> </span>                  </span>                  <span class="uwaw-features__item__name">Text Spacing</span>                  <div                     class="uwaw-features__item__steps reset-steps"                     id="featureSteps-ts"                     >                     <!-- Steps span tags will be dynamically added here -->                  </div>                  <span                     class="tick-active uwaw-features__item__enabled reset-tick"                     id="tickIcon-ts"                     style="display: none"                     >                  </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-df">               <button                  id="btn-df"                  onclick="toggleFontFeature()"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-dyslexia-font"> </span>               </span>               <span class="uwaw-features__item__name">Dyslexia Friendly</span>               <span                  class="tick-active uwaw-features__item__enabled reset-tick"                  id="tickIcon-df"                  style="display: none"                  >               </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-hi">               <button                  id="btn-s11"                  onclick="toggleImages()"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-hide-images"> </span>               </span>               <span class="uwaw-features__item__name">Hide Images</span>               <span                  class="tick-active uwaw-features__item__enabled reset-tick"                  id="tickIcon-hi"                  style="display: none"                  >               </span>               </button>            </div>            <div               class="uwaw-features__item reset-feature"               id="featureItem-Cursor"               >               <button                  id="btn-cursor"                  onclick="toggleCursorFeature()"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-cursor"> </span>               </span>               <span class="uwaw-features__item__name">Cursor</span>               <span                  class="tick-active uwaw-features__item__enabled reset-tick"                  id="tickIcon-cursor"                  style="display: none"                  >               </span>               </button>            </div>            <div               class="uwaw-features__item reset-feature"               id="featureItem-ht-dark"               >               <button                  id="dark-btn"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >                  <span class="uwaw-features__item__name">                     <span class="light_dark_icon">                        <input                           type="checkbox"                           class="light_mode uwaw-featugres__item__i"                           id="checkbox"                           />                        <label for="checkbox" class="checkbox-label">                           <!-- <i class="fas fa-moon-stars"></i> -->                           <i class="fas fa-moon-stars">                           <span class="ux4g-icon icon-moon"></span>                           </i>                           <i class="fas fa-sun">                           <span class="ux4g-icon icon-sun"></span>                           </i>                           <span class="ball"></span>                        </label>                     </span>                     <span class="uwaw-features__item__name">Light-Dark</span>                  </span>                  <span                     class="tick-active uwaw-features__item__enabled reset-tick"                     id="tickIcon-ht-dark"                     style="display: none; pointer-events: none"                     >                  </span>               </button>            </div>            <!-- Invert Colors Widget -->            <div class="uwaw-features__item reset-feature" id="featureItem-ic">               <button                  id="btn-invert"                  class="uwaw-features__item__i"                  data-uw-reader-content="Enable the UserWay screen reader"                  aria-label="Enable the UserWay screen reader"                  aria-pressed="false"                  >               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-invert"> </span>               </span>               <span class="uwaw-features__item__name">Invert Colors</span>               <span                  class="tick-active uwaw-features__item__enabled reset-tick"                  id="tickIcon-ic"                  style="display: none"                  >               </span>               </button>            </div>         </div>      </div>      <!-- Reset Button -->   </div>   <div class="reset-panel">      <!-- copyright accessibility bar -->      <div class="copyrights-accessibility">         <button class="btn-reset-all" id="reset-all" onclick="resetAll()">         <span class="reset-icon"> </span>         <span class="reset-btn-text">Reset All Settings</span>         </button>         <a href="https://www.ux4g.gov.in" target="_blank" class="copyright-text" contenteditable="false" style="cursor: pointer;">         <span class="uwaw-features__item__name ux4g-copy ux4g-copyright">Created by</span>         <img src="https://www.ux4g.gov.in/assets/img/logo/ux4g-logo.svg" alt="logo" loading="lazy">         </a>      </div>   </div></div><button   id="uw-widget-custom-trigger"   class="uw-widget-custom-trigger"   aria-label="Accessibility Widget"   data-uw-trigger="true"   aria-haspopup="dialog"><img src="data:image/svg+xml,%0A%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23clip0_1_1506)'%3E%3Cpath d='M16 7C15.3078 7 14.6311 6.79473 14.0555 6.41015C13.4799 6.02556 13.0313 5.47894 12.7664 4.83939C12.5015 4.19985 12.4322 3.49612 12.5673 2.81719C12.7023 2.13825 13.0356 1.51461 13.5251 1.02513C14.0146 0.535644 14.6383 0.202301 15.3172 0.0672531C15.9961 -0.0677952 16.6999 0.00151652 17.3394 0.266423C17.9789 0.53133 18.5256 0.979934 18.9101 1.55551C19.2947 2.13108 19.5 2.80777 19.5 3.5C19.499 4.42796 19.1299 5.31762 18.4738 5.97378C17.8176 6.62994 16.928 6.99901 16 7Z' fill='white'/%3E%3Cpath d='M27 7.05L26.9719 7.0575L26.9456 7.06563C26.8831 7.08313 26.8206 7.10188 26.7581 7.12125C25.595 7.4625 19.95 9.05375 15.9731 9.05375C12.2775 9.05375 7.14313 7.67875 5.50063 7.21188C5.33716 7.14867 5.17022 7.09483 5.00063 7.05063C3.81313 6.73813 3.00063 7.94438 3.00063 9.04688C3.00063 10.1388 3.98188 10.6588 4.9725 11.0319V11.0494L10.9238 12.9081C11.5319 13.1413 11.6944 13.3794 11.7738 13.5856C12.0319 14.2475 11.8256 15.5581 11.7525 16.0156L11.39 18.8281L9.37813 29.84C9.37188 29.87 9.36625 29.9006 9.36125 29.9319L9.34688 30.0112C9.20188 31.0206 9.94313 32 11.3469 32C12.5719 32 13.1125 31.1544 13.3469 30.0037C13.5813 28.8531 15.0969 20.1556 15.9719 20.1556C16.8469 20.1556 18.6494 30.0037 18.6494 30.0037C18.8838 31.1544 19.4244 32 20.6494 32C22.0569 32 22.7981 31.0162 22.6494 30.0037C22.6363 29.9175 22.6206 29.8325 22.6019 29.75L20.5625 18.8294L20.2006 16.0169C19.9387 14.3788 20.1494 13.8375 20.2206 13.7106C20.2225 13.7076 20.2242 13.7045 20.2256 13.7013C20.2931 13.5763 20.6006 13.2963 21.3181 13.0269L26.8981 11.0763C26.9324 11.0671 26.9662 11.0563 26.9994 11.0438C27.9994 10.6688 28.9994 10.15 28.9994 9.04813C28.9994 7.94625 28.1875 6.73813 27 7.05Z' fill='white'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='clip0_1_1506'%3E%3Crect width='32' height='32' fill='white'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A"><span>Accessibility Options</span></button><!-- accessibility panel end--> 
+                                                                                    <script src="https://img1.digitallocker.gov.in/ux4g/UX4G-CDN-accessibility/js/weights-v1.js"></script>
+                                                                                    <script>
+                                                                                        document.getElementById('uw-widget-custom-trigger2').addEventListener('click', function() {
+                                                                                        openMain();
+                                                                                      });
+                                                                                    </script>  
+<div id="stop" class="scrollTop hvr-bounce-in"></div>
+<!-- -------------------- footer bottom end -------------------- -->
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/1544","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"blazy\/bio.ajax,clientside_validation_jquery\/cv.jquery.ife,clientside_validation_jquery\/cv.jquery.validate,core\/drupal.collapse,core\/drupal.dialog.ajax,core\/drupal.entity-form,core\/drupal.form,core\/drupal.vertical-tabs,core\/internal.jquery.form,csir\/unee-scripts,csir\/unee-styling,node\/drupal.node,node\/form,password_encrypt\/password_encrypt,quicktabs\/quicktabs,simple_popup_blocks\/simple_popup_blocks,superfish\/superfish,superfish\/superfish_hoverintent,superfish\/superfish_smallscreen,superfish\/superfish_supersubs,superfish\/superfish_supposition,system\/base,unee_header\/design,views\/views.ajax,views\/views.module","theme":"csir","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/en\/documents\/tkdl?ajax_form=1":true,"\/en\/search\/node":true},"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"simple_popup_blocks":{"settings":[{"uid":"homepage_popup","type":0,"css_selector":"1","identifier":"block-csir-popuphomepage-2","layout":"5","visit_counts":"0","overlay":"1","trigger_method":0,"trigger_selector":"#custom-css-id","delay":0,"enable_escape":false,"trigger_width":null,"minimize":false,"close":"1","use_time_frequency":false,"time_frequency":"3600","show_minimized_button":false,"width":"700","cookie_expiry":0,"status":"1"},{"uid":"property_return","type":0,"css_selector":"1","identifier":"block-csir-propertyreturnsubmission","layout":"5","visit_counts":"0","overlay":"1","trigger_method":0,"trigger_selector":"#custom-css-id","delay":"3","enable_escape":"1","trigger_width":null,"minimize":false,"close":"1","use_time_frequency":false,"time_frequency":"3600","show_minimized_button":false,"width":"400","cookie_expiry":"100","status":"1"}]},"password_encrypt":{"passkey":"f1a0a94e80c8311e"},"ajax":{"edit-submit":{"callback":"newsletter_form_ajax_callback","wrapper":"newsletter-form-wrapper","event":"click","progress":{"type":"throbber"},"url":"\/en\/documents\/tkdl?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Save"}}},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","title":"Main navigation"},"supposition":true,"supersubs":true}}},"quicktabs":{"qt_traditional_knowledge_digital_li":{"tabs":[{"title":"About TKDL","weight":0,"type":"view_content","content":{"qtabs_content":{"options":{"machine_name":"recruitment_and_assessment_board"}},"view_content":{"options":{"vid":"traditional_knowledge_digital_library_unit_tkdl_","display":"block_1","args":""}},"node_content":{"options":{"nid":"","view_mode":"full","hide_title":true}},"block_content":{"options":{"bid":"entity_view:node","block_title":"","display_title":false}}},"tab_page":0},{"title":"TKDL Journey","weight":0,"type":"view_content","content":{"qtabs_content":{"options":{"machine_name":"recruitment_and_assessment_board"}},"view_content":{"options":{"vid":"traditional_knowledge_digital_library_unit_tkdl_","display":"block_2","args":""}},"node_content":{"options":{"nid":"","view_mode":"full","hide_title":true}},"block_content":{"options":{"bid":"entity_view:node","block_title":"","display_title":false}}},"tab_page":1},{"title":"Contact Information","weight":0,"type":"view_content","content":{"qtabs_content":{"options":{"machine_name":"recruitment_and_assessment_board"}},"view_content":{"options":{"vid":"traditional_knowledge_digital_library_unit_tkdl_","display":"block_3","args":""}},"node_content":{"options":{"nid":"","view_mode":"full","hide_title":true}},"block_content":{"options":{"bid":"entity_view:node","block_title":"","display_title":false}}},"tab_page":2},{"title":"Outcomes against Bio-Piracy","weight":0,"type":"view_content","content":{"qtabs_content":{"options":{"machine_name":"recruitment_and_assessment_board"}},"view_content":{"options":{"vid":"traditional_knowledge_digital_library_unit_tkdl_","display":"block_4","args":""}},"node_content":{"options":{"nid":"","view_mode":"full","hide_title":true}},"block_content":{"options":{"bid":"entity_view:node","block_title":"","display_title":false}}},"tab_page":3}]}},"views":{"ajax_path":"\/en\/views\/ajax","ajaxViews":{"views_dom_id:f870df57bca1fd46c7ba59d1f571788ae4ef75ce0afac9d74b8a5998b5a2c41d":{"view_name":"traditional_knowledge_digital_library_unit_tkdl_","view_display_id":"block_1","view_args":"","view_path":"\/node\/1544","view_base_path":null,"view_dom_id":"f870df57bca1fd46c7ba59d1f571788ae4ef75ce0afac9d74b8a5998b5a2c41d","pager_element":0}}},"user":{"uid":0,"permissionsHash":"36633424e14a7b153d7669eaaea4eedd62b86e7390c5f1bdf4f8c46880e66edf"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.0"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.1.2"></script>
+<script src="/core/misc/drupal.js?v=10.1.2"></script>
+<script src="/core/misc/drupal.init.js?v=10.1.2"></script>
+<script src="/core/misc/debounce.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/controlgroup-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-reset-mixin-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/checkboxradio-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=10.1.2"></script>
+<script src="/modules/contrib/blazy/js/dblazy.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dataset.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.viewport.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dom.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.xlazy.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.observer.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.base.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.media.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.drupal.min.js?tlz17k"></script>
+<script src="/modules/contrib/blazy/js/blazy.compat.min.js?tlz17k"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.1.2"></script>
+<script src="/core/misc/vertical-tabs.js?v=10.1.2"></script>
+<script src="/modules/contrib/simple_popup_blocks/js/simple_popup_blocks.js?v=10.1.2"></script>
+<script src="/themes/csir/js/popper.min.js?v=1.x"></script>
+<script src="/themes/csir/js/slick.min.js?v=1.x"></script>
+<script src="/themes/csir/js/bootstrap.bundle.min.js?v=1.x"></script>
+<script src="/themes/csir/js/acmeticker.js?v=1.x"></script>
+<script src="/themes/csir/js/eocjs-newsticker.js?v=1.x"></script>
+<script src="/themes/csir/js/bootstrap.min.js?v=1.x"></script>
+<script src="/themes/csir/js/jquery.easy-ticker.js?v=1.x"></script>
+<script src="/themes/csir/js/jquery.flexslider-min.js?v=1.x"></script>
+<script src="/themes/csir/js/site.js?v=1.x"></script>
+<script src="/themes/csir/js/development.js?v=1.x"></script>
+<script src="/themes/csir/js/custom.js?v=1.x"></script>
+<script src="/modules/custom/unee_header/js/framework.js?v=1.x"></script>
+<script src="/modules/custom/unee_header/js/font-size.js?v=1.x"></script>
+<script src="/modules/custom/unee_header/js/swithcer.js?v=1.x"></script>
+<script src="/modules/custom/unee_header/js/unee_design.js?v=1.x"></script>
+<script src="/modules/custom/password_encrypt/js/password_encrypt.js?v=10.1.2"></script>
+<script src="/libraries/CryptoJS/aes.js?v=10.1.2"></script>
+<script src="/core/misc/progress.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.2.0"></script>
+<script src="/core/misc/announce.js?v=10.1.2"></script>
+<script src="/core/misc/message.js?v=10.1.2"></script>
+<script src="/core/misc/ajax.js?v=10.1.2"></script>
+<script src="/core/misc/displace.js?v=10.1.2"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=10.1.2"></script>
+<script src="/core/misc/position.js?v=10.1.2"></script>
+<script src="/core/misc/dialog/dialog.js?v=10.1.2"></script>
+<script src="/core/misc/dialog/dialog.position.js?v=10.1.2"></script>
+<script src="/core/misc/dialog/dialog.jquery-ui.js?v=10.1.2"></script>
+<script src="/core/modules/ckeditor5/js/ckeditor5.dialog.fix.js?v=10.1.2"></script>
+<script src="/core/misc/dialog/dialog.ajax.js?v=10.1.2"></script>
+<script src="/core/assets/vendor/jquery-form/jquery.form.min.js?v=4.3.0"></script>
+<script src="/core/misc/form.js?v=10.1.2"></script>
+<script src="/core/misc/details-summarized-content.js?v=10.1.2"></script>
+<script src="/core/misc/details-aria.js?v=10.1.2"></script>
+<script src="/core/misc/details.js?v=10.1.2"></script>
+<script src="/core/misc/entity-form.js?v=10.1.2"></script>
+<script src="/core/modules/node/node.js?v=10.1.2"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.validate.js?tlz17k"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.ife.js?tlz17k"></script>
+<script src="/libraries/superfish/superfish.js?tlz17k"></script>
+<script src="/libraries/superfish/jquery.hoverIntent.minified.js?tlz17k"></script>
+<script src="/libraries/superfish/sfsmallscreen.js?tlz17k"></script>
+<script src="/libraries/superfish/supposition.js?tlz17k"></script>
+<script src="/libraries/superfish/supersubs.js?tlz17k"></script>
+<script src="/modules/custom/superfish/js/superfish.js?v=2.0"></script>
+<script src="/core/assets/vendor/js-cookie/js.cookie.min.js?v=3.0.5"></script>
+<script src="/modules/contrib/quicktabs/js/quicktabs.js?v=10.1.2"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.ajax.min.js?tlz17k"></script>
+<script src="/core/modules/views/js/base.js?v=10.1.2"></script>
+<script src="/core/modules/views/js/ajax_view.js?v=10.1.2"></script>
+
+	
+	
+
+  </body>
+</html>

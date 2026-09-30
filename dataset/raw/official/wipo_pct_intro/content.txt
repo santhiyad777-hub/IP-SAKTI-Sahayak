@@ -1,0 +1,314 @@
+About Intellectual Property
+IP Training
+Respect for IP
+IP Outreach
+IP for…
+IP and...
+IP in...
+Patent & Technology Information
+Trademark Information
+Design Information
+Geographical Indication Information
+Plant Variety Information (UPOV)
+IP Laws, Treaties & Judgments
+IP Resources
+IP Reports
+Patent Protection
+Trademark Protection
+Design Protection
+Geographical Indication Protection
+Plant Variety Protection (UPOV)
+IP Dispute Resolution
+IP Office Business Solutions
+Paying for IP Services
+Negotiation & Decision-Making
+IP Cooperation
+Innovation Support
+Public-Private Partnerships
+The Organization
+WIPO and Artificial Intelligence
+Working at WIPO
+Accountability
+Patents
+Trademarks
+Designs
+Geographical Indications
+Copyright
+Trade Secrets
+Future of IP
+WIPO Academy
+Workshops & Seminars
+IP Enforcement
+WIPO ALERT
+Raising Awareness
+World IP Day
+WIPO Magazine
+Case Studies & Success Stories
+IP News
+WIPO Awards
+Business
+Women
+Universities
+Indigenous Peoples
+Judiciaries
+Youth
+Examiners
+Innovation Ecosystems
+Economics
+Finance
+Intangible Assets
+Global Health
+Climate Change
+Competition Policy
+Sustainable Development Goals
+Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions
+Frontier Technologies
+Mobile Applications
+Sports
+Tourism
+Music
+Fashion
+PATENTSCOPE
+Patent Analytics
+International Patent Classification
+ARDI – Research for Innovation
+ASPI – Specialized Patent Information
+Global Brand Database
+Madrid Monitor
+Article 6ter Express Database
+Nice Classification
+Vienna Classification
+Global Design Database
+International Designs Bulletin
+Hague Express Database
+Locarno Classification
+Lisbon Express Database
+Global Brand Database for GIs
+PLUTO Plant Variety Database
+GENIE Database
+WIPO-Administered Treaties
+WIPO Lex - IP Laws, Treaties & Judgments
+WIPO Standards
+IP Statistics
+WIPO Pearl (Terminology)
+WIPO Publications
+Country IP Profiles
+WIPO Knowledge Center
+World Intangible Investment Highlights
+WIPO Technology Trends
+Global Innovation Index
+World Intellectual Property Report
+PCT – The International Patent System
+ePCT
+Budapest – The International Microorganism Deposit System
+Madrid – The International Trademark System
+eMadrid
+Article 6ter (armorial bearings, flags, state emblems)
+Hague – The International Design System
+eHague
+Lisbon – The International System of Appellations of Origin and Geographical Indications
+eLisbon
+UPOV PRISMA
+Mediation
+Arbitration
+Expert Determination
+Domain Name Disputes
+Centralized Access to Search and Examination (CASE)
+Digital Access Service (DAS)
+WIPO Pay
+Current Account at WIPO
+WIPO Assemblies
+Standing Committees
+Calendar of Meetings
+WIPO Webcast
+WIPO Official Documents
+Development Agenda
+Tailored Initiatives & Projects
+Collaborative Forums & Dialogues
+Innovation, Creativity and Development Acceleration Program
+IP for Impact
+National IP Strategies
+Cooperation Hub
+Technology and Innovation Support Centers (TISC)
+Technology Transfer
+Inventor Assistance Program
+IP Commercialization
+WIPO GREEN
+WIPO's Pat-INFORMED
+Accessible Books Consortium
+WIPO for Creators
+Member States
+Observers
+Director General
+Activities by Unit
+External Offices
+Global Forum on IP and AI
+AI Infrastructure Interchange
+AI Tools & Services
+Staff Positions
+Affiliated Personnel Positions
+Procurement
+Results & Budget
+Financial Reporting
+Oversight
+Introduction to the Patent Cooperation Treaty (PCT)
+What is the PCT System?
+The
+Patent Cooperation Treaty (PCT)
+[
+PDF
+]
+​​​​​​​ is an international treaty administered by WIPO. It establishes an international patent system that helps companies and innovators seek patent protection in multiple countries through a single, cost-effective procedure.
+Under the PCT System, you can file one PCT application, in one language, at one patent Office (“receiving Office”), while having the same legal effect as filing separate patent applications in all
+Contracting States
+of the Treaty.
+​​​
+Learn more: Introduction to the PCT [
+Video
+]
+play_circle
+The PCT:  Seeking Patent Protection Beyond Borders
+close
+Who can use the PCT System?
+You can file an international application under the PCT (also called “PCT application”) if you are a national or resident of a country that is a
+PCT Contracting State
+. If your PCT application includes more than one applicant, only one of those applicants must meet this requirement.
+Where can I file a PCT application?
+You should file with a patent Office that is competent to receive your PCT application (known as a PCT “receiving Office”). This is usually the patent Office in the country of your nationality or residence.
+Applicants from any Contracting State can also choose to
+file with the International Bureau of WIPO
+. Applicants in some countries may need to get
+national security clearance
+before filing with the International Bureau.
+How much does it cost to file a PCT application?
+You must pay three fees to the receiving Office when filing your PCT application:
+an
+international filing fee
+, currently 1,330 Swiss francs (may be increased if your application has more than 30 pages, and may be reduced if you file electronically. Applicants from
+certain States
+are entitled to fee reductions);
+a
+search fee
+(varies depending on which International Searching Authority you choose); and
+a
+transmittal fee
+(varies depending on which receiving Office you file with).
+All the above fees should be paid in full to the receiving Office, in the currency and via the payment method accepted by that Office. For exact amounts of these fees, refer to the current PCT Fee Tables [
+PDF
+]
+Learn more about
+Fees and Payments
+.
+PCT Fee Tables
+Specific PCT fee amounts in currencies payable to each receiving Office and more
+How to file a PCT Application
+arrow_right
+What should a PCT application contain?
+In general, a PCT application requires most of the same data as a national patent application. A PCT application must include:
+a
+request
+(including bibliographic data about the applicant(s));
+a description (written disclosure of the invention);
+one or more claims (defining the scope of protection sought from the application);
+one or more drawings (where required); and
+an abstract (summary of the invention).
+arrow_right
+In which language can I file a PCT application?
+You can file a PCT application in any language accepted by the receiving Office. If the PCT application is in a language not used by the ISA, you will be required to submit a translation in a language accepted by that ISA.
+arrow_right
+By which means may I file a PCT application?
+The acceptable means of filing depends on your receiving Office. Most Offices accept the filing of international applications electronically or on paper. WIPO has developed an online system,
+ePCT
+, to help applicants prepare, file and manage their PCT applications, and it is accepted by a
+wide range of receiving Offices
+. WIPO recommends that you use
+ePCT
+to prepare and file your PCT application wherever possible.
+Learn more about
+filing an international application
+.
+ePCT – PCT System online services
+Use ePCT to file and manage your international applications
+The PCT Procedure
+After filing, the receiving Office will perform a
+formalities check
+on your application. The application will then undergo a procedure called “
+international search
+”, out of which you can expect to receive a search report plus a patentability opinion. The application will then be published (“
+international publication
+”). You may additionally ask for “
+international preliminary examination
+” to get an examination report. Thereafter, you may decide whether, and in which countries, you wish to have your application processed further by the national Offices in the “
+national phase
+” to decide if a patent can be granted.
+Find out more details about these procedures below.
+arrow_right
+Formalities Check
+The receiving Office will first check whether your application can be accorded an international filing date, namely, whether the applicant is entitled to file a PCT application and whether the application contains all the essential elements (
+PCT Article 11(1)
+). It will further determine whether all the other PCT formality requirements are complied with (
+PCT Article 14
+and
+Rule 11
+) and all the required fees have been paid, and if not yet, invite you to make corrections and/or pay missing fees.
+arrow_right
+International Search
+The International Searching Authority (ISA) selected in your PCT application will produce a search report (identifying published patent documents and technical literature that may influence whether your invention is patentable) and a written opinion containing detailed analysis of your invention’s potential patentability based on a set of criteria set forth for the PCT purpose. You receive a copy of these two documents about 4 months after filing your PCT application. The findings and opinions in these reports provide both you and the national Offices with helpful information on your invention’s potential patentability but are not legally binding for the national Offices.
+arrow_right
+International Publication
+As soon as possible after the expiration of 18 months from the priority date, WIPO publishes your international application together with the search report on
+PATENTSCOPE
+, WIPO’s patent database. After publication, you will have additional time to consider the information in the search report and decide if you want to continue pursuing patent protection.
+arrow_right
+International Preliminary Examination
+In this optional procedure, an International Preliminary Examining Authority (IPEA) carries out an additional patentability analysis on your application. You may file amendments to your application during this procedure (in light of the search report and written opinion of the ISA you have received), and ask the IPEA to conduct the examination on the application as amended.
+The final outcome of this procedure is an examination report providing opinions on the potential patentability of your invention based on PCT standards. Additional costs apply for this examination. This report, like the written opinion of the ISA, is also non-binding, but may provide you with additional or updated patentability analysis on your application to further help you decide whether you would like to continue pursuing your application in the national phase.
+arrow_right
+National Phase
+Note that out of the PCT procedure patents can only be granted by each of the national Offices in the national phase. If you do not pursue your application in the national phase
+within the required time limit
+(usually 30 months from the priority date), your PCT application will lapse and lose its effect in the national Offices. It is therefore important for you to decide, before the expiration of this time limit, whether you would continue pursuing patent protection for your invention and if you decide to do so, in which countries.
+If you decide to further seek a patent grant in certain countries, you will need to perform, within the applicable time limit, the required actions before each national (or regional) Office from which you would like to obtain a patent. These usually include providing a translation of your PCT application in the language accepted by the particular national Office, paying the required fees, and appointing a local patent representative. The national Office will then examine the substance of your patent application to decide whether a patent can be granted according to its own law.
+Learn more about
+entering the national Phase
+.
+Benefits of the PCT
+Using the PCT to seek patent protection for your invention internationally can be advantageous in many respects.
+First, it is
+more convenient
+than filing separate national patent applications in multiple countries, as your single PCT application is recognized in all Contracting States as having the same effect as a national application.
+Second, you will have
+more time
+to decide whether you would like to further pursue your application before any interested national Office.
+Third, you will be provided with expert opinions on the potential patentability of your invention and thus be
+better informed
+to make decisions during the process.
+Last but not the least, using the PCT can help you
+save effort and unnecessary cost
+in seeking patent protection in a number of countries.
+PCT System success stories
+See how other companies and inventors benefit from using the PCT System to seek protection for their inventions
+Learn more about the PCT
+PCT FAQs
+Protecting your Inventions Abroad: Frequently Asked Questions About the Patent Cooperation Treaty (PCT)
+PCT Applicant’s Guide
+Detailed guidance on procedures and PCT reference data from all Offices and Authorities
+Learn the PCT video series
+Learn the PCT through video lectures by topic
+PCT Distance Learning Course
+Take a PCT course via the WIPO Distance Learning program
+Questions about the PCT System?
+Our
+PCT Information Service
+team is available to answer your general and legal questions and guide you through the various aspects of using the PCT System.
+Contact PCT Infoline
+Need to talk to someone? Call us: +41 22 338 8338 (Monday to Friday 09:00–18:00 CET)
+https://www.wipo.int/contact/en/area.jsp?area=pct
+https://www.wipo.int/pressroom/en/
+https://www.wipo.int/en/web/terms-of-use
+https://www.wipo.int/en/web/privacy-policy
+https://www.wipo.int/en/web/accessibility
+https://www.wipo.int/en/web/sitemap
+https://www.wipo.int/en/web/newsletters
+https://www.wipo.int/en/web/podcasts
+https://www.wipo.int/en/web/news/rss

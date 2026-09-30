@@ -1,0 +1,219 @@
+Guidance
+Apply for a traditional herbal registration (THR)
+How to apply for a traditional herbal registration (THR) to market a herbal medicine in the UK.
+From:
+Medicines and Healthcare products Regulatory Agency
+Published:
+31 December 2014
+Last updated:
+5 January 2024
+            —
+See all updates
+Print this page
+You must apply for a traditional herbal registration (
+THR
+) before you can market a traditional herbal medicinal product in the UK.
+A
+THR
+is only granted if the medicine is used for minor health conditions where medical supervision is not required (e.g. a cold).
+If your traditional herbal medicinal product claims to treat major health conditions, you need to
+apply for a marketing authorisation
+before you can place it on the market.
+How to apply
+Complete the
+application form for a traditional herbal medicine
+(
+PDF
+,
+1.12 MB
+,
+24 pages
+)
+and submit it with the required documents below.
+Required documents
+You must include scientific evidence with your application relating to the safety, quality and traditional use of the herbal product. This includes:
+a technical dossier covering the quality of herbal ingredients in the electronic Common Technical Document (
+eCTD
+) format for traditional herbal medicinal products
+review of safety with an expert report including clinical and non-clinical safety areas carried out by either:
+a registered doctor
+a registered pharmacist
+a scientifically qualified competent individual (eg toxicologist)
+herbal practitioner who is a member of a professional body
+draft summary of product characteristics
+a mock-up label and patient information leaflet (PIL): see
+best practice guidelines
+on this
+You can request advice before you submit your application for advice on whether your product is likely to meet the
+THR
+scheme requirements by completing the
+template for notification of application for THR
+(
+MS Word Document
+,
+321 KB
+)
+and emailing it to
+info@mhra.gov.uk
+.
+THR
+Certification Mark
+The
+THR
+Certification Mark should be included on the mock up label and  patient information leaflet to show that the product meets the required standards of quality, safety and evidence of traditional use.
+See
+guidelines
+(
+PDF
+,
+22.2 KB
+,
+4 pages
+)
+on the usage of the mark.
+Submit your application
+Submit your application form with the required documents
+via MHRA Submissions
+.
+You need to submit your application using the
+eCTD
+format
+. If you can’t use
+eCTD
+you can use the Non-
+eCTD
+electronic Submissions (NeeS) process.
+Email
+IPUenquiries@mhra.gov.uk
+if you have any questions about submitting your application.
+The MHRA usually takes 210 days to evaluate your application if we receive all the required documents and they are valid .
+Submissions through MHRA Submissions
+Access MHRA Submissions
+This UK national system is available and provides a simple and secure mechanism for exchange of information between applicants and the MHRA.
+The purpose of the system is to:
+provide a secure method of communicating with regulatory agencies via one platform
+allow submission of an application once to reach all required agencies
+reduce the burden for both industry and regulators of submitting/handling applications on CD-ROM and DVD
+If you are a first time MHRA Submission user and wish to register an organisation/university or trust to manage multiple users on the system
+follow the guidance and register with MHRA Submissions
+.
+Once registered you will receive credentials to access the portal to your registered email address.
+General MHRA Submission training is available to all via the
+training webinar recording
+. We encourage all users to review training material before using the system
+You should use
+our eAF and cover letter tool
+to determine what information you need to include in your application. If you do not include the correct information your application will not be validated.
+Fees
+Fees for the
+THR
+scheme
+Make a payment to the MHRA
+.
+Use the
+Fees Calculator
+to work out what the fee for your submission will be.
+Herbal medicinal product: definition
+According to the Human Medicines Regulations (2012), a product is an herbal medicinal product if the active ingredients are herbal substances and/or herbal preparations only.
+An herbal substance is a plant or part of a plant, algae, fungi or lichen, or an unprocessed exudate of a plant, defined by the plant part used and the botanical name of the plant, either fresh or dried, but otherwise unprocessed.
+An herbal preparation is when herbal substances are put through specific processes, which include:
+extraction
+distillation
+expression
+fractionation
+purification
+concentration
+fermentation
+The herbal substance being processed can be:
+reduced or powdered
+a tincture
+an extract
+an essential oil
+an expressed juice
+a processed exudate (rich protein oozed out of its source).
+Not all herbal products are medicines, some can be classified as food supplements or cosmetics.
+Check the
+guide on what is considered a medicinal product
+before applying for a
+THR
+.
+See the
+list of herbal medicines granted a
+THR
+.
+Eligibility for the
+THR
+Scheme
+You must ensure the indication of the herbal medicinal product is suitable for the Traditional Herbal Registration Scheme.
+The indication is the medical condition the product has traditionally been used to treat. Check the
+permitted indications
+(
+PDF
+,
+154 KB
+,
+6 pages
+)
+to see if your herbal medicinal product is eligible under the Traditional Herbal Registration Scheme.
+You must also show evidence that the herbal medicinal product has been traditionally used to treat the stated condition for a minimum of 30 years.
+For products intended to be marketed in the whole of the UK or Northern Ireland only, at least 15 years of the 30 years of use must relate to use in the
+EU
+/EEA.
+For products intended to be marketed in Great Britain (England, Wales and Scotland) only, the MHRA may be able to accept the 15 years of traditional evidence from a wider range of countries in addition to the UK and
+EU
+/EEA countries.
+Suitable countries will be those that have a level of pharmacovigilance equivalent to that of the UK. This is to ensure that any safety issues have been properly identified to support the traditional use of the product. The MHRA will publish a list of suitable countries for this purpose on the gov.uk website and update this list as new entries arise.
+See
+guidance on sources of evidence to show traditional use and safety
+(
+PDF
+,
+126 KB
+,
+4 pages
+)
+of the product.
+Applicants are strongly encouraged to contact the MHRA at an early stage, using our
+template for notification of application for THR
+(
+MS Word Document
+,
+321 KB
+)
+should they have any questions.
+Banned or restricted herbal ingredients
+Some herbal ingredients are toxic and cannot be used in the manufacture, import and sale of unlicensed medicines in the UK. There are also restrictions on how some herbal ingredients can be used in medicines. Check the list of
+banned and restricted herbal ingredients
+before you submit your application to ensure your ingredients are acceptable for the Traditional Herbal Registration Scheme.
+Exemptions for
+THR
+If you’re an herbal practitioner, you don’t need a licence to supply herbal medicinal products you create on your premises to patients following one-to-one consultations.
+More information
+To cancel a
+THR
+licence or withdraw a pending submission, follow the
+guidance on cancellations
+. To renew your
+THR
+see the renewals guide
+Updates to this page
+Published 31 December 2014
+Last updated 5 January 2024
+—
+Show all updates
+5 January 2024
+Added link to Fees Calculator.
+5 January 2021
+Updated documents and guidance due to the end of the Brexit transition period.
+1 January 2021
+Following the end of the transition period, removed references to EC systems and guidance.
+20 November 2020
+Updated PDF guidance linked under section 'THR Certification Mark'.
+22 September 2016
+Added guidance on the usage of the THR Certification Mark.
+31 December 2014
+First published.
+Sign up for emails or print this page
+Print this page
+Contents
+Related content

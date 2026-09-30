@@ -1,0 +1,303 @@
+{
+  "python": "3.11.9",
+  "isolated_environment": true,
+  "ollama_key_configured": true,
+  "bhashini_configured": true,
+  "active_sources": 48,
+  "indexed_sources": 48,
+  "chunks": 6895,
+  "unindexed_sources": [],
+  "unexpected_indexed_sources": [],
+  "source_files": [
+    {
+      "source_id": "ip_india_gi_act",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "bd_amendment_act_2023_gazette",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "cdsco_drugs_cosmetics_act_1940",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "wto_trips_agreement",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "patents_act",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "nagoya_full",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "gratk",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "abs_2025",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "nba_faq",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "patents_3",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "patent_rule_24b",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "wipo_pct_guide",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "wipo_madrid_guide",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "wipo_hague_guide",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "wipo_trade_secrets",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "plant_variety_16",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "ema_herbal",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "wipo_budapest_guide",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "designs_act",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "copyright_act",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "trademarks_act",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "wipo_pct_intro",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "fssai_category_a_order",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "patents_rules",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "bd_act_consolidated",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "bd_rules_2024",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "bd_rules_amendment_2025",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "cbd_convention",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "cosmetics_rules_2020",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "ndct_rules_2019",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "ayurveda_aahara_2022",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "fda_botanical_guidance",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "cgptdm_tk_guidelines",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "tkdl_csir",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "uk_herbal_registration",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "patanjali_judgment_2024",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "dpdp_act_2023",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "dpdp_rules_2025",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "fssai_nutraceuticals",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "fssai_food_claims",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "fssai_labelling",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "pct_treaty",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "budapest_treaty",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "hague_geneva_act",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "madrid_protocol",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "navara_gi_record",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "drugs_magic_remedies_1954",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    },
+    {
+      "source_id": "nist_ai_rmf",
+      "present": true,
+      "hash_recorded": true,
+      "hash_matches": true
+    }
+  ],
+  "citation_metadata_complete": true,
+  "passed": true
+}

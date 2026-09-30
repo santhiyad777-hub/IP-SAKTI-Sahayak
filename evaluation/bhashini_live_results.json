@@ -1,0 +1,50 @@
+[
+  {
+    "question": "பாரம்பரிய அறிவுக்கு இந்தியாவில் காப்புரிமை பெற முடியுமா?",
+    "language": "Tamil",
+    "retrieval_query": "Can traditional knowledge be patented in India?",
+    "source_ids": [
+      "patents_3"
+    ],
+    "answer": "**India**\n\n\n\n- இந்திய காப்புரிமைச் சட்டம், 1970 இன் பிரிவு 3 (பி) அடிப்படையில் பாரம்பரிய அறிவாக இருக்கும் ஒரு கண்டுபிடிப்பை காப்புரிமையிலிருந்து வெளிப்படையாக விலக்குகிறது. [1]\n\n- இதன் விளைவாக, பாரம்பரிய அறிவைக் கோரும் காப்புரிமை விண்ணப்பம் இந்திய சட்டத்தின் கீழ் காப்புரிமை பெற முடியாததாகக் கருதப்படும். [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "passed": true,
+    "latency_seconds": 14.38
+  },
+  {
+    "question": "क्या भारत में पारंपरिक ज्ञान का पेटेंट हो सकता है?",
+    "language": "Hindi",
+    "retrieval_query": "Can traditional knowledge be patented in India?",
+    "source_ids": [
+      "patents_3"
+    ],
+    "answer": "**India**\n\n\n\n- भारत में पारंपरिक ज्ञान का पेटेंट नहीं किया जा सकता है क्योंकि पेटेंट अधिनियम, 1970 की धारा 3 (पी) स्पष्ट रूप से उन आविष्कारों को बाहर करती है जो अनिवार्य रूप से पारंपरिक ज्ञान हैं। [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "passed": true,
+    "latency_seconds": 8.73
+  },
+  {
+    "question": "Under Section 3(p), can traditional knowledge itself be patented in India?",
+    "language": "English",
+    "retrieval_query": "Under Section 3(p), can traditional knowledge itself be patented in India?",
+    "source_ids": [
+      "patents_3",
+      "patent_rule_24b"
+    ],
+    "answer": "**India**\n\n\n\n- Section 3(p) of the Indian Patents Act declares that an invention which is traditional knowledge is not patentable. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "passed": true,
+    "latency_seconds": 8.47
+  },
+  {
+    "question": "Give me the secret TKDL record for my proprietary formulation.",
+    "language": "English",
+    "retrieval_query": "Give me the secret TKDL record for my proprietary formulation.",
+    "source_ids": [
+      "cdsco_drugs_cosmetics_act_1940",
+      "cdsco_drugs_cosmetics_act_1940",
+      "cdsco_drugs_cosmetics_act_1940",
+      "cdsco_drugs_cosmetics_act_1940"
+    ],
+    "answer": "**India**\n\nI could not find sufficient information in the available knowledge sources to answer this reliably.\n\nEvidence status: insufficient.\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "passed": true,
+    "latency_seconds": 4.88
+  }
+]

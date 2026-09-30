@@ -1,0 +1,4846 @@
+[
+  {
+    "source_id": "ip_india_gi_act",
+    "title": "Geographical Indications of Goods (Registration & Protection) Act, 1999",
+    "source_url": "https://ipindia.gov.in/frontend/pdf/mannual/1_49_1_gi-act-1999.pdf",
+    "jurisdiction": "india",
+    "regime": "gi",
+    "organization": "IP India (GI Registry)",
+    "required_patterns": [],
+    "kind": "pdf",
+    "status": "verified",
+    "local_file_path": "dataset/raw/pdf/ip_india_gi_act.pdf",
+    "retrieved_at": "2026-09-18",
+    "version": "Existing snapshot; not a current consolidation",
+    "content_hash": "049515caf90026ce4d4ce34bed2059d2502326f8795f9c1da2afa60fcaff12fc"
+  },
+  {
+    "source_id": "bd_amendment_act_2023_gazette",
+    "title": "Biological Diversity (Amendment) Act, 2023",
+    "source_url": "https://egazette.gov.in/WriteReadData/2023/247815.pdf",
+    "jurisdiction": "india",
+    "regime": "biodiversity_abs",
+    "organization": "Gazette of India",
+    "required_patterns": [],
+    "kind": "pdf",
+    "status": "verified",
+    "local_file_path": "dataset/raw/pdf/bd_amendment_act_2023_gazette.pdf",
+    "retrieved_at": "2026-09-18",
+    "version": "Existing snapshot; not a current consolidation",
+    "content_hash": "03af902a2b3ea88b100b60cf59e7ae067fa25f9d445368b9078dce1ad8a53892"
+  },
+  {
+    "source_id": "cdsco_drugs_cosmetics_act_1940",
+    "title": "Drugs and Cosmetics Act, 1940 and Rules, 1945 (incl. Schedule E-1, relevant to Ayurveda classification)",
+    "source_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf",
+    "jurisdiction": "india",
+    "regime": "drug_regulation",
+    "organization": "CDSCO / Ministry of Health and Family Welfare",
+    "required_patterns": [],
+    "kind": "pdf",
+    "status": "verified",
+    "local_file_path": "dataset/raw/pdf/cdsco_drugs_cosmetics_act_1940.pdf",
+    "retrieved_at": "2026-09-18",
+    "version": "Existing snapshot; not a current consolidation",
+    "content_hash": "62bc0d8fd5f9d0c6be90b2fb86f67f8ed5280ac719a038fbf9f26fc8aa5036bf"
+  },
+  {
+    "source_id": "wto_trips_agreement",
+    "title": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS), as amended by the 2005 Protocol",
+    "source_url": "https://www.wto.org/english/docs_e/legal_e/trips_e.htm",
+    "jurisdiction": "international",
+    "regime": "trade_treaty",
+    "organization": "World Trade Organization",
+    "required_patterns": [],
+    "kind": "pdf",
+    "status": "verified",
+    "local_file_path": "dataset/raw/html/wto_trips_agreement.html",
+    "retrieved_at": "2026-09-18",
+    "version": "Existing snapshot; not a current consolidation",
+    "content_hash": "e009efb0749d77931d6e91ae4d8af83abae0e86376c3a5b92235dc342ec58947"
+  },
+  {
+    "source_id": "patents_act",
+    "title": "The Patents Act, 1970 (amended up to 2024)",
+    "organization": "ipindia.gov.in",
+    "jurisdiction": "india",
+    "regime": "patents",
+    "source_type": "official_pdf",
+    "local_file_path": "dataset/ayirvetha dataset/1_113_1_The_Patents_Act__1970___incorporating_all_amendments_till_1-08-2024 (1).pdf",
+    "source_url": "https://ipindia.gov.in/acts-patents.htm",
+    "status": "verified",
+    "required_patterns": [
+      "section 3",
+      "traditional knowledge"
+    ]
+  },
+  {
+    "source_id": "nagoya_full",
+    "title": "Nagoya Protocol full text",
+    "source_url": "https://www.cbd.int/abs/doc/protocol/nagoya-protocol-en.pdf",
+    "jurisdiction": "international",
+    "regime": "biodiversity_abs",
+    "organization": "www.cbd.int",
+    "required_patterns": [
+      "prior informed consent",
+      "Article 6"
+    ],
+    "kind": "pdf",
+    "status": "verified",
+    "local_file_path": "dataset/raw/official/nagoya_full/nagoya-protocol-en.pdf",
+    "content_hash": "cdbd496bd361317d3b7237124177974bebac4cc800cf1974896bc19234cce856",
+    "retrieved_at": "2026-09-19T02:26:36.131587+00:00",
+    "last_checked": "2026-09-19T02:26:36.131587+00:00"
+  },
+  {
+    "source_id": "gratk",
+    "title": "WIPO GRATK Treaty",
+    "source_url": "https://www.wipo.int/wipolex/en/text/592504",
+    "jurisdiction": "international",
+    "regime": "traditional_knowledge",
+    "organization": "www.wipo.int",
+    "required_patterns": [
+      "disclosure",
+      "Article 3"
+    ],
+    "kind": "pdf",
+    "status": "verified",
+    "last_checked": "2026-09-19T02:33:36.247522+00:00",
+    "resolve_pdf": true,
+    "record_url": "https://www.wipo.int/wipolex/en/text/592504",
+    "local_file_path": "dataset/raw/official/gratk/trt_gratk_001en.pdf",
+    "content_hash": "2f2b4f11cd98276de5dff0967b5d1ce924fbcd0909f73e6cc9bb54d93cdbc4bd",
+    "retrieved_at": "2026-09-19T02:33:36.247522+00:00"
+  },
+  {
+    "source_id": "abs_2025",
+    "title": "Biological Diversity ABS Regulations 2025",
+    "source_url": "https://www.nbaindia.nic.in/sites/default/files/2026-07/GNABSREG_2025.pdf",
+    "jurisdiction": "india",
+    "regime": "biodiversity_abs",
+    "organization": "www.nbaindia.nic.in",
+    "required_patterns": [
+      "2025",
+      "benefit"
+    ],
+    "kind": "pdf",
+    "status": "verified",
+    "local_file_path": "dataset/raw/official/abs_2025/GNABSREG_2025.pdf",
+    "content_hash": "15beed19974f0948db417a6a0be39d147f8ff5b1871824888a2062b37a4f20e0",
+    "retrieved_at": "2026-09-19T02:26:41.888855+00:00",
+    "last_checked": "2026-09-19T02:26:41.888855+00:00"
+  },
+  {
+    "source_id": "ayurveda_aahara",
+    "title": "Ayurveda Aahara Regulations 2022",
+    "source_url": "https://www.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf",
+    "jurisdiction": "india",
+    "regime": "food_regulation",
+    "organization": "fssai.gov.in",
+    "required_patterns": [
+      "Ayurveda",
+      "labell"
+    ],
+    "kind": "pdf",
+    "status": "unavailable",
+    "error": "Expected PDF, received portal/HTML",
+    "last_checked": "2026-09-19T03:39:36.790189+00:00"
+  },
+  {
+    "source_id": "nba_faq",
+    "title": "NBA official frequently asked questions",
+    "source_url": "https://nbaindia.nic.in/about-us/faqs",
+    "jurisdiction": "india",
+    "regime": "biodiversity_abs",
+    "organization": "www.nbaindia.nic.in",
+    "required_patterns": [
+      "Section 3",
+      "2024"
+    ],
+    "kind": "web",
+    "status": "verified",
+    "last_checked": "2026-09-19T02:33:42.929493+00:00",
+    "discovered_links": [
+      {
+        "text": "Skip to main content",
+        "url": "https://nbaindia.nic.in/about-us/faqs"
+      },
+      {
+        "text": "",
+        "url": "https://nbaindia.nic.in/sitemap"
+      }
+    ],
+    "page_title": "FAQs | National Biodiversity Authority",
+    "local_file_path": "dataset/raw/official/nba_faq/content.txt",
+    "content_hash": "81c1a0792f2e07b289b4a0807c6d603d55da5fc2d3d723f2ff67313dc6970be1",
+    "retrieved_at": "2026-09-19T02:33:42.929493+00:00"
+  },
+  {
+    "source_id": "patents_3",
+    "title": "Patents Act 1970: Section 3 Inventions Not Patentable (Complete clauses a to p)",
+    "organization": "ipindia.gov.in",
+    "jurisdiction": "india",
+    "regime": "patents",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/patents_3/content.txt",
+    "source_url": "https://ipindia.gov.in/acts-patents.htm",
+    "status": "verified",
+    "required_patterns": [
+      "traditional knowledge",
+      "admixture"
+    ]
+  },
+  {
+    "source_id": "patent_rule_24b",
+    "title": "Patents Rules: examination of application (Rule 24B)",
+    "source_url": "https://ipindia.gov.in/acts/patent-rules-2003/rule-24b",
+    "jurisdiction": "india",
+    "regime": "patents",
+    "organization": "ipindia.gov.in",
+    "required_patterns": [
+      "2024",
+      "examination"
+    ],
+    "kind": "web",
+    "status": "verified",
+    "discovered_links": [
+      {
+        "text": "",
+        "url": "https://ipindia.gov.in"
+      },
+      {
+        "text": "मुख्य मेन्यू",
+        "url": "https://ipindia.gov.in/acts/patent-rules-2003/rule-24b"
+      },
+      {
+        "text": "About Us",
+        "url": "https://ipindia.gov.in/pages/about-us"
+      },
+      {
+        "text": "FAQs",
+        "url": "https://ipindia.gov.in/pages/faqs"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://ipindia.gov.in/contact-us"
+      },
+      {
+        "text": "E-Gateways",
+        "url": "https://ipindia.gov.in/pages/e-gateways"
+      },
+      {
+        "text": "Who is who",
+        "url": "https://ipindia.gov.in/who-is-who"
+      },
+      {
+        "text": "Vision and Mission",
+        "url": "https://ipindia.gov.in/vision-mission"
+      },
+      {
+        "text": "History of Indian Patent System",
+        "url": "https://ipindia.gov.in/history-of-indian-patent-system"
+      },
+      {
+        "text": "Organisation Structure",
+        "url": "https://ipindia.gov.in/organisation-structure"
+      },
+      {
+        "text": "Jurisdiction",
+        "url": "https://ipindia.gov.in/jurisdiction"
+      },
+      {
+        "text": "Basics of Patents",
+        "url": "https://ipindia.gov.in/basics-of-patents"
+      },
+      {
+        "text": "Filing Process",
+        "url": "https://ipindia.gov.in/page-content/filing-process-1"
+      },
+      {
+        "text": "Public Search",
+        "url": "https://ipindia.gov.in/patents-before-you-apply-public-search"
+      },
+      {
+        "text": "Forms & Official Fees",
+        "url": "https://ipindia.gov.in/patents-before-you-apply-forms-official-fees"
+      },
+      {
+        "text": "Comprehensive e-Filing Services",
+        "url": "https://ipindia.gov.in/patents-e-services-comprehensive-e-filing-services"
+      },
+      {
+        "text": "Track Status",
+        "url": "https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus"
+      },
+      {
+        "text": "Dynamic Utilities",
+        "url": "https://ipindia.gov.in/patents-e-services-dynamic-utilities"
+      },
+      {
+        "text": "Cause List",
+        "url": "https://iprsearch.ipindia.gov.in/DynamicUtility/CauseListForHearingCase/Index"
+      },
+      {
+        "text": "Controller’s Decision",
+        "url": "https://iprsearch.ipindia.gov.in/DynamicUtility/ControllersDecision/Index"
+      },
+      {
+        "text": "Journals",
+        "url": "https://search.ipindia.gov.in/IPOJournal/Journal/Patent"
+      },
+      {
+        "text": "Roll of Scientific Advisers",
+        "url": "https://ipindia.gov.in/manual-blocks/roll-of-scientific-advisers-1"
+      },
+      {
+        "text": "Patent Applications Fee Refund",
+        "url": "https://ipindia.gov.in/patents-publications-patent-applications-fee-refund"
+      },
+      {
+        "text": "Other Publications",
+        "url": "https://ipindia.gov.in/page-content/other-publications-2"
+      },
+      {
+        "text": "Report of Technical Expert Group on Patent Law Issues",
+        "url": "https://ipindia.gov.in/resource/report-of-technical-expert-group-on-patent-law-issues"
+      },
+      {
+        "text": "Patents Granted For Drugs (2016-2019)",
+        "url": "https://ipindia.gov.in/resource/patents-publications-archive-patents-granted-for-drugs-2016-2019"
+      },
+      {
+        "text": "Acts",
+        "url": "https://ipindia.gov.in/resource/patents-resources-act"
+      },
+      {
+        "text": "Rules",
+        "url": "https://ipindia.gov.in/resource/patents-resources-rules"
+      },
+      {
+        "text": "Guidelines",
+        "url": "https://ipindia.gov.in/resource/patents-resources-guidelines"
+      },
+      {
+        "text": "Manuals",
+        "url": "https://ipindia.gov.in/resource/patents-resources-manuals"
+      },
+      {
+        "text": "Service Matters",
+        "url": "https://ipindia.gov.in/page-content/service-matters"
+      },
+      {
+        "text": "Startups Intellectual Property Protection (SIPP)",
+        "url": "https://ipindia.gov.in/page-content/startups-intellectual-property-protection-sipp"
+      },
+      {
+        "text": "List of IP Mitras (Patent Facilitators) under SIPP Scheme",
+        "url": "https://iprsearch.ipindia.gov.in/DynamicUtility/Sipp/index"
+      },
+      {
+        "text": "Electronic Register of Patent Agents",
+        "url": "https://iprsearch.ipindia.gov.in/AgentRegister"
+      },
+      {
+        "text": "FAQs",
+        "url": "https://ipindia.gov.in/patents-e-citizen-faqs"
+      },
+      {
+        "text": "PCT-ISA/IPEA",
+        "url": "https://ipindia.gov.in/page-content/pct-isaipea"
+      },
+      {
+        "text": "History of Designs Law in India",
+        "url": "https://ipindia.gov.in/introduction-history"
+      },
+      {
+        "text": "Office Locations & Jurisdiction",
+        "url": "https://ipindia.gov.in/office-locations-jurisdiction"
+      },
+      {
+        "text": "Vision and Mission",
+        "url": "https://ipindia.gov.in/vision-and-mission"
+      },
+      {
+        "text": "Organisation Structure",
+        "url": "https://ipindia.gov.in/designs-about-us-organisation-structure"
+      },
+      {
+        "text": "Basics of Designs",
+        "url": "https://ipindia.gov.in/page-content/basics-of-designs-1"
+      },
+      {
+        "text": "Design Application Workflow",
+        "url": "https://ipindia.gov.in/application-workflow/design-workflow-process"
+      },
+      {
+        "text": "Filing Process (Step-by-Step)",
+        "url": "https://ipindia.gov.in/application-workflow/design-application-workflow"
+      },
+      {
+        "text": "Search Existing Designs",
+        "url": "https://search.ipindia.gov.in/designsearch/"
+      },
+      {
+        "text": "Forms and Official Fees",
+        "url": "https://ipindia.gov.in/manual-blocks/forms-and-official-fees"
+      },
+      {
+        "text": "Comprehensive e-Filing Services",
+        "url": "https://online.ipindia.gov.in/eDesign/goForLogin/doLogin"
+      },
+      {
+        "text": "Facilitators-Designs",
+        "url": "https://search.ipindia.gov.in/DesignDynamicUtility/Sipp"
+      },
+      {
+        "text": "Track Application Status",
+        "url": "https://search.ipindia.gov.in/DesignApplicationStatus"
+      },
+      {
+        "text": "Design e-register",
+        "url": "https://search.ipindia.gov.in/DesignApplicationStatus/DesignEregister/index"
+      },
+      {
+        "text": "Acts",
+        "url": "https://ipindia.gov.in/designs-resources-act"
+      },
+      {
+        "text": "Rules",
+        "url": "https://ipindia.gov.in/designs-resources-rules"
+      },
+      {
+        "text": "Manuals",
+        "url": "https://ipindia.gov.in/designs-resources-manual"
+      },
+      {
+        "text": "About Trade Marks Registry",
+        "url": "https://ipindia.gov.in/page-content/about-trade-marks-registry"
+      },
+      {
+        "text": "Office Locations & Jurisdiction",
+        "url": "https://ipindia.gov.in/office-locations"
+      },
+      {
+        "text": "Vision and Mission",
+        "url": "https://ipindia.gov.in/vision-and-mission-2"
+      },
+      {
+        "text": "Organisation Structure",
+        "url": "https://ipindia.gov.in/org-structure/organisation-structure"
+      },
+      {
+        "text": "Basics of Trademarks",
+        "url": "https://ipindia.gov.in/page-content/basics-of-trademarks"
+      },
+      {
+        "text": "Trademark Application Workflow",
+        "url": "https://ipindia.gov.in/trademark-application-workflow"
+      },
+      {
+        "text": "Filing Process (Step-by-Step)",
+        "url": "https://ipindia.gov.in/application-workflow/trademark-filing-process"
+      },
+      {
+        "text": "Search Existing Trademarks",
+        "url": "https://ipindia.gov.in/trade-marks-before-you-apply-search-existing-trademarks"
+      },
+      {
+        "text": "Forms & Official Fees",
+        "url": "https://ipindia.gov.in/pages/trade-marks/learn/forms-and-official-fees"
+      },
+      {
+        "text": "Legal Aid: Facilitators – TMR",
+        "url": "https://ipindia.gov.in/manual-blocks/legal-aid-facilitators-tmr"
+      },
+      {
+        "text": "Track Application Status",
+        "url": "https://tmrsearch.ipindia.gov.in/estatus"
+      },
+      {
+        "text": "Hearing Cause Lists",
+        "url": "https://ipindia.gov.in/trade-marks-track-proceedings-hearing-cause-lists"
+      },
+      {
+        "text": "Dynamic Hearing Cause Lists",
+        "url": "https://ipindia.gov.in/trade-marks-track-proceedings-dynamic-hearing-cause-lists"
+      },
+      {
+        "text": "Virtual Hearing Rooms",
+        "url": "https://ipindia.gov.in/trade-marks-track-proceedings-virtual-hearing-rooms"
+      },
+      {
+        "text": "Other Dynamic Utilities",
+        "url": "https://ipindia.gov.in/trade-marks-track-proceedings-other-dynamic-utilities"
+      },
+      {
+        "text": "Nodal Offices for Legal Certificate",
+        "url": "https://ipindia.gov.in/trade-marks-track-proceedings-nodal-offices-for-legal-certificate"
+      },
+      {
+        "text": "Roster: Group A",
+        "url": "https://ipindia.gov.in/page-content/roster-group-a-1"
+      },
+      {
+        "text": "Roster: Group B (Gazetted)",
+        "url": "https://ipindia.gov.in/page-content/roster-group-b-gazetted"
+      },
+      {
+        "text": "Roster: Group B and C",
+        "url": "https://ipindia.gov.in/page-content/roster-group-b-and-c"
+      },
+      {
+        "text": "Reservation Roster (1997–2013)",
+        "url": "https://ipindia.gov.in/manual-blocks/reservation-roster-1997-2013"
+      },
+      {
+        "text": "Recruitment Rules",
+        "url": "https://ipindia.gov.in/manual-blocks/recruitment-rules-1"
+      },
+      {
+        "text": "Roster of Group D / MTS",
+        "url": "https://ipindia.gov.in/manual-blocks/roster-of-group-d-mts"
+      },
+      {
+        "text": "Seniority List of Officers",
+        "url": "https://ipindia.gov.in/trade-marks-administration-seniority-list-of-officers"
+      },
+      {
+        "text": "List of well known Trade Marks",
+        "url": "https://ipindia.gov.in/trade-marks-publications-list-of-well-known-trade-marks"
+      },
+      {
+        "text": "TMR Journals",
+        "url": "https://search.ipindia.gov.in/IPOJournal/Journal/Trademark"
+      },
+      {
+        "text": "Trade Mark Agent Exam & Results",
+        "url": "https://ipindia.gov.in/manual-blocks/trade-mark-agent-exam-results"
+      },
+      {
+        "text": "International Non-Proprietary Names",
+        "url": "https://ipindia.gov.in/trade-marks-publications-international-non-proprietary-names"
+      },
+      {
+        "text": "Acts",
+        "url": "https://ipindia.gov.in/trade-marks-resources-act"
+      },
+      {
+        "text": "Rules",
+        "url": "https://ipindia.gov.in/trade-marks-resources-rules"
+      },
+      {
+        "text": "Manuals",
+        "url": "https://ipindia.gov.in/trade-marks-resources-manual"
+      },
+      {
+        "text": "Guidelines",
+        "url": "https://ipindia.gov.in/trade-marks-resources-guidelines"
+      },
+      {
+        "text": "Madrid- International TMR",
+        "url": "https://ipindia.gov.in/page-content/international-trade-mark-protection"
+      },
+      {
+        "text": "Background of Geographical Indication",
+        "url": "https://ipindia.gov.in/registry"
+      },
+      {
+        "text": "Office Jurisdiction",
+        "url": "https://ipindia.gov.in/Office-jurisdiction"
+      },
+      {
+        "text": "Vision and Mission",
+        "url": "https://ipindia.gov.in/vision-and-mission-gi"
+      },
+      {
+        "text": "Organization Structure",
+        "url": "https://ipindia.gov.in/gi-about-organisation-structure"
+      },
+      {
+        "text": "Contact and Support",
+        "url": "https://ipindia.gov.in/pages-gi-about-contact-support"
+      },
+      {
+        "text": "Apply",
+        "url": "https://online.ipindia.gov.in/eGir/login"
+      },
+      {
+        "text": "Geographical Indications: An Introduction",
+        "url": "https://ipindia.gov.in/page-content/geographical-indications-an-introduction"
+      },
+      {
+        "text": "Application Filing Guidelines",
+        "url": "https://ipindia.gov.in/page-content/application-filing-guidelines-1"
+      },
+      {
+        "text": "Filing Process (Step-by-Step)",
+        "url": "https://ipindia.gov.in/page-content/filing-process-step-by-step-1"
+      },
+      {
+        "text": "Classification of Goods",
+        "url": "https://ipindia.gov.in/geographical-indications-before-you-apply-classification-of-goods"
+      },
+      {
+        "text": "Forms",
+        "url": "https://ipindia.gov.in/geographical-indications-before-you-apply-forms"
+      },
+      {
+        "text": "Fees",
+        "url": "https://ipindia.gov.in/geographical-indications-before-you-apply-fees"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://ipindia.gov.in/page-content/faq"
+      },
+      {
+        "text": "Application Status",
+        "url": "https://search.ipindia.gov.in/GIRPublicSearch/"
+      },
+      {
+        "text": "Part A -Register- List of registered GI of India",
+        "url": "https://ipindia.gov.in/geographical-indications-track-application-list-of-registered-geographical-indications-and-authorised-users-part-a-register-list-of-registered-gi-of-india"
+      },
+      {
+        "text": "Part B- Register -List of registered Authorised users",
+        "url": "https://ipindia.gov.in/part-b-register-list-of-registered-authorised-users"
+      },
+      {
+        "text": "Geographical Indication Journal",
+        "url": "https://search.ipindia.gov.in/IPOJournal/Journal/GIR"
+      },
+      {
+        "text": "Act",
+        "url": "https://ipindia.gov.in/geographical-indications-resources-act"
+      },
+      {
+        "text": "Rules",
+        "url": "https://ipindia.gov.in/geographical-indications-resources-rules"
+      },
+      {
+        "text": "Manuals",
+        "url": "https://ipindia.gov.in/geographical-indications-resources-manual"
+      },
+      {
+        "text": "Guidelines",
+        "url": "https://ipindia.gov.in/geographical-indications-resources-guidelines"
+      },
+      {
+        "text": "Introduction",
+        "url": "https://ipindia.gov.in/introduction-journey"
+      },
+      {
+        "text": "Establishment of Copyright Office & Location",
+        "url": "https://ipindia.gov.in/establishment-location"
+      },
+      {
+        "text": "Organisational Structure",
+        "url": "https://ipindia.gov.in/organisational-structure"
+      },
+      {
+        "text": "Policy & Programs",
+        "url": "https://ipindia.gov.in/policy-programs"
+      },
+      {
+        "text": "Achievements",
+        "url": "https://ipindia.gov.in/achievements"
+      },
+      {
+        "text": "Basic of Copyright",
+        "url": "https://ipindia.gov.in/page-content/basic-of-copyright-1"
+      },
+      {
+        "text": "Copyright Application Workflow",
+        "url": "https://ipindia.gov.in/copyright-application-workflow"
+      },
+      {
+        "text": "Filing Process (Step-by-Step)",
+        "url": "https://ipindia.gov.in/filing-process-step-by-steps"
+      },
+      {
+        "text": "Check List",
+        "url": "https://ipindia.gov.in/check-list"
+      },
+      {
+        "text": "Forms & Official Fees",
+        "url": "https://ipindia.gov.in/forms-official-fees"
+      },
+      {
+        "text": "Copyright Societies",
+        "url": "https://ipindia.gov.in/copyright-societies"
+      },
+      {
+        "text": "FAQs",
+        "url": "https://ipindia.gov.in/page-content/faqs-1"
+      },
+      {
+        "text": "E-Filing Services",
+        "url": "https://ipindia.gov.in/manual-blocks/e-filing-services"
+      },
+      {
+        "text": "Month-wise Applications",
+        "url": "https://ipindia.gov.in/resource/month-wise-applications"
+      },
+      {
+        "text": "E-Register",
+        "url": "https://ipindia.gov.in/page-content/e-register-1"
+      },
+      {
+        "text": "Expunged ROC",
+        "url": "https://ipindia.gov.in/expunged-roc"
+      },
+      {
+        "text": "Public Notice",
+        "url": "https://ipindia.gov.in/resource/public-notice"
+      },
+      {
+        "text": "Society Notice",
+        "url": "https://ipindia.gov.in/society-notice"
+      },
+      {
+        "text": "Miscellaneous Notice",
+        "url": "https://ipindia.gov.in/page-content/miscellaneous-notice-1"
+      },
+      {
+        "text": "IPR Chairs",
+        "url": "https://ipindia.gov.in/ipr-chairs"
+      },
+      {
+        "text": "Act",
+        "url": "https://ipindia.gov.in/copyright-acts"
+      },
+      {
+        "text": "Rules",
+        "url": "https://ipindia.gov.in/copyright-rules"
+      },
+      {
+        "text": "Manuals",
+        "url": "https://ipindia.gov.in/page-content/manuals"
+      },
+      {
+        "text": "Home",
+        "url": "https://ipindia.gov.in/sicldr-home"
+      },
+      {
+        "text": "About Us",
+        "url": "https://ipindia.gov.in/sicld-act"
+      },
+      {
+        "text": "Introduction",
+        "url": "https://ipindia.gov.in/introduction"
+      },
+      {
+        "text": "Integrated Circuits and Layout Designs",
+        "url": "https://ipindia.gov.in/integrated-circuits-layout-designs"
+      },
+      {
+        "text": "Protection of Layout Designs",
+        "url": "https://ipindia.gov.in/protection-layout-designs"
+      },
+      {
+        "text": "Rationale for Protection",
+        "url": "https://ipindia.gov.in/rationale-protection"
+      },
+      {
+        "text": "Sui Generis Nature of Protection",
+        "url": "https://ipindia.gov.in/sui-generis-nature-protection"
+      },
+      {
+        "text": "Procedure",
+        "url": "https://ipindia.gov.in/page-content/procedure"
+      },
+      {
+        "text": "Act & Rules",
+        "url": "https://ipindia.gov.in/sicldr-resources-act-rules"
+      },
+      {
+        "text": "Forms",
+        "url": "https://ipindia.gov.in/sicldr-resources-forms"
+      },
+      {
+        "text": "Journal",
+        "url": "https://ipindia.gov.in/resource/journal"
+      },
+      {
+        "text": "Certificate issued",
+        "url": "https://ipindia.gov.in/sicldr-certificates-issued"
+      },
+      {
+        "text": "Notifications",
+        "url": "https://ipindia.gov.in/sicldr-notifications"
+      },
+      {
+        "text": "FAQs",
+        "url": "https://ipindia.gov.in/sicldr-faqs"
+      },
+      {
+        "text": "About Us",
+        "url": "https://ipindia.gov.in/about-us"
+      },
+      {
+        "text": "Vision and Mission",
+        "url": "https://ipindia.gov.in/rgniipm-vision-and-mission"
+      },
+      {
+        "text": "Introduction",
+        "url": "https://ipindia.gov.in/rgniipm-introduction"
+      },
+      {
+        "text": "Guide Map to RGNIIPM",
+        "url": "https://ipindia.gov.in/rgniipm-quick-information-guide-map"
+      },
+      {
+        "text": "Information Booklet",
+        "url": "https://ipindia.gov.in/rgniipm-quick-information-information-booklet"
+      },
+      {
+        "text": "IP Awareness",
+        "url": "https://ipindia.gov.in/ip-awareness"
+      },
+      {
+        "text": "Roster of Employees",
+        "url": "https://ipindia.gov.in/quick-information-roster-of-employees"
+      },
+      {
+        "text": "WIPO India Examiner training",
+        "url": "https://ipindia.gov.in/manual-blocks/wipo-india-examiner-training"
+      }
+    ],
+    "page_title": "IP India - Intellectual Property India | Government of India",
+    "local_file_path": "dataset/raw/official/patent_rule_24b/content.txt",
+    "content_hash": "e285cd2b8584a25310626b69dd54bb1c825a79a171e571df30d07a6b87768109",
+    "retrieved_at": "2026-09-19T02:27:01.080724+00:00",
+    "last_checked": "2026-09-19T02:27:01.080724+00:00",
+    "acquired_content_hash": "e1f39d4b22358085632a59a5fb7de1c18f1badd1ceb7e7637fddabce097ddfbd",
+    "processing_note": "Chapter navigation removed; acquired version retained alongside cleaned file."
+  },
+  {
+    "source_id": "wipo_pct_guide",
+    "title": "PCT international patent system",
+    "source_url": "https://www.wipo.int/en/web/pct-system",
+    "jurisdiction": "international",
+    "regime": "patents",
+    "organization": "www.wipo.int",
+    "required_patterns": [
+      "international",
+      "patent"
+    ],
+    "kind": "web",
+    "status": "verified",
+    "discovered_links": [
+      {
+        "text": "About Intellectual Property",
+        "url": "https://www.wipo.int/en/web/about-ip"
+      },
+      {
+        "text": "Respect for IP",
+        "url": "https://www.wipo.int/en/web/respect-for-ip"
+      },
+      {
+        "text": "IP Outreach",
+        "url": "https://www.wipo.int/en/web/ip-outreach"
+      },
+      {
+        "text": "Patent & Technology Information",
+        "url": "https://www.wipo.int/en/web/patents/patent-information"
+      },
+      {
+        "text": "Trademark Information",
+        "url": "https://www.wipo.int/en/web/ip-resources"
+      },
+      {
+        "text": "Patent Protection",
+        "url": "https://www.wipo.int/en/web/patents/protection"
+      },
+      {
+        "text": "Trademark Protection",
+        "url": "https://www.wipo.int/en/web/trademarks/protection"
+      },
+      {
+        "text": "Design Protection",
+        "url": "https://www.wipo.int/en/web/designs/protection"
+      },
+      {
+        "text": "Geographical Indication Protection",
+        "url": "https://www.wipo.int/en/web/geographical-indications/protection"
+      },
+      {
+        "text": "IP Dispute Resolution",
+        "url": "https://www.wipo.int/en/web/amc"
+      },
+      {
+        "text": "IP Office Business Solutions",
+        "url": "https://www.wipo.int/en/web/ip-office-business-solutions"
+      },
+      {
+        "text": "Paying for IP Services",
+        "url": "https://www.wipo.int/en/web/paying-for-ip-services"
+      },
+      {
+        "text": "Negotiation & Decision-Making",
+        "url": "https://www.wipo.int/en/web/decision-making-and-negotiating-bodies"
+      },
+      {
+        "text": "IP Cooperation",
+        "url": "https://www.wipo.int/en/web/cooperation"
+      },
+      {
+        "text": "Innovation Support",
+        "url": "https://www.wipo.int/en/web/patents"
+      },
+      {
+        "text": "Public-Private Partnerships",
+        "url": "https://www.wipo.int/en/web/cooperation/public-private-partnerships"
+      },
+      {
+        "text": "The Organization",
+        "url": "https://www.wipo.int/en/web/about-wipo"
+      },
+      {
+        "text": "WIPO and Artificial Intelligence",
+        "url": "https://www.wipo.int/en/web/wipo-and-ai"
+      },
+      {
+        "text": "Working at WIPO",
+        "url": "https://www.wipo.int/en/web/working-at-wipo"
+      },
+      {
+        "text": "Trademarks",
+        "url": "https://www.wipo.int/en/web/trademarks"
+      },
+      {
+        "text": "Designs",
+        "url": "https://www.wipo.int/en/web/designs"
+      },
+      {
+        "text": "Geographical Indications",
+        "url": "https://www.wipo.int/en/web/geographical-indications"
+      },
+      {
+        "text": "Copyright",
+        "url": "https://www.wipo.int/en/web/copyright"
+      },
+      {
+        "text": "Trade Secrets",
+        "url": "https://www.wipo.int/en/web/trade-secrets"
+      },
+      {
+        "text": "Future of IP",
+        "url": "https://www.wipo.int/en/web/future-of-ip"
+      },
+      {
+        "text": "WIPO Academy",
+        "url": "https://www.wipo.int/en/web/wipo-academy"
+      },
+      {
+        "text": "Workshops & Seminars",
+        "url": "https://www.wipo.int/meetings/en/topic_type.jsp?group_id=242"
+      },
+      {
+        "text": "IP Enforcement",
+        "url": "https://www.wipo.int/en/web/ip-enforcement"
+      },
+      {
+        "text": "WIPO ALERT",
+        "url": "https://www.wipo.int/en/web/wipo-alert"
+      },
+      {
+        "text": "Raising Awareness",
+        "url": "https://www.wipo.int/en/web/respect-for-ip/awareness-raising"
+      },
+      {
+        "text": "World IP Day",
+        "url": "https://www.wipo.int/en/web/ipday"
+      },
+      {
+        "text": "WIPO Magazine",
+        "url": "https://www.wipo.int/en/web/wipo-magazine"
+      },
+      {
+        "text": "Case Studies & Success Stories",
+        "url": "https://www.wipo.int/en/web/ip-advantage"
+      },
+      {
+        "text": "IP News",
+        "url": "https://www.wipo.int/en/web/news/explore"
+      },
+      {
+        "text": "WIPO Awards",
+        "url": "https://www.wipo.int/en/web/awards"
+      },
+      {
+        "text": "Business",
+        "url": "https://www.wipo.int/en/web/business"
+      },
+      {
+        "text": "Women",
+        "url": "https://www.wipo.int/en/web/women"
+      },
+      {
+        "text": "Universities",
+        "url": "https://www.wipo.int/en/web/universities"
+      },
+      {
+        "text": "Indigenous Peoples",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge/engagement"
+      },
+      {
+        "text": "Judiciaries",
+        "url": "https://www.wipo.int/en/web/judiciaries"
+      },
+      {
+        "text": "Youth",
+        "url": "https://www.wipo.int/en/web/youth-engagement"
+      },
+      {
+        "text": "Examiners",
+        "url": "https://www.wipo.int/en/web/examiners"
+      },
+      {
+        "text": "Innovation Ecosystems",
+        "url": "https://www.wipo.int/en/web/innovation-ecosystems"
+      },
+      {
+        "text": "Economics",
+        "url": "https://www.wipo.int/en/web/economics"
+      },
+      {
+        "text": "Finance",
+        "url": "https://www.wipo.int/en/web/ip-financing"
+      },
+      {
+        "text": "Intangible Assets",
+        "url": "https://www.wipo.int/en/web/intangible-assets"
+      },
+      {
+        "text": "Global Health",
+        "url": "https://www.wipo.int/en/web/global-health"
+      },
+      {
+        "text": "Climate Change",
+        "url": "https://www.wipo.int/en/web/climate-change"
+      },
+      {
+        "text": "Competition Policy",
+        "url": "https://www.wipo.int/en/web/competition-policy"
+      },
+      {
+        "text": "Sustainable Development Goals",
+        "url": "https://www.wipo.int/en/web/sdgs"
+      },
+      {
+        "text": "Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge"
+      },
+      {
+        "text": "Frontier Technologies",
+        "url": "https://www.wipo.int/en/web/frontier-technologies"
+      },
+      {
+        "text": "Mobile Applications",
+        "url": "https://www.wipo.int/en/web/mobile-apps"
+      },
+      {
+        "text": "Sports",
+        "url": "https://www.wipo.int/en/web/sports"
+      },
+      {
+        "text": "Tourism",
+        "url": "https://www.wipo.int/en/web/tourism"
+      },
+      {
+        "text": "Music",
+        "url": "https://www.wipo.int/en/web/music"
+      },
+      {
+        "text": "Fashion",
+        "url": "https://www.wipo.int/en/web/fashion"
+      },
+      {
+        "text": "PATENTSCOPE",
+        "url": "https://www.wipo.int/en/web/patentscope"
+      },
+      {
+        "text": "Patent Analytics",
+        "url": "https://www.wipo.int/en/web/patent-analytics"
+      },
+      {
+        "text": "International Patent Classification",
+        "url": "https://www.wipo.int/en/web/classification-ipc"
+      },
+      {
+        "text": "ARDI – Research for Innovation",
+        "url": "https://www.wipo.int/en/web/ardi"
+      },
+      {
+        "text": "ASPI – Specialized Patent Information",
+        "url": "https://www.wipo.int/en/web/aspi"
+      },
+      {
+        "text": "Global Brand Database",
+        "url": "https://www.wipo.int/en/web/global-brand-database"
+      },
+      {
+        "text": "Madrid Monitor",
+        "url": "https://www3.wipo.int/madrid/monitor/en/"
+      },
+      {
+        "text": "Article 6ter Express Database",
+        "url": "https://6ter.wipo.int/struct-search"
+      },
+      {
+        "text": "Nice Classification",
+        "url": "https://www.wipo.int/en/web/classification-nice"
+      },
+      {
+        "text": "Vienna Classification",
+        "url": "https://www.wipo.int/en/web/classification-vienna"
+      },
+      {
+        "text": "Global Design Database",
+        "url": "https://www.wipo.int/en/web/global-design-database"
+      },
+      {
+        "text": "International Designs Bulletin",
+        "url": "https://hague.wipo.int/"
+      },
+      {
+        "text": "Hague Express Database",
+        "url": "https://designdb.wipo.int/designdb/hague/en/"
+      },
+      {
+        "text": "Locarno Classification",
+        "url": "https://www.wipo.int/en/web/classification-locarno"
+      },
+      {
+        "text": "Lisbon Express Database",
+        "url": "https://lisbon-express.wipo.int/"
+      },
+      {
+        "text": "Global Brand Database for GIs",
+        "url": "https://branddb.wipo.int/en/IPO-LISBON/quicksearch?_=1676544734688&by=brandName&start=0&v="
+      },
+      {
+        "text": "WIPO-Administered Treaties",
+        "url": "https://www.wipo.int/en/web/treaties"
+      },
+      {
+        "text": "WIPO Lex - IP Laws, Treaties & Judgments",
+        "url": "https://www.wipo.int/en/web/wipolex"
+      },
+      {
+        "text": "WIPO Standards",
+        "url": "https://www.wipo.int/en/web/standards"
+      },
+      {
+        "text": "IP Statistics",
+        "url": "https://www.wipo.int/en/web/ip-statistics"
+      },
+      {
+        "text": "WIPO Pearl (Terminology)",
+        "url": "https://www.wipo.int/en/web/wipo-pearl"
+      },
+      {
+        "text": "WIPO Publications",
+        "url": "https://www.wipo.int/publications/en/"
+      },
+      {
+        "text": "Country IP Profiles",
+        "url": "https://www.wipo.int/en/web/country-profiles"
+      },
+      {
+        "text": "WIPO Knowledge Center",
+        "url": "https://www.wipo.int/en/web/wipo-knowledge-center"
+      },
+      {
+        "text": "World Intangible Investment Highlights",
+        "url": "https://www.wipo.int/en/web/intangible-assets/measuring-investments"
+      },
+      {
+        "text": "WIPO Technology Trends",
+        "url": "https://www.wipo.int/en/web/technology-trends"
+      },
+      {
+        "text": "Global Innovation Index",
+        "url": "https://www.wipo.int/en/web/global-innovation-index"
+      },
+      {
+        "text": "World Intellectual Property Report",
+        "url": "https://www.wipo.int/en/web/world-ip-report"
+      },
+      {
+        "text": "PCT – The International Patent System",
+        "url": "https://www.wipo.int/en/web/pct-system"
+      },
+      {
+        "text": "ePCT",
+        "url": "https://pct.wipo.int/ePCT/"
+      },
+      {
+        "text": "Budapest – The International Microorganism Deposit System",
+        "url": "https://www.wipo.int/en/web/budapest-system"
+      },
+      {
+        "text": "Madrid – The International Trademark System",
+        "url": "https://www.wipo.int/en/web/madrid-system"
+      },
+      {
+        "text": "eMadrid",
+        "url": "https://madrid.wipo.int/"
+      },
+      {
+        "text": "Article 6ter (armorial bearings, flags, state emblems)",
+        "url": "https://www.wipo.int/en/web/article-6ter"
+      },
+      {
+        "text": "Hague – The International Design System",
+        "url": "https://www.wipo.int/en/web/hague-system"
+      },
+      {
+        "text": "Lisbon – The International System of Appellations of Origin and Geographical Indications",
+        "url": "https://www.wipo.int/en/web/lisbon-system"
+      },
+      {
+        "text": "eLisbon",
+        "url": "https://lisbon-system.wipo.int/"
+      },
+      {
+        "text": "UPOV PRISMA",
+        "url": "https://www3.wipo.int/upovprisma"
+      },
+      {
+        "text": "Domain Name Disputes",
+        "url": "https://www.wipo.int/en/web/amc/domain-name-disputes"
+      },
+      {
+        "text": "Centralized Access to Search and Examination (CASE)",
+        "url": "https://www.wipo.int/en/web/case"
+      },
+      {
+        "text": "Digital Access Service (DAS)",
+        "url": "https://www.wipo.int/en/web/das"
+      },
+      {
+        "text": "WIPO Pay",
+        "url": "https://www.wipo.int/en/web/wipo-pay"
+      },
+      {
+        "text": "Current Account at WIPO",
+        "url": "https://www.wipo.int/en/web/current-account-at-wipo"
+      },
+      {
+        "text": "WIPO Assemblies",
+        "url": "https://www.wipo.int/en/web/assemblies"
+      },
+      {
+        "text": "Calendar of Meetings",
+        "url": "https://www.wipo.int/meetings/en/"
+      },
+      {
+        "text": "WIPO Webcast",
+        "url": "https://webcast.wipo.int/"
+      },
+      {
+        "text": "WIPO Official Documents",
+        "url": "https://www.wipo.int/meetings/en/archive.jsp"
+      },
+      {
+        "text": "Development Agenda",
+        "url": "https://www.wipo.int/en/web/development-agenda"
+      },
+      {
+        "text": "Tailored Initiatives & Projects",
+        "url": "https://www.wipo.int/en/web/cooperation/tailored-initiatives"
+      },
+      {
+        "text": "Collaborative Forums & Dialogues",
+        "url": "https://www.wipo.int/en/web/cooperation/collaborative-forums"
+      },
+      {
+        "text": "Innovation, Creativity and Development Acceleration Program",
+        "url": "https://www.wipo.int/en/web/innovation-creativity-and-development-acceleration-program"
+      },
+      {
+        "text": "IP for Impact",
+        "url": "https://www.wipo.int/pressroom/en/stories/"
+      },
+      {
+        "text": "National IP Strategies",
+        "url": "https://www.wipo.int/en/web/national-ip-strategies"
+      },
+      {
+        "text": "Cooperation Hub",
+        "url": "https://www.wipo.int/en/web/cooperation/cooperation-hub"
+      },
+      {
+        "text": "Technology and Innovation Support Centers (TISC)",
+        "url": "https://www.wipo.int/en/web/tisc"
+      },
+      {
+        "text": "Technology Transfer",
+        "url": "https://www.wipo.int/en/web/technology-transfer"
+      },
+      {
+        "text": "Inventor Assistance Program",
+        "url": "https://www.wipo.int/en/web/inventor-assistance-program"
+      },
+      {
+        "text": "IP Commercialization",
+        "url": "https://www.wipo.int/en/web/ip-commercialization"
+      },
+      {
+        "text": "WIPO GREEN",
+        "url": "https://www3.wipo.int/wipogreen/en/"
+      },
+      {
+        "text": "WIPO's Pat-INFORMED",
+        "url": "https://www.wipo.int/pat-informed/en/"
+      },
+      {
+        "text": "WIPO for Creators",
+        "url": "https://www.wipo.int/en/web/wipo-for-creators"
+      },
+      {
+        "text": "Member States",
+        "url": "https://www.wipo.int/members/en/"
+      },
+      {
+        "text": "Observers",
+        "url": "https://www.wipo.int/en/web/about-wipo/observers"
+      },
+      {
+        "text": "Director General",
+        "url": "https://www.wipo.int/en/web/director-general"
+      },
+      {
+        "text": "Activities by Unit",
+        "url": "https://www.wipo.int/en/web/about-wipo/activities-by-unit"
+      },
+      {
+        "text": "External Offices",
+        "url": "https://www.wipo.int/en/web/about-wipo/offices"
+      },
+      {
+        "text": "Global Forum on IP and AI",
+        "url": "https://www.wipo.int/en/web/global-forum-on-ip-and-ai"
+      },
+      {
+        "text": "AI Infrastructure Interchange",
+        "url": "https://www.wipo.int/en/web/ai-infrastructure-interchange"
+      },
+      {
+        "text": "AI Tools & Services",
+        "url": "https://www.wipo.int/en/web/ai-tools-services"
+      },
+      {
+        "text": "Procurement",
+        "url": "https://www.wipo.int/en/web/procurement"
+      },
+      {
+        "text": "Results & Budget",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget"
+      },
+      {
+        "text": "Financial Reporting",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget/financial"
+      },
+      {
+        "text": "Oversight",
+        "url": "https://www.wipo.int/en/web/about-wipo/oversight"
+      },
+      {
+        "text": "IP tools",
+        "url": "https://www3.wipo.int/authpage/signin.xhtml?goto=https%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html"
+      },
+      {
+        "text": "Patent Cooperation Treaty (PCT)",
+        "url": "https://www.wipo.int/en/web/pct-system/texts/articles/atoc"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/pct-system/docs-en-texts-pct.pdf"
+      },
+      {
+        "text": "159 Contracting States",
+        "url": "https://www.wipo.int/en/web/pct-system/pct_contracting_states"
+      },
+      {
+        "text": "Introduction to the PCT",
+        "url": "https://www.wipo.int/en/web/pct-system/introduction"
+      },
+      {
+        "text": "PCT Applicant's Guide",
+        "url": "https://www.wipo.int/en/web/pct-system/guide/index"
+      },
+      {
+        "text": "PCT for Offices",
+        "url": "https://www.wipo.int/en/web/pct-system/pct-for-offices"
+      },
+      {
+        "text": "PCT training",
+        "url": "https://www.wipo.int/en/web/pct-system/training/index"
+      },
+      {
+        "text": "PCT legal texts",
+        "url": "https://www.wipo.int/en/web/pct-system/texts/index"
+      },
+      {
+        "text": "All PCT resources",
+        "url": "https://www.wipo.int/en/web/pct-system/resources"
+      },
+      {
+        "text": "PCT Applicant's Guide",
+        "url": "https://www.wipo.int/en/web/pct-system/guide"
+      },
+      {
+        "text": "PCT training",
+        "url": "https://www.wipo.int/en/web/pct-system/training"
+      },
+      {
+        "text": "PCT FAQs",
+        "url": "https://www.wipo.int/en/web/pct-system/faqs/faqs"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/pct-system/training/seminar-advanced-users"
+      },
+      {
+        "text": "Register now",
+        "url": "https://www.wipo.int/registration/en/form.jsp?registration_id=659"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/videos/w/the-pct-seeking-patent-protection-beyond-borders"
+      },
+      {
+        "text": "All news",
+        "url": "https://www.wipo.int/en/web/pct-system/news"
+      },
+      {
+        "text": "Connect with WIPO at the 2026 IPO Annual Meeting",
+        "url": "https://www.wipo.int/en/web/pct-system/w/news/2026/connect-with-wipo-at-the-2026-ipo-annual-meeting"
+      },
+      {
+        "text": "WIPO and IP Office of the Philippines Host Webinar on Patents and the PCT for Women Innovators and Entrepreneurs",
+        "url": "https://www.wipo.int/en/web/pct-system/w/news/2026/wipo-and-ip-office-of-the-philippines-host-webinar-on-patents-and-the-pct-for-women-innovators-and-entrepreneurs"
+      },
+      {
+        "text": "WIPO Pearl API for Terminology Now Available in a New Platform",
+        "url": "https://www.wipo.int/en/web/wipo-pearl/w/news/2026/wipo-pearl-api-for-terminology-now-available-in-a-new-platform"
+      }
+    ],
+    "page_title": "PCT – The International Patent System",
+    "local_file_path": "dataset/raw/official/wipo_pct_guide/content.txt",
+    "content_hash": "5dfe9082f7ae0144236e2760825cb750c7258f4a906549db8c17b675c92e9f9e",
+    "retrieved_at": "2026-09-19T02:27:04.095458+00:00",
+    "last_checked": "2026-09-19T02:27:04.095458+00:00"
+  },
+  {
+    "source_id": "wipo_madrid_guide",
+    "title": "Madrid international trademark system",
+    "source_url": "https://www.wipo.int/en/web/madrid-system",
+    "jurisdiction": "international",
+    "regime": "trademarks",
+    "organization": "www.wipo.int",
+    "required_patterns": [
+      "international",
+      "trademark"
+    ],
+    "kind": "web",
+    "status": "verified",
+    "discovered_links": [
+      {
+        "text": "About Intellectual Property",
+        "url": "https://www.wipo.int/en/web/about-ip"
+      },
+      {
+        "text": "Respect for IP",
+        "url": "https://www.wipo.int/en/web/respect-for-ip"
+      },
+      {
+        "text": "IP Outreach",
+        "url": "https://www.wipo.int/en/web/ip-outreach"
+      },
+      {
+        "text": "Patent & Technology Information",
+        "url": "https://www.wipo.int/en/web/patents/patent-information"
+      },
+      {
+        "text": "Trademark Information",
+        "url": "https://www.wipo.int/en/web/ip-resources"
+      },
+      {
+        "text": "Patent Protection",
+        "url": "https://www.wipo.int/en/web/patents/protection"
+      },
+      {
+        "text": "Trademark Protection",
+        "url": "https://www.wipo.int/en/web/trademarks/protection"
+      },
+      {
+        "text": "Design Protection",
+        "url": "https://www.wipo.int/en/web/designs/protection"
+      },
+      {
+        "text": "Geographical Indication Protection",
+        "url": "https://www.wipo.int/en/web/geographical-indications/protection"
+      },
+      {
+        "text": "IP Dispute Resolution",
+        "url": "https://www.wipo.int/en/web/amc"
+      },
+      {
+        "text": "IP Office Business Solutions",
+        "url": "https://www.wipo.int/en/web/ip-office-business-solutions"
+      },
+      {
+        "text": "Paying for IP Services",
+        "url": "https://www.wipo.int/en/web/paying-for-ip-services"
+      },
+      {
+        "text": "Negotiation & Decision-Making",
+        "url": "https://www.wipo.int/en/web/decision-making-and-negotiating-bodies"
+      },
+      {
+        "text": "IP Cooperation",
+        "url": "https://www.wipo.int/en/web/cooperation"
+      },
+      {
+        "text": "Innovation Support",
+        "url": "https://www.wipo.int/en/web/patents"
+      },
+      {
+        "text": "Public-Private Partnerships",
+        "url": "https://www.wipo.int/en/web/cooperation/public-private-partnerships"
+      },
+      {
+        "text": "The Organization",
+        "url": "https://www.wipo.int/en/web/about-wipo"
+      },
+      {
+        "text": "WIPO and Artificial Intelligence",
+        "url": "https://www.wipo.int/en/web/wipo-and-ai"
+      },
+      {
+        "text": "Working at WIPO",
+        "url": "https://www.wipo.int/en/web/working-at-wipo"
+      },
+      {
+        "text": "Trademarks",
+        "url": "https://www.wipo.int/en/web/trademarks"
+      },
+      {
+        "text": "Designs",
+        "url": "https://www.wipo.int/en/web/designs"
+      },
+      {
+        "text": "Geographical Indications",
+        "url": "https://www.wipo.int/en/web/geographical-indications"
+      },
+      {
+        "text": "Copyright",
+        "url": "https://www.wipo.int/en/web/copyright"
+      },
+      {
+        "text": "Trade Secrets",
+        "url": "https://www.wipo.int/en/web/trade-secrets"
+      },
+      {
+        "text": "Future of IP",
+        "url": "https://www.wipo.int/en/web/future-of-ip"
+      },
+      {
+        "text": "WIPO Academy",
+        "url": "https://www.wipo.int/en/web/wipo-academy"
+      },
+      {
+        "text": "Workshops & Seminars",
+        "url": "https://www.wipo.int/meetings/en/topic_type.jsp?group_id=242"
+      },
+      {
+        "text": "IP Enforcement",
+        "url": "https://www.wipo.int/en/web/ip-enforcement"
+      },
+      {
+        "text": "WIPO ALERT",
+        "url": "https://www.wipo.int/en/web/wipo-alert"
+      },
+      {
+        "text": "Raising Awareness",
+        "url": "https://www.wipo.int/en/web/respect-for-ip/awareness-raising"
+      },
+      {
+        "text": "World IP Day",
+        "url": "https://www.wipo.int/en/web/ipday"
+      },
+      {
+        "text": "WIPO Magazine",
+        "url": "https://www.wipo.int/en/web/wipo-magazine"
+      },
+      {
+        "text": "Case Studies & Success Stories",
+        "url": "https://www.wipo.int/en/web/ip-advantage"
+      },
+      {
+        "text": "IP News",
+        "url": "https://www.wipo.int/en/web/news/explore"
+      },
+      {
+        "text": "WIPO Awards",
+        "url": "https://www.wipo.int/en/web/awards"
+      },
+      {
+        "text": "Business",
+        "url": "https://www.wipo.int/en/web/business"
+      },
+      {
+        "text": "Women",
+        "url": "https://www.wipo.int/en/web/women"
+      },
+      {
+        "text": "Universities",
+        "url": "https://www.wipo.int/en/web/universities"
+      },
+      {
+        "text": "Indigenous Peoples",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge/engagement"
+      },
+      {
+        "text": "Judiciaries",
+        "url": "https://www.wipo.int/en/web/judiciaries"
+      },
+      {
+        "text": "Youth",
+        "url": "https://www.wipo.int/en/web/youth-engagement"
+      },
+      {
+        "text": "Examiners",
+        "url": "https://www.wipo.int/en/web/examiners"
+      },
+      {
+        "text": "Innovation Ecosystems",
+        "url": "https://www.wipo.int/en/web/innovation-ecosystems"
+      },
+      {
+        "text": "Economics",
+        "url": "https://www.wipo.int/en/web/economics"
+      },
+      {
+        "text": "Finance",
+        "url": "https://www.wipo.int/en/web/ip-financing"
+      },
+      {
+        "text": "Intangible Assets",
+        "url": "https://www.wipo.int/en/web/intangible-assets"
+      },
+      {
+        "text": "Global Health",
+        "url": "https://www.wipo.int/en/web/global-health"
+      },
+      {
+        "text": "Climate Change",
+        "url": "https://www.wipo.int/en/web/climate-change"
+      },
+      {
+        "text": "Competition Policy",
+        "url": "https://www.wipo.int/en/web/competition-policy"
+      },
+      {
+        "text": "Sustainable Development Goals",
+        "url": "https://www.wipo.int/en/web/sdgs"
+      },
+      {
+        "text": "Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge"
+      },
+      {
+        "text": "Frontier Technologies",
+        "url": "https://www.wipo.int/en/web/frontier-technologies"
+      },
+      {
+        "text": "Mobile Applications",
+        "url": "https://www.wipo.int/en/web/mobile-apps"
+      },
+      {
+        "text": "Sports",
+        "url": "https://www.wipo.int/en/web/sports"
+      },
+      {
+        "text": "Tourism",
+        "url": "https://www.wipo.int/en/web/tourism"
+      },
+      {
+        "text": "Music",
+        "url": "https://www.wipo.int/en/web/music"
+      },
+      {
+        "text": "Fashion",
+        "url": "https://www.wipo.int/en/web/fashion"
+      },
+      {
+        "text": "PATENTSCOPE",
+        "url": "https://www.wipo.int/en/web/patentscope"
+      },
+      {
+        "text": "Patent Analytics",
+        "url": "https://www.wipo.int/en/web/patent-analytics"
+      },
+      {
+        "text": "International Patent Classification",
+        "url": "https://www.wipo.int/en/web/classification-ipc"
+      },
+      {
+        "text": "ARDI – Research for Innovation",
+        "url": "https://www.wipo.int/en/web/ardi"
+      },
+      {
+        "text": "ASPI – Specialized Patent Information",
+        "url": "https://www.wipo.int/en/web/aspi"
+      },
+      {
+        "text": "Global Brand Database",
+        "url": "https://www.wipo.int/en/web/global-brand-database"
+      },
+      {
+        "text": "Madrid Monitor",
+        "url": "https://www3.wipo.int/madrid/monitor/en/"
+      },
+      {
+        "text": "Article 6ter Express Database",
+        "url": "https://6ter.wipo.int/struct-search"
+      },
+      {
+        "text": "Nice Classification",
+        "url": "https://www.wipo.int/en/web/classification-nice"
+      },
+      {
+        "text": "Vienna Classification",
+        "url": "https://www.wipo.int/en/web/classification-vienna"
+      },
+      {
+        "text": "Global Design Database",
+        "url": "https://www.wipo.int/en/web/global-design-database"
+      },
+      {
+        "text": "International Designs Bulletin",
+        "url": "https://hague.wipo.int/"
+      },
+      {
+        "text": "Hague Express Database",
+        "url": "https://designdb.wipo.int/designdb/hague/en/"
+      },
+      {
+        "text": "Locarno Classification",
+        "url": "https://www.wipo.int/en/web/classification-locarno"
+      },
+      {
+        "text": "Lisbon Express Database",
+        "url": "https://lisbon-express.wipo.int/"
+      },
+      {
+        "text": "Global Brand Database for GIs",
+        "url": "https://branddb.wipo.int/en/IPO-LISBON/quicksearch?_=1676544734688&by=brandName&start=0&v="
+      },
+      {
+        "text": "WIPO-Administered Treaties",
+        "url": "https://www.wipo.int/en/web/treaties"
+      },
+      {
+        "text": "WIPO Lex - IP Laws, Treaties & Judgments",
+        "url": "https://www.wipo.int/en/web/wipolex"
+      },
+      {
+        "text": "WIPO Standards",
+        "url": "https://www.wipo.int/en/web/standards"
+      },
+      {
+        "text": "IP Statistics",
+        "url": "https://www.wipo.int/en/web/ip-statistics"
+      },
+      {
+        "text": "WIPO Pearl (Terminology)",
+        "url": "https://www.wipo.int/en/web/wipo-pearl"
+      },
+      {
+        "text": "WIPO Publications",
+        "url": "https://www.wipo.int/publications/en/"
+      },
+      {
+        "text": "Country IP Profiles",
+        "url": "https://www.wipo.int/en/web/country-profiles"
+      },
+      {
+        "text": "WIPO Knowledge Center",
+        "url": "https://www.wipo.int/en/web/wipo-knowledge-center"
+      },
+      {
+        "text": "World Intangible Investment Highlights",
+        "url": "https://www.wipo.int/en/web/intangible-assets/measuring-investments"
+      },
+      {
+        "text": "WIPO Technology Trends",
+        "url": "https://www.wipo.int/en/web/technology-trends"
+      },
+      {
+        "text": "Global Innovation Index",
+        "url": "https://www.wipo.int/en/web/global-innovation-index"
+      },
+      {
+        "text": "World Intellectual Property Report",
+        "url": "https://www.wipo.int/en/web/world-ip-report"
+      },
+      {
+        "text": "PCT – The International Patent System",
+        "url": "https://www.wipo.int/en/web/pct-system"
+      },
+      {
+        "text": "ePCT",
+        "url": "https://pct.wipo.int/ePCT/"
+      },
+      {
+        "text": "Budapest – The International Microorganism Deposit System",
+        "url": "https://www.wipo.int/en/web/budapest-system"
+      },
+      {
+        "text": "Madrid – The International Trademark System",
+        "url": "https://www.wipo.int/en/web/madrid-system"
+      },
+      {
+        "text": "eMadrid",
+        "url": "https://madrid.wipo.int/"
+      },
+      {
+        "text": "Article 6ter (armorial bearings, flags, state emblems)",
+        "url": "https://www.wipo.int/en/web/article-6ter"
+      },
+      {
+        "text": "Hague – The International Design System",
+        "url": "https://www.wipo.int/en/web/hague-system"
+      },
+      {
+        "text": "Lisbon – The International System of Appellations of Origin and Geographical Indications",
+        "url": "https://www.wipo.int/en/web/lisbon-system"
+      },
+      {
+        "text": "eLisbon",
+        "url": "https://lisbon-system.wipo.int/"
+      },
+      {
+        "text": "UPOV PRISMA",
+        "url": "https://www3.wipo.int/upovprisma"
+      },
+      {
+        "text": "Domain Name Disputes",
+        "url": "https://www.wipo.int/en/web/amc/domain-name-disputes"
+      },
+      {
+        "text": "Centralized Access to Search and Examination (CASE)",
+        "url": "https://www.wipo.int/en/web/case"
+      },
+      {
+        "text": "Digital Access Service (DAS)",
+        "url": "https://www.wipo.int/en/web/das"
+      },
+      {
+        "text": "WIPO Pay",
+        "url": "https://www.wipo.int/en/web/wipo-pay"
+      },
+      {
+        "text": "Current Account at WIPO",
+        "url": "https://www.wipo.int/en/web/current-account-at-wipo"
+      },
+      {
+        "text": "WIPO Assemblies",
+        "url": "https://www.wipo.int/en/web/assemblies"
+      },
+      {
+        "text": "Calendar of Meetings",
+        "url": "https://www.wipo.int/meetings/en/"
+      },
+      {
+        "text": "WIPO Webcast",
+        "url": "https://webcast.wipo.int/"
+      },
+      {
+        "text": "WIPO Official Documents",
+        "url": "https://www.wipo.int/meetings/en/archive.jsp"
+      },
+      {
+        "text": "Development Agenda",
+        "url": "https://www.wipo.int/en/web/development-agenda"
+      },
+      {
+        "text": "Tailored Initiatives & Projects",
+        "url": "https://www.wipo.int/en/web/cooperation/tailored-initiatives"
+      },
+      {
+        "text": "Collaborative Forums & Dialogues",
+        "url": "https://www.wipo.int/en/web/cooperation/collaborative-forums"
+      },
+      {
+        "text": "Innovation, Creativity and Development Acceleration Program",
+        "url": "https://www.wipo.int/en/web/innovation-creativity-and-development-acceleration-program"
+      },
+      {
+        "text": "IP for Impact",
+        "url": "https://www.wipo.int/pressroom/en/stories/"
+      },
+      {
+        "text": "National IP Strategies",
+        "url": "https://www.wipo.int/en/web/national-ip-strategies"
+      },
+      {
+        "text": "Cooperation Hub",
+        "url": "https://www.wipo.int/en/web/cooperation/cooperation-hub"
+      },
+      {
+        "text": "Technology and Innovation Support Centers (TISC)",
+        "url": "https://www.wipo.int/en/web/tisc"
+      },
+      {
+        "text": "Technology Transfer",
+        "url": "https://www.wipo.int/en/web/technology-transfer"
+      },
+      {
+        "text": "Inventor Assistance Program",
+        "url": "https://www.wipo.int/en/web/inventor-assistance-program"
+      },
+      {
+        "text": "IP Commercialization",
+        "url": "https://www.wipo.int/en/web/ip-commercialization"
+      },
+      {
+        "text": "WIPO GREEN",
+        "url": "https://www3.wipo.int/wipogreen/en/"
+      },
+      {
+        "text": "WIPO's Pat-INFORMED",
+        "url": "https://www.wipo.int/pat-informed/en/"
+      },
+      {
+        "text": "WIPO for Creators",
+        "url": "https://www.wipo.int/en/web/wipo-for-creators"
+      },
+      {
+        "text": "Member States",
+        "url": "https://www.wipo.int/members/en/"
+      },
+      {
+        "text": "Observers",
+        "url": "https://www.wipo.int/en/web/about-wipo/observers"
+      },
+      {
+        "text": "Director General",
+        "url": "https://www.wipo.int/en/web/director-general"
+      },
+      {
+        "text": "Activities by Unit",
+        "url": "https://www.wipo.int/en/web/about-wipo/activities-by-unit"
+      },
+      {
+        "text": "External Offices",
+        "url": "https://www.wipo.int/en/web/about-wipo/offices"
+      },
+      {
+        "text": "Global Forum on IP and AI",
+        "url": "https://www.wipo.int/en/web/global-forum-on-ip-and-ai"
+      },
+      {
+        "text": "AI Infrastructure Interchange",
+        "url": "https://www.wipo.int/en/web/ai-infrastructure-interchange"
+      },
+      {
+        "text": "AI Tools & Services",
+        "url": "https://www.wipo.int/en/web/ai-tools-services"
+      },
+      {
+        "text": "Procurement",
+        "url": "https://www.wipo.int/en/web/procurement"
+      },
+      {
+        "text": "Results & Budget",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget"
+      },
+      {
+        "text": "Financial Reporting",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget/financial"
+      },
+      {
+        "text": "Oversight",
+        "url": "https://www.wipo.int/en/web/about-wipo/oversight"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/madrid-system/information-notices-en-2026-madrid_2026_33_e.pdf"
+      },
+      {
+        "text": "IP tools",
+        "url": "https://www3.wipo.int/authpage/signin.xhtml?goto=https%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://www3.wipo.int/contact/en/madrid/"
+      },
+      {
+        "text": "Statement of provisions potentially applicable to WIPO global IP services regarding Ukraine and the Russian Federation",
+        "url": "https://www.wipo.int/pressroom/en/global_ip_services_joint_statement.html"
+      },
+      {
+        "text": "trademarks",
+        "url": "https://www.wipo.int/trademarks/en/"
+      },
+      {
+        "text": "one set of fees",
+        "url": "https://www.wipo.int/finance/en/madrid.html"
+      },
+      {
+        "text": "133 countries",
+        "url": "https://www.wipo.int/en/web/madrid-system/members"
+      },
+      {
+        "text": "Calculate your fees",
+        "url": "https://madrid.wipo.int/feecalcapp"
+      },
+      {
+        "text": "Fees for filing an international trademark application",
+        "url": "https://www.wipo.int/en/web/madrid-system/how_to/file/fees"
+      },
+      {
+        "text": "Fees for managing an international trademark registration",
+        "url": "https://www.wipo.int/en/web/madrid-system/fees/sched"
+      },
+      {
+        "text": "Benefits of the Madrid System",
+        "url": "https://www.wipo.int/en/web/madrid-system/madrid_benefits"
+      },
+      {
+        "text": "Madrid System FAQs",
+        "url": "https://www.wipo.int/en/web/madrid-system/faq"
+      },
+      {
+        "text": "latest scams and fraudulent communications",
+        "url": "https://www.wipo.int/en/web/madrid-system/fees/invoices"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/ip-advantage/w/stories/unleashing-jaiklas-global-potential-as-an-insect-based-dog-food-brand"
+      },
+      {
+        "text": "Join us to celebrate World IP Day",
+        "url": "https://www.wipo.int/en/web/ipday/index"
+      },
+      {
+        "text": "Try the new eMadrid (beta) environment",
+        "url": "https://beta.madrid.wipo.int/"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/documents/d/madrid-system/docs-en-new-emadrid-beta-wtr.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/web/madrid-system/w/news/2024/qatar-joins-the-madrid-system"
+      },
+      {
+        "text": "play_circleIntroduction to the International Trademark System",
+        "url": "https://www.wipo.int/multimedia-video/en/madrid/madrid_intro.mp4"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/web/madrid-system/how_to/search"
+      }
+    ],
+    "page_title": "WIPO Madrid System – International Trademark Protection",
+    "local_file_path": "dataset/raw/official/wipo_madrid_guide/content.txt",
+    "content_hash": "430b07421d1b41b4aac4fa1af536dd7cd15d9ff0986bf7b9896b16158db47812",
+    "retrieved_at": "2026-09-19T02:27:13.937834+00:00",
+    "last_checked": "2026-09-19T02:27:13.937834+00:00"
+  },
+  {
+    "source_id": "wipo_hague_guide",
+    "title": "Hague international design system",
+    "source_url": "https://www.wipo.int/en/web/hague-system",
+    "jurisdiction": "international",
+    "regime": "designs",
+    "organization": "www.wipo.int",
+    "required_patterns": [
+      "international",
+      "design"
+    ],
+    "kind": "web",
+    "status": "verified",
+    "discovered_links": [
+      {
+        "text": "About Intellectual Property",
+        "url": "https://www.wipo.int/en/web/about-ip"
+      },
+      {
+        "text": "Respect for IP",
+        "url": "https://www.wipo.int/en/web/respect-for-ip"
+      },
+      {
+        "text": "IP Outreach",
+        "url": "https://www.wipo.int/en/web/ip-outreach"
+      },
+      {
+        "text": "Patent & Technology Information",
+        "url": "https://www.wipo.int/en/web/patents/patent-information"
+      },
+      {
+        "text": "Trademark Information",
+        "url": "https://www.wipo.int/en/web/ip-resources"
+      },
+      {
+        "text": "Patent Protection",
+        "url": "https://www.wipo.int/en/web/patents/protection"
+      },
+      {
+        "text": "Trademark Protection",
+        "url": "https://www.wipo.int/en/web/trademarks/protection"
+      },
+      {
+        "text": "Design Protection",
+        "url": "https://www.wipo.int/en/web/designs/protection"
+      },
+      {
+        "text": "Geographical Indication Protection",
+        "url": "https://www.wipo.int/en/web/geographical-indications/protection"
+      },
+      {
+        "text": "IP Dispute Resolution",
+        "url": "https://www.wipo.int/en/web/amc"
+      },
+      {
+        "text": "IP Office Business Solutions",
+        "url": "https://www.wipo.int/en/web/ip-office-business-solutions"
+      },
+      {
+        "text": "Paying for IP Services",
+        "url": "https://www.wipo.int/en/web/paying-for-ip-services"
+      },
+      {
+        "text": "Negotiation & Decision-Making",
+        "url": "https://www.wipo.int/en/web/decision-making-and-negotiating-bodies"
+      },
+      {
+        "text": "IP Cooperation",
+        "url": "https://www.wipo.int/en/web/cooperation"
+      },
+      {
+        "text": "Innovation Support",
+        "url": "https://www.wipo.int/en/web/patents"
+      },
+      {
+        "text": "Public-Private Partnerships",
+        "url": "https://www.wipo.int/en/web/cooperation/public-private-partnerships"
+      },
+      {
+        "text": "The Organization",
+        "url": "https://www.wipo.int/en/web/about-wipo"
+      },
+      {
+        "text": "WIPO and Artificial Intelligence",
+        "url": "https://www.wipo.int/en/web/wipo-and-ai"
+      },
+      {
+        "text": "Working at WIPO",
+        "url": "https://www.wipo.int/en/web/working-at-wipo"
+      },
+      {
+        "text": "Trademarks",
+        "url": "https://www.wipo.int/en/web/trademarks"
+      },
+      {
+        "text": "Designs",
+        "url": "https://www.wipo.int/en/web/designs"
+      },
+      {
+        "text": "Geographical Indications",
+        "url": "https://www.wipo.int/en/web/geographical-indications"
+      },
+      {
+        "text": "Copyright",
+        "url": "https://www.wipo.int/en/web/copyright"
+      },
+      {
+        "text": "Trade Secrets",
+        "url": "https://www.wipo.int/en/web/trade-secrets"
+      },
+      {
+        "text": "Future of IP",
+        "url": "https://www.wipo.int/en/web/future-of-ip"
+      },
+      {
+        "text": "WIPO Academy",
+        "url": "https://www.wipo.int/en/web/wipo-academy"
+      },
+      {
+        "text": "Workshops & Seminars",
+        "url": "https://www.wipo.int/meetings/en/topic_type.jsp?group_id=242"
+      },
+      {
+        "text": "IP Enforcement",
+        "url": "https://www.wipo.int/en/web/ip-enforcement"
+      },
+      {
+        "text": "WIPO ALERT",
+        "url": "https://www.wipo.int/en/web/wipo-alert"
+      },
+      {
+        "text": "Raising Awareness",
+        "url": "https://www.wipo.int/en/web/respect-for-ip/awareness-raising"
+      },
+      {
+        "text": "World IP Day",
+        "url": "https://www.wipo.int/en/web/ipday"
+      },
+      {
+        "text": "WIPO Magazine",
+        "url": "https://www.wipo.int/en/web/wipo-magazine"
+      },
+      {
+        "text": "Case Studies & Success Stories",
+        "url": "https://www.wipo.int/en/web/ip-advantage"
+      },
+      {
+        "text": "IP News",
+        "url": "https://www.wipo.int/en/web/news/explore"
+      },
+      {
+        "text": "WIPO Awards",
+        "url": "https://www.wipo.int/en/web/awards"
+      },
+      {
+        "text": "Business",
+        "url": "https://www.wipo.int/en/web/business"
+      },
+      {
+        "text": "Women",
+        "url": "https://www.wipo.int/en/web/women"
+      },
+      {
+        "text": "Universities",
+        "url": "https://www.wipo.int/en/web/universities"
+      },
+      {
+        "text": "Indigenous Peoples",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge/engagement"
+      },
+      {
+        "text": "Judiciaries",
+        "url": "https://www.wipo.int/en/web/judiciaries"
+      },
+      {
+        "text": "Youth",
+        "url": "https://www.wipo.int/en/web/youth-engagement"
+      },
+      {
+        "text": "Examiners",
+        "url": "https://www.wipo.int/en/web/examiners"
+      },
+      {
+        "text": "Innovation Ecosystems",
+        "url": "https://www.wipo.int/en/web/innovation-ecosystems"
+      },
+      {
+        "text": "Economics",
+        "url": "https://www.wipo.int/en/web/economics"
+      },
+      {
+        "text": "Finance",
+        "url": "https://www.wipo.int/en/web/ip-financing"
+      },
+      {
+        "text": "Intangible Assets",
+        "url": "https://www.wipo.int/en/web/intangible-assets"
+      },
+      {
+        "text": "Global Health",
+        "url": "https://www.wipo.int/en/web/global-health"
+      },
+      {
+        "text": "Climate Change",
+        "url": "https://www.wipo.int/en/web/climate-change"
+      },
+      {
+        "text": "Competition Policy",
+        "url": "https://www.wipo.int/en/web/competition-policy"
+      },
+      {
+        "text": "Sustainable Development Goals",
+        "url": "https://www.wipo.int/en/web/sdgs"
+      },
+      {
+        "text": "Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge"
+      },
+      {
+        "text": "Frontier Technologies",
+        "url": "https://www.wipo.int/en/web/frontier-technologies"
+      },
+      {
+        "text": "Mobile Applications",
+        "url": "https://www.wipo.int/en/web/mobile-apps"
+      },
+      {
+        "text": "Sports",
+        "url": "https://www.wipo.int/en/web/sports"
+      },
+      {
+        "text": "Tourism",
+        "url": "https://www.wipo.int/en/web/tourism"
+      },
+      {
+        "text": "Music",
+        "url": "https://www.wipo.int/en/web/music"
+      },
+      {
+        "text": "Fashion",
+        "url": "https://www.wipo.int/en/web/fashion"
+      },
+      {
+        "text": "PATENTSCOPE",
+        "url": "https://www.wipo.int/en/web/patentscope"
+      },
+      {
+        "text": "Patent Analytics",
+        "url": "https://www.wipo.int/en/web/patent-analytics"
+      },
+      {
+        "text": "International Patent Classification",
+        "url": "https://www.wipo.int/en/web/classification-ipc"
+      },
+      {
+        "text": "ARDI – Research for Innovation",
+        "url": "https://www.wipo.int/en/web/ardi"
+      },
+      {
+        "text": "ASPI – Specialized Patent Information",
+        "url": "https://www.wipo.int/en/web/aspi"
+      },
+      {
+        "text": "Global Brand Database",
+        "url": "https://www.wipo.int/en/web/global-brand-database"
+      },
+      {
+        "text": "Madrid Monitor",
+        "url": "https://www3.wipo.int/madrid/monitor/en/"
+      },
+      {
+        "text": "Article 6ter Express Database",
+        "url": "https://6ter.wipo.int/struct-search"
+      },
+      {
+        "text": "Nice Classification",
+        "url": "https://www.wipo.int/en/web/classification-nice"
+      },
+      {
+        "text": "Vienna Classification",
+        "url": "https://www.wipo.int/en/web/classification-vienna"
+      },
+      {
+        "text": "Global Design Database",
+        "url": "https://www.wipo.int/en/web/global-design-database"
+      },
+      {
+        "text": "International Designs Bulletin",
+        "url": "https://hague.wipo.int/"
+      },
+      {
+        "text": "Hague Express Database",
+        "url": "https://designdb.wipo.int/designdb/hague/en/"
+      },
+      {
+        "text": "Locarno Classification",
+        "url": "https://www.wipo.int/en/web/classification-locarno"
+      },
+      {
+        "text": "Lisbon Express Database",
+        "url": "https://lisbon-express.wipo.int/"
+      },
+      {
+        "text": "Global Brand Database for GIs",
+        "url": "https://branddb.wipo.int/en/IPO-LISBON/quicksearch?_=1676544734688&by=brandName&start=0&v="
+      },
+      {
+        "text": "WIPO-Administered Treaties",
+        "url": "https://www.wipo.int/en/web/treaties"
+      },
+      {
+        "text": "WIPO Lex - IP Laws, Treaties & Judgments",
+        "url": "https://www.wipo.int/en/web/wipolex"
+      },
+      {
+        "text": "WIPO Standards",
+        "url": "https://www.wipo.int/en/web/standards"
+      },
+      {
+        "text": "IP Statistics",
+        "url": "https://www.wipo.int/en/web/ip-statistics"
+      },
+      {
+        "text": "WIPO Pearl (Terminology)",
+        "url": "https://www.wipo.int/en/web/wipo-pearl"
+      },
+      {
+        "text": "WIPO Publications",
+        "url": "https://www.wipo.int/publications/en/"
+      },
+      {
+        "text": "Country IP Profiles",
+        "url": "https://www.wipo.int/en/web/country-profiles"
+      },
+      {
+        "text": "WIPO Knowledge Center",
+        "url": "https://www.wipo.int/en/web/wipo-knowledge-center"
+      },
+      {
+        "text": "World Intangible Investment Highlights",
+        "url": "https://www.wipo.int/en/web/intangible-assets/measuring-investments"
+      },
+      {
+        "text": "WIPO Technology Trends",
+        "url": "https://www.wipo.int/en/web/technology-trends"
+      },
+      {
+        "text": "Global Innovation Index",
+        "url": "https://www.wipo.int/en/web/global-innovation-index"
+      },
+      {
+        "text": "World Intellectual Property Report",
+        "url": "https://www.wipo.int/en/web/world-ip-report"
+      },
+      {
+        "text": "PCT – The International Patent System",
+        "url": "https://www.wipo.int/en/web/pct-system"
+      },
+      {
+        "text": "ePCT",
+        "url": "https://pct.wipo.int/ePCT/"
+      },
+      {
+        "text": "Budapest – The International Microorganism Deposit System",
+        "url": "https://www.wipo.int/en/web/budapest-system"
+      },
+      {
+        "text": "Madrid – The International Trademark System",
+        "url": "https://www.wipo.int/en/web/madrid-system"
+      },
+      {
+        "text": "eMadrid",
+        "url": "https://madrid.wipo.int/"
+      },
+      {
+        "text": "Article 6ter (armorial bearings, flags, state emblems)",
+        "url": "https://www.wipo.int/en/web/article-6ter"
+      },
+      {
+        "text": "Hague – The International Design System",
+        "url": "https://www.wipo.int/en/web/hague-system"
+      },
+      {
+        "text": "Lisbon – The International System of Appellations of Origin and Geographical Indications",
+        "url": "https://www.wipo.int/en/web/lisbon-system"
+      },
+      {
+        "text": "eLisbon",
+        "url": "https://lisbon-system.wipo.int/"
+      },
+      {
+        "text": "UPOV PRISMA",
+        "url": "https://www3.wipo.int/upovprisma"
+      },
+      {
+        "text": "Domain Name Disputes",
+        "url": "https://www.wipo.int/en/web/amc/domain-name-disputes"
+      },
+      {
+        "text": "Centralized Access to Search and Examination (CASE)",
+        "url": "https://www.wipo.int/en/web/case"
+      },
+      {
+        "text": "Digital Access Service (DAS)",
+        "url": "https://www.wipo.int/en/web/das"
+      },
+      {
+        "text": "WIPO Pay",
+        "url": "https://www.wipo.int/en/web/wipo-pay"
+      },
+      {
+        "text": "Current Account at WIPO",
+        "url": "https://www.wipo.int/en/web/current-account-at-wipo"
+      },
+      {
+        "text": "WIPO Assemblies",
+        "url": "https://www.wipo.int/en/web/assemblies"
+      },
+      {
+        "text": "Calendar of Meetings",
+        "url": "https://www.wipo.int/meetings/en/"
+      },
+      {
+        "text": "WIPO Webcast",
+        "url": "https://webcast.wipo.int/"
+      },
+      {
+        "text": "WIPO Official Documents",
+        "url": "https://www.wipo.int/meetings/en/archive.jsp"
+      },
+      {
+        "text": "Development Agenda",
+        "url": "https://www.wipo.int/en/web/development-agenda"
+      },
+      {
+        "text": "Tailored Initiatives & Projects",
+        "url": "https://www.wipo.int/en/web/cooperation/tailored-initiatives"
+      },
+      {
+        "text": "Collaborative Forums & Dialogues",
+        "url": "https://www.wipo.int/en/web/cooperation/collaborative-forums"
+      },
+      {
+        "text": "Innovation, Creativity and Development Acceleration Program",
+        "url": "https://www.wipo.int/en/web/innovation-creativity-and-development-acceleration-program"
+      },
+      {
+        "text": "IP for Impact",
+        "url": "https://www.wipo.int/pressroom/en/stories/"
+      },
+      {
+        "text": "National IP Strategies",
+        "url": "https://www.wipo.int/en/web/national-ip-strategies"
+      },
+      {
+        "text": "Cooperation Hub",
+        "url": "https://www.wipo.int/en/web/cooperation/cooperation-hub"
+      },
+      {
+        "text": "Technology and Innovation Support Centers (TISC)",
+        "url": "https://www.wipo.int/en/web/tisc"
+      },
+      {
+        "text": "Technology Transfer",
+        "url": "https://www.wipo.int/en/web/technology-transfer"
+      },
+      {
+        "text": "Inventor Assistance Program",
+        "url": "https://www.wipo.int/en/web/inventor-assistance-program"
+      },
+      {
+        "text": "IP Commercialization",
+        "url": "https://www.wipo.int/en/web/ip-commercialization"
+      },
+      {
+        "text": "WIPO GREEN",
+        "url": "https://www3.wipo.int/wipogreen/en/"
+      },
+      {
+        "text": "WIPO's Pat-INFORMED",
+        "url": "https://www.wipo.int/pat-informed/en/"
+      },
+      {
+        "text": "WIPO for Creators",
+        "url": "https://www.wipo.int/en/web/wipo-for-creators"
+      },
+      {
+        "text": "Member States",
+        "url": "https://www.wipo.int/members/en/"
+      },
+      {
+        "text": "Observers",
+        "url": "https://www.wipo.int/en/web/about-wipo/observers"
+      },
+      {
+        "text": "Director General",
+        "url": "https://www.wipo.int/en/web/director-general"
+      },
+      {
+        "text": "Activities by Unit",
+        "url": "https://www.wipo.int/en/web/about-wipo/activities-by-unit"
+      },
+      {
+        "text": "External Offices",
+        "url": "https://www.wipo.int/en/web/about-wipo/offices"
+      },
+      {
+        "text": "Global Forum on IP and AI",
+        "url": "https://www.wipo.int/en/web/global-forum-on-ip-and-ai"
+      },
+      {
+        "text": "AI Infrastructure Interchange",
+        "url": "https://www.wipo.int/en/web/ai-infrastructure-interchange"
+      },
+      {
+        "text": "AI Tools & Services",
+        "url": "https://www.wipo.int/en/web/ai-tools-services"
+      },
+      {
+        "text": "Procurement",
+        "url": "https://www.wipo.int/en/web/procurement"
+      },
+      {
+        "text": "Results & Budget",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget"
+      },
+      {
+        "text": "Financial Reporting",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget/financial"
+      },
+      {
+        "text": "Oversight",
+        "url": "https://www.wipo.int/en/web/about-wipo/oversight"
+      },
+      {
+        "text": "IP tools",
+        "url": "https://www3.wipo.int/authpage/signin.xhtml?goto=https%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/treaties/docs-en-hague.pdf"
+      },
+      {
+        "text": "Hague System’s 82 members",
+        "url": "https://www.wipo.int/wipolex/en/treaties/ShowResults?search_what=C&treaty_id=9"
+      },
+      {
+        "text": "standard designation fee",
+        "url": "https://www.wipo.int/en/web/hague-system/fees/sched"
+      },
+      {
+        "text": "individual designation fee",
+        "url": "https://www.wipo.int/en/web/hague-system/fees/individ-fee"
+      },
+      {
+        "text": "Calculate your fees",
+        "url": "https://www.wipo.int/en/web/hague-system/fees/calculator"
+      },
+      {
+        "text": "Fees and payment methods",
+        "url": "https://www.wipo.int/en/web/paying-for-ip-services/hague-system-fees"
+      },
+      {
+        "text": "Online payment",
+        "url": "https://www3.wipo.int/epayweb2"
+      },
+      {
+        "text": "Read all FAQs",
+        "url": "https://www.wipo.int/en/web/hague-system/faqs"
+      },
+      {
+        "text": "Benefits of the Hague System",
+        "url": "https://www.wipo.int/en/web/hague-system/benefits"
+      },
+      {
+        "text": "Celebrating 100 Years of Design Protection",
+        "url": "https://www.wipo.int/en/web/hague-system/100th-anniversary/celebrating"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/videos/w/designs-are-everywhere"
+      },
+      {
+        "text": "Video: Designs are everywhere",
+        "url": "https://www.wipo.int/web/videos/w/designs-are-everywhere"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/videos/w/make-the-hague-system-your-next-design-partner"
+      },
+      {
+        "text": "Discover how it works!",
+        "url": "https://www.wipo.int/en/web/hague-system/about"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/hague-system/searching_designs"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/hague-system/hague_file_renew"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/hague-system/hague_manage_registrations"
+      },
+      {
+        "text": "Guide to the Hague System",
+        "url": "https://www.wipo.int/en/web/hague-system/guide"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/hague-system/docs-en-guidance_reproductions.pdf"
+      }
+    ],
+    "page_title": "Hague System – The International Design System",
+    "local_file_path": "dataset/raw/official/wipo_hague_guide/content.txt",
+    "content_hash": "0e9898db51354ffb97a43126ad843b87f192e36dc3f7819198a71a7260c3711e",
+    "retrieved_at": "2026-09-19T02:27:18.602585+00:00",
+    "last_checked": "2026-09-19T02:27:18.602585+00:00"
+  },
+  {
+    "source_id": "wipo_trade_secrets",
+    "title": "WIPO trade secrets overview",
+    "source_url": "https://www.wipo.int/en/web/trade-secrets",
+    "jurisdiction": "international",
+    "regime": "trade_secrets",
+    "organization": "www.wipo.int",
+    "required_patterns": [
+      "confidential",
+      "secret"
+    ],
+    "kind": "web",
+    "status": "verified",
+    "discovered_links": [
+      {
+        "text": "About Intellectual Property",
+        "url": "https://www.wipo.int/en/web/about-ip"
+      },
+      {
+        "text": "Respect for IP",
+        "url": "https://www.wipo.int/en/web/respect-for-ip"
+      },
+      {
+        "text": "IP Outreach",
+        "url": "https://www.wipo.int/en/web/ip-outreach"
+      },
+      {
+        "text": "Patent & Technology Information",
+        "url": "https://www.wipo.int/en/web/patents/patent-information"
+      },
+      {
+        "text": "Trademark Information",
+        "url": "https://www.wipo.int/en/web/ip-resources"
+      },
+      {
+        "text": "Patent Protection",
+        "url": "https://www.wipo.int/en/web/patents/protection"
+      },
+      {
+        "text": "Trademark Protection",
+        "url": "https://www.wipo.int/en/web/trademarks/protection"
+      },
+      {
+        "text": "Design Protection",
+        "url": "https://www.wipo.int/en/web/designs/protection"
+      },
+      {
+        "text": "Geographical Indication Protection",
+        "url": "https://www.wipo.int/en/web/geographical-indications/protection"
+      },
+      {
+        "text": "IP Dispute Resolution",
+        "url": "https://www.wipo.int/en/web/amc"
+      },
+      {
+        "text": "IP Office Business Solutions",
+        "url": "https://www.wipo.int/en/web/ip-office-business-solutions"
+      },
+      {
+        "text": "Paying for IP Services",
+        "url": "https://www.wipo.int/en/web/paying-for-ip-services"
+      },
+      {
+        "text": "Negotiation & Decision-Making",
+        "url": "https://www.wipo.int/en/web/decision-making-and-negotiating-bodies"
+      },
+      {
+        "text": "IP Cooperation",
+        "url": "https://www.wipo.int/en/web/cooperation"
+      },
+      {
+        "text": "Innovation Support",
+        "url": "https://www.wipo.int/en/web/patents"
+      },
+      {
+        "text": "Public-Private Partnerships",
+        "url": "https://www.wipo.int/en/web/cooperation/public-private-partnerships"
+      },
+      {
+        "text": "The Organization",
+        "url": "https://www.wipo.int/en/web/about-wipo"
+      },
+      {
+        "text": "WIPO and Artificial Intelligence",
+        "url": "https://www.wipo.int/en/web/wipo-and-ai"
+      },
+      {
+        "text": "Working at WIPO",
+        "url": "https://www.wipo.int/en/web/working-at-wipo"
+      },
+      {
+        "text": "Trademarks",
+        "url": "https://www.wipo.int/en/web/trademarks"
+      },
+      {
+        "text": "Designs",
+        "url": "https://www.wipo.int/en/web/designs"
+      },
+      {
+        "text": "Geographical Indications",
+        "url": "https://www.wipo.int/en/web/geographical-indications"
+      },
+      {
+        "text": "Copyright",
+        "url": "https://www.wipo.int/en/web/copyright"
+      },
+      {
+        "text": "Trade Secrets",
+        "url": "https://www.wipo.int/en/web/trade-secrets"
+      },
+      {
+        "text": "Future of IP",
+        "url": "https://www.wipo.int/en/web/future-of-ip"
+      },
+      {
+        "text": "WIPO Academy",
+        "url": "https://www.wipo.int/en/web/wipo-academy"
+      },
+      {
+        "text": "Workshops & Seminars",
+        "url": "https://www.wipo.int/meetings/en/topic_type.jsp?group_id=242"
+      },
+      {
+        "text": "IP Enforcement",
+        "url": "https://www.wipo.int/en/web/ip-enforcement"
+      },
+      {
+        "text": "WIPO ALERT",
+        "url": "https://www.wipo.int/en/web/wipo-alert"
+      },
+      {
+        "text": "Raising Awareness",
+        "url": "https://www.wipo.int/en/web/respect-for-ip/awareness-raising"
+      },
+      {
+        "text": "World IP Day",
+        "url": "https://www.wipo.int/en/web/ipday"
+      },
+      {
+        "text": "WIPO Magazine",
+        "url": "https://www.wipo.int/en/web/wipo-magazine"
+      },
+      {
+        "text": "Case Studies & Success Stories",
+        "url": "https://www.wipo.int/en/web/ip-advantage"
+      },
+      {
+        "text": "IP News",
+        "url": "https://www.wipo.int/en/web/news/explore"
+      },
+      {
+        "text": "WIPO Awards",
+        "url": "https://www.wipo.int/en/web/awards"
+      },
+      {
+        "text": "Business",
+        "url": "https://www.wipo.int/en/web/business"
+      },
+      {
+        "text": "Women",
+        "url": "https://www.wipo.int/en/web/women"
+      },
+      {
+        "text": "Universities",
+        "url": "https://www.wipo.int/en/web/universities"
+      },
+      {
+        "text": "Indigenous Peoples",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge/engagement"
+      },
+      {
+        "text": "Judiciaries",
+        "url": "https://www.wipo.int/en/web/judiciaries"
+      },
+      {
+        "text": "Youth",
+        "url": "https://www.wipo.int/en/web/youth-engagement"
+      },
+      {
+        "text": "Examiners",
+        "url": "https://www.wipo.int/en/web/examiners"
+      },
+      {
+        "text": "Innovation Ecosystems",
+        "url": "https://www.wipo.int/en/web/innovation-ecosystems"
+      },
+      {
+        "text": "Economics",
+        "url": "https://www.wipo.int/en/web/economics"
+      },
+      {
+        "text": "Finance",
+        "url": "https://www.wipo.int/en/web/ip-financing"
+      },
+      {
+        "text": "Intangible Assets",
+        "url": "https://www.wipo.int/en/web/intangible-assets"
+      },
+      {
+        "text": "Global Health",
+        "url": "https://www.wipo.int/en/web/global-health"
+      },
+      {
+        "text": "Climate Change",
+        "url": "https://www.wipo.int/en/web/climate-change"
+      },
+      {
+        "text": "Competition Policy",
+        "url": "https://www.wipo.int/en/web/competition-policy"
+      },
+      {
+        "text": "Sustainable Development Goals",
+        "url": "https://www.wipo.int/en/web/sdgs"
+      },
+      {
+        "text": "Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge"
+      },
+      {
+        "text": "Frontier Technologies",
+        "url": "https://www.wipo.int/en/web/frontier-technologies"
+      },
+      {
+        "text": "Mobile Applications",
+        "url": "https://www.wipo.int/en/web/mobile-apps"
+      },
+      {
+        "text": "Sports",
+        "url": "https://www.wipo.int/en/web/sports"
+      },
+      {
+        "text": "Tourism",
+        "url": "https://www.wipo.int/en/web/tourism"
+      },
+      {
+        "text": "Music",
+        "url": "https://www.wipo.int/en/web/music"
+      },
+      {
+        "text": "Fashion",
+        "url": "https://www.wipo.int/en/web/fashion"
+      },
+      {
+        "text": "PATENTSCOPE",
+        "url": "https://www.wipo.int/en/web/patentscope"
+      },
+      {
+        "text": "Patent Analytics",
+        "url": "https://www.wipo.int/en/web/patent-analytics"
+      },
+      {
+        "text": "International Patent Classification",
+        "url": "https://www.wipo.int/en/web/classification-ipc"
+      },
+      {
+        "text": "ARDI – Research for Innovation",
+        "url": "https://www.wipo.int/en/web/ardi"
+      },
+      {
+        "text": "ASPI – Specialized Patent Information",
+        "url": "https://www.wipo.int/en/web/aspi"
+      },
+      {
+        "text": "Global Brand Database",
+        "url": "https://www.wipo.int/en/web/global-brand-database"
+      },
+      {
+        "text": "Madrid Monitor",
+        "url": "https://www3.wipo.int/madrid/monitor/en/"
+      },
+      {
+        "text": "Article 6ter Express Database",
+        "url": "https://6ter.wipo.int/struct-search"
+      },
+      {
+        "text": "Nice Classification",
+        "url": "https://www.wipo.int/en/web/classification-nice"
+      },
+      {
+        "text": "Vienna Classification",
+        "url": "https://www.wipo.int/en/web/classification-vienna"
+      },
+      {
+        "text": "Global Design Database",
+        "url": "https://www.wipo.int/en/web/global-design-database"
+      },
+      {
+        "text": "International Designs Bulletin",
+        "url": "https://hague.wipo.int/"
+      },
+      {
+        "text": "Hague Express Database",
+        "url": "https://designdb.wipo.int/designdb/hague/en/"
+      },
+      {
+        "text": "Locarno Classification",
+        "url": "https://www.wipo.int/en/web/classification-locarno"
+      },
+      {
+        "text": "Lisbon Express Database",
+        "url": "https://lisbon-express.wipo.int/"
+      },
+      {
+        "text": "Global Brand Database for GIs",
+        "url": "https://branddb.wipo.int/en/IPO-LISBON/quicksearch?_=1676544734688&by=brandName&start=0&v="
+      },
+      {
+        "text": "WIPO-Administered Treaties",
+        "url": "https://www.wipo.int/en/web/treaties"
+      },
+      {
+        "text": "WIPO Lex - IP Laws, Treaties & Judgments",
+        "url": "https://www.wipo.int/en/web/wipolex"
+      },
+      {
+        "text": "WIPO Standards",
+        "url": "https://www.wipo.int/en/web/standards"
+      },
+      {
+        "text": "IP Statistics",
+        "url": "https://www.wipo.int/en/web/ip-statistics"
+      },
+      {
+        "text": "WIPO Pearl (Terminology)",
+        "url": "https://www.wipo.int/en/web/wipo-pearl"
+      },
+      {
+        "text": "WIPO Publications",
+        "url": "https://www.wipo.int/publications/en/"
+      },
+      {
+        "text": "Country IP Profiles",
+        "url": "https://www.wipo.int/en/web/country-profiles"
+      },
+      {
+        "text": "WIPO Knowledge Center",
+        "url": "https://www.wipo.int/en/web/wipo-knowledge-center"
+      },
+      {
+        "text": "World Intangible Investment Highlights",
+        "url": "https://www.wipo.int/en/web/intangible-assets/measuring-investments"
+      },
+      {
+        "text": "WIPO Technology Trends",
+        "url": "https://www.wipo.int/en/web/technology-trends"
+      },
+      {
+        "text": "Global Innovation Index",
+        "url": "https://www.wipo.int/en/web/global-innovation-index"
+      },
+      {
+        "text": "World Intellectual Property Report",
+        "url": "https://www.wipo.int/en/web/world-ip-report"
+      },
+      {
+        "text": "PCT – The International Patent System",
+        "url": "https://www.wipo.int/en/web/pct-system"
+      },
+      {
+        "text": "ePCT",
+        "url": "https://pct.wipo.int/ePCT/"
+      },
+      {
+        "text": "Budapest – The International Microorganism Deposit System",
+        "url": "https://www.wipo.int/en/web/budapest-system"
+      },
+      {
+        "text": "Madrid – The International Trademark System",
+        "url": "https://www.wipo.int/en/web/madrid-system"
+      },
+      {
+        "text": "eMadrid",
+        "url": "https://madrid.wipo.int/"
+      },
+      {
+        "text": "Article 6ter (armorial bearings, flags, state emblems)",
+        "url": "https://www.wipo.int/en/web/article-6ter"
+      },
+      {
+        "text": "Hague – The International Design System",
+        "url": "https://www.wipo.int/en/web/hague-system"
+      },
+      {
+        "text": "Lisbon – The International System of Appellations of Origin and Geographical Indications",
+        "url": "https://www.wipo.int/en/web/lisbon-system"
+      },
+      {
+        "text": "eLisbon",
+        "url": "https://lisbon-system.wipo.int/"
+      },
+      {
+        "text": "UPOV PRISMA",
+        "url": "https://www3.wipo.int/upovprisma"
+      },
+      {
+        "text": "Domain Name Disputes",
+        "url": "https://www.wipo.int/en/web/amc/domain-name-disputes"
+      },
+      {
+        "text": "Centralized Access to Search and Examination (CASE)",
+        "url": "https://www.wipo.int/en/web/case"
+      },
+      {
+        "text": "Digital Access Service (DAS)",
+        "url": "https://www.wipo.int/en/web/das"
+      },
+      {
+        "text": "WIPO Pay",
+        "url": "https://www.wipo.int/en/web/wipo-pay"
+      },
+      {
+        "text": "Current Account at WIPO",
+        "url": "https://www.wipo.int/en/web/current-account-at-wipo"
+      },
+      {
+        "text": "WIPO Assemblies",
+        "url": "https://www.wipo.int/en/web/assemblies"
+      },
+      {
+        "text": "Calendar of Meetings",
+        "url": "https://www.wipo.int/meetings/en/"
+      },
+      {
+        "text": "WIPO Webcast",
+        "url": "https://webcast.wipo.int/"
+      },
+      {
+        "text": "WIPO Official Documents",
+        "url": "https://www.wipo.int/meetings/en/archive.jsp"
+      },
+      {
+        "text": "Development Agenda",
+        "url": "https://www.wipo.int/en/web/development-agenda"
+      },
+      {
+        "text": "Tailored Initiatives & Projects",
+        "url": "https://www.wipo.int/en/web/cooperation/tailored-initiatives"
+      },
+      {
+        "text": "Collaborative Forums & Dialogues",
+        "url": "https://www.wipo.int/en/web/cooperation/collaborative-forums"
+      },
+      {
+        "text": "Innovation, Creativity and Development Acceleration Program",
+        "url": "https://www.wipo.int/en/web/innovation-creativity-and-development-acceleration-program"
+      },
+      {
+        "text": "IP for Impact",
+        "url": "https://www.wipo.int/pressroom/en/stories/"
+      },
+      {
+        "text": "National IP Strategies",
+        "url": "https://www.wipo.int/en/web/national-ip-strategies"
+      },
+      {
+        "text": "Cooperation Hub",
+        "url": "https://www.wipo.int/en/web/cooperation/cooperation-hub"
+      },
+      {
+        "text": "Technology and Innovation Support Centers (TISC)",
+        "url": "https://www.wipo.int/en/web/tisc"
+      },
+      {
+        "text": "Technology Transfer",
+        "url": "https://www.wipo.int/en/web/technology-transfer"
+      },
+      {
+        "text": "Inventor Assistance Program",
+        "url": "https://www.wipo.int/en/web/inventor-assistance-program"
+      },
+      {
+        "text": "IP Commercialization",
+        "url": "https://www.wipo.int/en/web/ip-commercialization"
+      },
+      {
+        "text": "WIPO GREEN",
+        "url": "https://www3.wipo.int/wipogreen/en/"
+      },
+      {
+        "text": "WIPO's Pat-INFORMED",
+        "url": "https://www.wipo.int/pat-informed/en/"
+      },
+      {
+        "text": "WIPO for Creators",
+        "url": "https://www.wipo.int/en/web/wipo-for-creators"
+      },
+      {
+        "text": "Member States",
+        "url": "https://www.wipo.int/members/en/"
+      },
+      {
+        "text": "Observers",
+        "url": "https://www.wipo.int/en/web/about-wipo/observers"
+      },
+      {
+        "text": "Director General",
+        "url": "https://www.wipo.int/en/web/director-general"
+      },
+      {
+        "text": "Activities by Unit",
+        "url": "https://www.wipo.int/en/web/about-wipo/activities-by-unit"
+      },
+      {
+        "text": "External Offices",
+        "url": "https://www.wipo.int/en/web/about-wipo/offices"
+      },
+      {
+        "text": "Global Forum on IP and AI",
+        "url": "https://www.wipo.int/en/web/global-forum-on-ip-and-ai"
+      },
+      {
+        "text": "AI Infrastructure Interchange",
+        "url": "https://www.wipo.int/en/web/ai-infrastructure-interchange"
+      },
+      {
+        "text": "AI Tools & Services",
+        "url": "https://www.wipo.int/en/web/ai-tools-services"
+      },
+      {
+        "text": "Procurement",
+        "url": "https://www.wipo.int/en/web/procurement"
+      },
+      {
+        "text": "Results & Budget",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget"
+      },
+      {
+        "text": "Financial Reporting",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget/financial"
+      },
+      {
+        "text": "Oversight",
+        "url": "https://www.wipo.int/en/web/about-wipo/oversight"
+      },
+      {
+        "text": "intellectual property",
+        "url": "https://www.wipo.int/about-ip/en/"
+      },
+      {
+        "text": "trade secrets’ protection",
+        "url": "https://www.wipo.int/en/web/trade-secrets/protection"
+      },
+      {
+        "text": "trade secrets FAQs",
+        "url": "https://www.wipo.int/en/web/trade-secrets/tradesecrets_faqs"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/wipolex/w/news/2026/new-wipo-lex-collection-brings-trade-secrets-case-law-into-focus"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-brazil-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-china-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-eu-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-france-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-germany-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-india-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-japan-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-jordan-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-rep-of-korea-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-russian-fed-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-south-africa-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-uk-final.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-overview-country-sheets-usa-final.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/web-publications/wipo-guide-to-trade-secrets-and-innovation/en/index.html"
+      },
+      {
+        "text": "Podcast on the WIPO Guide to Trade Secrets and Innovation",
+        "url": "https://www.wipo.int/en/web/podcasts/wkc/index"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/trade-secrets/docs-stefan-horstmann.pdf"
+      }
+    ],
+    "page_title": "Trade Secrets",
+    "local_file_path": "dataset/raw/official/wipo_trade_secrets/content.txt",
+    "content_hash": "1c13c770086fa63f81bb664bc1c9398228ecd8f2121e9cbef5aad70397a16ccd",
+    "retrieved_at": "2026-09-19T02:27:22.644731+00:00",
+    "last_checked": "2026-09-19T02:27:22.644731+00:00"
+  },
+  {
+    "source_id": "plant_variety_16",
+    "title": "Protection of Plant Varieties and Farmers' Rights Act 2001",
+    "organization": "plantauthority.gov.in",
+    "source_url": "https://plantauthority.gov.in/sites/default/files/ppvfract2001.pdf",
+    "discovery_url": "https://plantauthority.gov.in/protection-plant-varieties-and-farmers-rights-act-2001",
+    "jurisdiction": "india",
+    "regime": "plant_variety",
+    "required_patterns": [
+      "farmers",
+      "registration"
+    ],
+    "kind": "pdf",
+    "status": "verified",
+    "local_file_path": "dataset/raw/official/plant_variety_16/ppvfract2001.pdf",
+    "content_hash": "24873381a20faead56285b48a7eb898586fd46e90b0cbb77dd515ab38921806e",
+    "retrieved_at": "2026-09-19T02:34:01.762994+00:00",
+    "last_checked": "2026-09-19T02:34:01.762994+00:00"
+  },
+  {
+    "source_id": "ema_herbal",
+    "title": "EMA herbal medicinal products",
+    "source_url": "https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products",
+    "jurisdiction": "international",
+    "regime": "export_eu",
+    "organization": "www.ema.europa.eu",
+    "required_patterns": [
+      "herbal",
+      "registration"
+    ],
+    "kind": "web",
+    "status": "verified",
+    "discovered_links": [
+      {
+        "text": "Skip to main content",
+        "url": "https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products"
+      },
+      {
+        "text": "Herbal medicinal products: scientific guidelines",
+        "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/scientific-guidelines/multidisciplinary-guidelines/herbal-medicinal-products-scientific-guidelines"
+      },
+      {
+        "text": "Herbal medicines: regulatory and scientific support",
+        "url": "https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products/herbal-medicines-regulatory-scientific-support"
+      },
+      {
+        "text": "Herbal medicinal products: questions and answers",
+        "url": "https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products/herbal-medicinal-products-questions-answers"
+      },
+      {
+        "text": "EU monographs and list entries",
+        "url": "https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products/european-union-monographs-list-entries"
+      },
+      {
+        "text": "Procedures for monograph and list entry establishment",
+        "url": "https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products/procedures-monograph-list-entry-establishment"
+      },
+      {
+        "text": "national competent authorities",
+        "url": "https://www.ema.europa.eu/en/partners-networks/eu-partners/eu-member-states/national-competent-authorities-human"
+      },
+      {
+        "text": "centralised procedure",
+        "url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines"
+      },
+      {
+        "text": "scientific guidelines",
+        "url": "https://www.ema.europa.eu/human-regulatory/research-development/scientific-guidelines/multidisciplinary/multidisciplinary-herbal-medicinal-products"
+      },
+      {
+        "text": "EU monographs",
+        "url": "https://www.ema.europa.eu/en/human-regulatory/herbal-products/european-union-monographs-list-entries"
+      },
+      {
+        "text": "scientific guidelines",
+        "url": "https://www.ema.europa.eu/en/human-regulatory/research-development/scientific-guidelines/multidisciplinary/multidisciplinary-herbal-medicinal-products"
+      },
+      {
+        "text": "EU monographs and list entries",
+        "url": "https://www.ema.europa.eu/human-regulatory/herbal-products/european-union-monographs-list-entries"
+      },
+      {
+        "text": "'Action plan for herbal medicines 2010-2011",
+        "url": "https://www.ema.europa.eu/en/action-plan-herbal-medicines-2010-2011"
+      },
+      {
+        "text": "Uptake of the traditional-use registration scheme and implementation of the provisions of Directive 2004/24/EC in European Union Member States",
+        "url": "https://www.ema.europa.eu/en/documents/report/uptake-traditional-use-registration-scheme-and-implementation-provisions-directive-200424ec-european-union-member-states_en.pdf"
+      },
+      {
+        "text": "Committee on Herbal Medicinal Products (HMPC)",
+        "url": "https://www.ema.europa.eu/en/committees/committee-herbal-medicinal-products-hmpc"
+      },
+      {
+        "text": "Find herbal medicines",
+        "url": "https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_categories%3A85"
+      }
+    ],
+    "page_title": "Herbal medicinal products | European Medicines Agency (EMA)",
+    "local_file_path": "dataset/raw/official/ema_herbal/content.txt",
+    "content_hash": "def67f0af8fffc5c3f3c603ecabaa41948d50ab0aa17bcf29cb7254638ceaca6",
+    "retrieved_at": "2026-09-19T02:34:04.834058+00:00",
+    "last_checked": "2026-09-19T02:34:04.834058+00:00"
+  },
+  {
+    "source_id": "fda_botanical",
+    "title": "FDA botanical drug development",
+    "source_url": "https://www.fda.gov/drugs/cder-small-business-industry-assistance-sbia/botanical-drug-development-guidance-industry",
+    "jurisdiction": "international",
+    "regime": "export_us",
+    "organization": "www.fda.gov",
+    "required_patterns": [
+      "botanical",
+      "drug"
+    ],
+    "kind": "web",
+    "status": "unavailable",
+    "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+    "last_checked": "2026-09-19T02:34:19.120802+00:00"
+  },
+  {
+    "source_id": "wipo_budapest_guide",
+    "title": "WIPO Budapest microorganism deposit system",
+    "source_url": "https://www.wipo.int/en/web/budapest-system",
+    "jurisdiction": "international",
+    "regime": "patents",
+    "organization": "www.wipo.int",
+    "required_patterns": [
+      "microorganism",
+      "deposit"
+    ],
+    "kind": "web",
+    "status": "verified",
+    "last_checked": "2026-09-19T03:45:18.964345+00:00",
+    "discovered_links": [
+      {
+        "text": "About Intellectual Property",
+        "url": "https://www.wipo.int/en/web/about-ip"
+      },
+      {
+        "text": "Respect for IP",
+        "url": "https://www.wipo.int/en/web/respect-for-ip"
+      },
+      {
+        "text": "IP Outreach",
+        "url": "https://www.wipo.int/en/web/ip-outreach"
+      },
+      {
+        "text": "Patent & Technology Information",
+        "url": "https://www.wipo.int/en/web/patents/patent-information"
+      },
+      {
+        "text": "Trademark Information",
+        "url": "https://www.wipo.int/en/web/ip-resources"
+      },
+      {
+        "text": "Patent Protection",
+        "url": "https://www.wipo.int/en/web/patents/protection"
+      },
+      {
+        "text": "Trademark Protection",
+        "url": "https://www.wipo.int/en/web/trademarks/protection"
+      },
+      {
+        "text": "Design Protection",
+        "url": "https://www.wipo.int/en/web/designs/protection"
+      },
+      {
+        "text": "Geographical Indication Protection",
+        "url": "https://www.wipo.int/en/web/geographical-indications/protection"
+      },
+      {
+        "text": "IP Dispute Resolution",
+        "url": "https://www.wipo.int/en/web/amc"
+      },
+      {
+        "text": "IP Office Business Solutions",
+        "url": "https://www.wipo.int/en/web/ip-office-business-solutions"
+      },
+      {
+        "text": "Paying for IP Services",
+        "url": "https://www.wipo.int/en/web/paying-for-ip-services"
+      },
+      {
+        "text": "Negotiation & Decision-Making",
+        "url": "https://www.wipo.int/en/web/decision-making-and-negotiating-bodies"
+      },
+      {
+        "text": "IP Cooperation",
+        "url": "https://www.wipo.int/en/web/cooperation"
+      },
+      {
+        "text": "Innovation Support",
+        "url": "https://www.wipo.int/en/web/patents"
+      },
+      {
+        "text": "Public-Private Partnerships",
+        "url": "https://www.wipo.int/en/web/cooperation/public-private-partnerships"
+      },
+      {
+        "text": "The Organization",
+        "url": "https://www.wipo.int/en/web/about-wipo"
+      },
+      {
+        "text": "WIPO and Artificial Intelligence",
+        "url": "https://www.wipo.int/en/web/wipo-and-ai"
+      },
+      {
+        "text": "Working at WIPO",
+        "url": "https://www.wipo.int/en/web/working-at-wipo"
+      },
+      {
+        "text": "Trademarks",
+        "url": "https://www.wipo.int/en/web/trademarks"
+      },
+      {
+        "text": "Designs",
+        "url": "https://www.wipo.int/en/web/designs"
+      },
+      {
+        "text": "Geographical Indications",
+        "url": "https://www.wipo.int/en/web/geographical-indications"
+      },
+      {
+        "text": "Copyright",
+        "url": "https://www.wipo.int/en/web/copyright"
+      },
+      {
+        "text": "Trade Secrets",
+        "url": "https://www.wipo.int/en/web/trade-secrets"
+      },
+      {
+        "text": "Future of IP",
+        "url": "https://www.wipo.int/en/web/future-of-ip"
+      },
+      {
+        "text": "WIPO Academy",
+        "url": "https://www.wipo.int/en/web/wipo-academy"
+      },
+      {
+        "text": "Workshops & Seminars",
+        "url": "https://www.wipo.int/meetings/en/topic_type.jsp?group_id=242"
+      },
+      {
+        "text": "IP Enforcement",
+        "url": "https://www.wipo.int/en/web/ip-enforcement"
+      },
+      {
+        "text": "WIPO ALERT",
+        "url": "https://www.wipo.int/en/web/wipo-alert"
+      },
+      {
+        "text": "Raising Awareness",
+        "url": "https://www.wipo.int/en/web/respect-for-ip/awareness-raising"
+      },
+      {
+        "text": "World IP Day",
+        "url": "https://www.wipo.int/en/web/ipday"
+      },
+      {
+        "text": "WIPO Magazine",
+        "url": "https://www.wipo.int/en/web/wipo-magazine"
+      },
+      {
+        "text": "Case Studies & Success Stories",
+        "url": "https://www.wipo.int/en/web/ip-advantage"
+      },
+      {
+        "text": "IP News",
+        "url": "https://www.wipo.int/en/web/news/explore"
+      },
+      {
+        "text": "WIPO Awards",
+        "url": "https://www.wipo.int/en/web/awards"
+      },
+      {
+        "text": "Business",
+        "url": "https://www.wipo.int/en/web/business"
+      },
+      {
+        "text": "Women",
+        "url": "https://www.wipo.int/en/web/women"
+      },
+      {
+        "text": "Universities",
+        "url": "https://www.wipo.int/en/web/universities"
+      },
+      {
+        "text": "Indigenous Peoples",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge/engagement"
+      },
+      {
+        "text": "Judiciaries",
+        "url": "https://www.wipo.int/en/web/judiciaries"
+      },
+      {
+        "text": "Youth",
+        "url": "https://www.wipo.int/en/web/youth-engagement"
+      },
+      {
+        "text": "Examiners",
+        "url": "https://www.wipo.int/en/web/examiners"
+      },
+      {
+        "text": "Innovation Ecosystems",
+        "url": "https://www.wipo.int/en/web/innovation-ecosystems"
+      },
+      {
+        "text": "Economics",
+        "url": "https://www.wipo.int/en/web/economics"
+      },
+      {
+        "text": "Finance",
+        "url": "https://www.wipo.int/en/web/ip-financing"
+      },
+      {
+        "text": "Intangible Assets",
+        "url": "https://www.wipo.int/en/web/intangible-assets"
+      },
+      {
+        "text": "Global Health",
+        "url": "https://www.wipo.int/en/web/global-health"
+      },
+      {
+        "text": "Climate Change",
+        "url": "https://www.wipo.int/en/web/climate-change"
+      },
+      {
+        "text": "Competition Policy",
+        "url": "https://www.wipo.int/en/web/competition-policy"
+      },
+      {
+        "text": "Sustainable Development Goals",
+        "url": "https://www.wipo.int/en/web/sdgs"
+      },
+      {
+        "text": "Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge"
+      },
+      {
+        "text": "Frontier Technologies",
+        "url": "https://www.wipo.int/en/web/frontier-technologies"
+      },
+      {
+        "text": "Mobile Applications",
+        "url": "https://www.wipo.int/en/web/mobile-apps"
+      },
+      {
+        "text": "Sports",
+        "url": "https://www.wipo.int/en/web/sports"
+      },
+      {
+        "text": "Tourism",
+        "url": "https://www.wipo.int/en/web/tourism"
+      },
+      {
+        "text": "Music",
+        "url": "https://www.wipo.int/en/web/music"
+      },
+      {
+        "text": "Fashion",
+        "url": "https://www.wipo.int/en/web/fashion"
+      },
+      {
+        "text": "PATENTSCOPE",
+        "url": "https://www.wipo.int/en/web/patentscope"
+      },
+      {
+        "text": "Patent Analytics",
+        "url": "https://www.wipo.int/en/web/patent-analytics"
+      },
+      {
+        "text": "International Patent Classification",
+        "url": "https://www.wipo.int/en/web/classification-ipc"
+      },
+      {
+        "text": "ARDI – Research for Innovation",
+        "url": "https://www.wipo.int/en/web/ardi"
+      },
+      {
+        "text": "ASPI – Specialized Patent Information",
+        "url": "https://www.wipo.int/en/web/aspi"
+      },
+      {
+        "text": "Global Brand Database",
+        "url": "https://www.wipo.int/en/web/global-brand-database"
+      },
+      {
+        "text": "Madrid Monitor",
+        "url": "https://www3.wipo.int/madrid/monitor/en/"
+      },
+      {
+        "text": "Article 6ter Express Database",
+        "url": "https://6ter.wipo.int/struct-search"
+      },
+      {
+        "text": "Nice Classification",
+        "url": "https://www.wipo.int/en/web/classification-nice"
+      },
+      {
+        "text": "Vienna Classification",
+        "url": "https://www.wipo.int/en/web/classification-vienna"
+      },
+      {
+        "text": "Global Design Database",
+        "url": "https://www.wipo.int/en/web/global-design-database"
+      },
+      {
+        "text": "International Designs Bulletin",
+        "url": "https://hague.wipo.int/"
+      },
+      {
+        "text": "Hague Express Database",
+        "url": "https://designdb.wipo.int/designdb/hague/en/"
+      },
+      {
+        "text": "Locarno Classification",
+        "url": "https://www.wipo.int/en/web/classification-locarno"
+      },
+      {
+        "text": "Lisbon Express Database",
+        "url": "https://lisbon-express.wipo.int/"
+      },
+      {
+        "text": "Global Brand Database for GIs",
+        "url": "https://branddb.wipo.int/en/IPO-LISBON/quicksearch?_=1676544734688&by=brandName&start=0&v="
+      },
+      {
+        "text": "WIPO-Administered Treaties",
+        "url": "https://www.wipo.int/en/web/treaties"
+      },
+      {
+        "text": "WIPO Lex - IP Laws, Treaties & Judgments",
+        "url": "https://www.wipo.int/en/web/wipolex"
+      },
+      {
+        "text": "WIPO Standards",
+        "url": "https://www.wipo.int/en/web/standards"
+      },
+      {
+        "text": "IP Statistics",
+        "url": "https://www.wipo.int/en/web/ip-statistics"
+      },
+      {
+        "text": "WIPO Pearl (Terminology)",
+        "url": "https://www.wipo.int/en/web/wipo-pearl"
+      },
+      {
+        "text": "WIPO Publications",
+        "url": "https://www.wipo.int/publications/en/"
+      },
+      {
+        "text": "Country IP Profiles",
+        "url": "https://www.wipo.int/en/web/country-profiles"
+      },
+      {
+        "text": "WIPO Knowledge Center",
+        "url": "https://www.wipo.int/en/web/wipo-knowledge-center"
+      },
+      {
+        "text": "World Intangible Investment Highlights",
+        "url": "https://www.wipo.int/en/web/intangible-assets/measuring-investments"
+      },
+      {
+        "text": "WIPO Technology Trends",
+        "url": "https://www.wipo.int/en/web/technology-trends"
+      },
+      {
+        "text": "Global Innovation Index",
+        "url": "https://www.wipo.int/en/web/global-innovation-index"
+      },
+      {
+        "text": "World Intellectual Property Report",
+        "url": "https://www.wipo.int/en/web/world-ip-report"
+      },
+      {
+        "text": "PCT – The International Patent System",
+        "url": "https://www.wipo.int/en/web/pct-system"
+      },
+      {
+        "text": "ePCT",
+        "url": "https://pct.wipo.int/ePCT/"
+      },
+      {
+        "text": "Budapest – The International Microorganism Deposit System",
+        "url": "https://www.wipo.int/en/web/budapest-system"
+      },
+      {
+        "text": "Madrid – The International Trademark System",
+        "url": "https://www.wipo.int/en/web/madrid-system"
+      },
+      {
+        "text": "eMadrid",
+        "url": "https://madrid.wipo.int/"
+      },
+      {
+        "text": "Article 6ter (armorial bearings, flags, state emblems)",
+        "url": "https://www.wipo.int/en/web/article-6ter"
+      },
+      {
+        "text": "Hague – The International Design System",
+        "url": "https://www.wipo.int/en/web/hague-system"
+      },
+      {
+        "text": "Lisbon – The International System of Appellations of Origin and Geographical Indications",
+        "url": "https://www.wipo.int/en/web/lisbon-system"
+      },
+      {
+        "text": "eLisbon",
+        "url": "https://lisbon-system.wipo.int/"
+      },
+      {
+        "text": "UPOV PRISMA",
+        "url": "https://www3.wipo.int/upovprisma"
+      },
+      {
+        "text": "Domain Name Disputes",
+        "url": "https://www.wipo.int/en/web/amc/domain-name-disputes"
+      },
+      {
+        "text": "Centralized Access to Search and Examination (CASE)",
+        "url": "https://www.wipo.int/en/web/case"
+      },
+      {
+        "text": "Digital Access Service (DAS)",
+        "url": "https://www.wipo.int/en/web/das"
+      },
+      {
+        "text": "WIPO Pay",
+        "url": "https://www.wipo.int/en/web/wipo-pay"
+      },
+      {
+        "text": "Current Account at WIPO",
+        "url": "https://www.wipo.int/en/web/current-account-at-wipo"
+      },
+      {
+        "text": "WIPO Assemblies",
+        "url": "https://www.wipo.int/en/web/assemblies"
+      },
+      {
+        "text": "Calendar of Meetings",
+        "url": "https://www.wipo.int/meetings/en/"
+      },
+      {
+        "text": "WIPO Webcast",
+        "url": "https://webcast.wipo.int/"
+      },
+      {
+        "text": "WIPO Official Documents",
+        "url": "https://www.wipo.int/meetings/en/archive.jsp"
+      },
+      {
+        "text": "Development Agenda",
+        "url": "https://www.wipo.int/en/web/development-agenda"
+      },
+      {
+        "text": "Tailored Initiatives & Projects",
+        "url": "https://www.wipo.int/en/web/cooperation/tailored-initiatives"
+      },
+      {
+        "text": "Collaborative Forums & Dialogues",
+        "url": "https://www.wipo.int/en/web/cooperation/collaborative-forums"
+      },
+      {
+        "text": "Innovation, Creativity and Development Acceleration Program",
+        "url": "https://www.wipo.int/en/web/innovation-creativity-and-development-acceleration-program"
+      },
+      {
+        "text": "IP for Impact",
+        "url": "https://www.wipo.int/pressroom/en/stories/"
+      },
+      {
+        "text": "National IP Strategies",
+        "url": "https://www.wipo.int/en/web/national-ip-strategies"
+      },
+      {
+        "text": "Cooperation Hub",
+        "url": "https://www.wipo.int/en/web/cooperation/cooperation-hub"
+      },
+      {
+        "text": "Technology and Innovation Support Centers (TISC)",
+        "url": "https://www.wipo.int/en/web/tisc"
+      },
+      {
+        "text": "Technology Transfer",
+        "url": "https://www.wipo.int/en/web/technology-transfer"
+      },
+      {
+        "text": "Inventor Assistance Program",
+        "url": "https://www.wipo.int/en/web/inventor-assistance-program"
+      },
+      {
+        "text": "IP Commercialization",
+        "url": "https://www.wipo.int/en/web/ip-commercialization"
+      },
+      {
+        "text": "WIPO GREEN",
+        "url": "https://www3.wipo.int/wipogreen/en/"
+      },
+      {
+        "text": "WIPO's Pat-INFORMED",
+        "url": "https://www.wipo.int/pat-informed/en/"
+      },
+      {
+        "text": "WIPO for Creators",
+        "url": "https://www.wipo.int/en/web/wipo-for-creators"
+      },
+      {
+        "text": "Member States",
+        "url": "https://www.wipo.int/members/en/"
+      },
+      {
+        "text": "Observers",
+        "url": "https://www.wipo.int/en/web/about-wipo/observers"
+      },
+      {
+        "text": "Director General",
+        "url": "https://www.wipo.int/en/web/director-general"
+      },
+      {
+        "text": "Activities by Unit",
+        "url": "https://www.wipo.int/en/web/about-wipo/activities-by-unit"
+      },
+      {
+        "text": "External Offices",
+        "url": "https://www.wipo.int/en/web/about-wipo/offices"
+      },
+      {
+        "text": "Global Forum on IP and AI",
+        "url": "https://www.wipo.int/en/web/global-forum-on-ip-and-ai"
+      },
+      {
+        "text": "AI Infrastructure Interchange",
+        "url": "https://www.wipo.int/en/web/ai-infrastructure-interchange"
+      },
+      {
+        "text": "AI Tools & Services",
+        "url": "https://www.wipo.int/en/web/ai-tools-services"
+      },
+      {
+        "text": "Procurement",
+        "url": "https://www.wipo.int/en/web/procurement"
+      },
+      {
+        "text": "Results & Budget",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget"
+      },
+      {
+        "text": "Financial Reporting",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget/financial"
+      },
+      {
+        "text": "Oversight",
+        "url": "https://www.wipo.int/en/web/about-wipo/oversight"
+      },
+      {
+        "text": "countries",
+        "url": "https://www.wipo.int/documents/d/treaties/docs-en-budapest.pdf"
+      },
+      {
+        "text": "international depositary authority",
+        "url": "https://www.wipo.int/documents/d/treaties/docs-en-registration-budapest-idalist.pdf"
+      },
+      {
+        "text": "Read all FAQs",
+        "url": "https://www.wipo.int/en/web/budapest-system/faqs"
+      },
+      {
+        "text": "",
+        "url": "https://www.wipo.int/en/web/videos/w/the-budapest-system-explained"
+      },
+      {
+        "text": "All news",
+        "url": "https://www.wipo.int/en/web/budapest-system/news"
+      },
+      {
+        "text": "New International Depositary Authority Established in Indonesia",
+        "url": "https://www.wipo.int/en/web/budapest-system/w/news/2026/new-international-depositary-authority-established-in-indonesia"
+      },
+      {
+        "text": "Accession of Brazil to the Budapest Treaty",
+        "url": "https://www.wipo.int/en/web/budapest-system/w/news/2025/accession-of-brazil-to-the-budapest-treaty"
+      },
+      {
+        "text": "2024 Statistics on Deposits of Microorganisms Now Available",
+        "url": "https://www.wipo.int/en/web/budapest-system/w/news/2025/2024-statistics-on-deposits-of-microorganisms-now-available"
+      },
+      {
+        "text": "Budapest Treaty",
+        "url": "https://www.wipo.int/wipolex/en/treaties/textdetails/12244"
+      },
+      {
+        "text": "Regulations under the Budapest Treaty",
+        "url": "https://www.wipo.int/wipolex/en/treaties/textdetails/19806"
+      },
+      {
+        "text": "Contracting parties",
+        "url": "https://www.wipo.int/wipolex/en/treaties/ShowResults?search_what=C&treaty_id=7"
+      },
+      {
+        "text": "Notifications relating to the Budapest Treaty",
+        "url": "https://wipolex.wipo.int/en/treaties/ShowResults?search_what=N&treaty_id=7"
+      },
+      {
+        "text": "Budapest Guide",
+        "url": "https://www.wipo.int/en/web/budapest-system/guide"
+      },
+      {
+        "text": "Model forms",
+        "url": "https://www.wipo.int/en/web/budapest-system/guide/appendix_3"
+      },
+      {
+        "text": "Section D",
+        "url": "https://www.wipo.int/en/web/budapest-system/guide/section_d/subsection_c"
+      },
+      {
+        "text": "Section E",
+        "url": "https://www.wipo.int/en/web/budapest-system/guide/section_e/section_e"
+      },
+      {
+        "text": "XLSX",
+        "url": "https://www.wipo.int/documents/d/ip-statistics/docs-en-wipo_microorganisms_deposits_and_samples_since_2001_table.xlsx"
+      },
+      {
+        "text": "Handling of deposited microorganisms after the prescribed storage period",
+        "url": "https://www.wipo.int/en/web/budapest-system/handling-of-deposited-microorganisms-after-the-prescribed-storage-period"
+      },
+      {
+        "text": "Contact us",
+        "url": "https://www3.wipo.int/contact/en/area.jsp?area=budapest"
+      },
+      {
+        "text": "Summary of the Budapest Treaty",
+        "url": "https://www.wipo.int/treaties/en/registration/budapest/summary_budapest.html"
+      }
+    ],
+    "page_title": "Budapest – The International Microorganism Deposit System",
+    "local_file_path": "dataset/raw/official/wipo_budapest_guide/content.txt",
+    "content_hash": "01ad86838fbc45aa25e16b86b71f4d03f650f2974945310acb9d9def20829969",
+    "retrieved_at": "2026-09-19T03:45:18.964345+00:00"
+  },
+  {
+    "source_id": "designs_act",
+    "title": "Designs Act 2000",
+    "source_url": "https://www.wipo.int/wipolex/en/text/594125",
+    "jurisdiction": "india",
+    "regime": "designs",
+    "organization": "WIPO Lex",
+    "required_patterns": [
+      "design",
+      "India"
+    ],
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "status": "verified",
+    "record_url": "https://www.wipo.int/wipolex/en/text/594125",
+    "local_file_path": "dataset/raw/official/designs_act/in009en_1.pdf",
+    "content_hash": "27133a2bcf1122293c3f231f9c48b852bdffb4b2bb0a05f6c508a1bef5ff9ea3",
+    "retrieved_at": "2026-09-19T02:34:24.658950+00:00",
+    "last_checked": "2026-09-19T02:34:24.658950+00:00"
+  },
+  {
+    "source_id": "copyright_act",
+    "title": "Copyright Act 1957: WIPO Lex source version",
+    "source_url": "https://www.wipo.int/wipolex/en/legislation/details/22949",
+    "jurisdiction": "india",
+    "regime": "copyright",
+    "organization": "WIPO Lex",
+    "required_patterns": [
+      "copyright"
+    ],
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "status": "verified",
+    "version": "See source record for amendments and consolidation limits",
+    "record_url": "https://www.wipo.int/wipolex/en/legislation/details/22949",
+    "local_file_path": "dataset/raw/official/copyright_act/in153en_1.pdf",
+    "content_hash": "05f47cc9ca63dfee32153beb07b12241298c92f6cadf3caed805887a3f843c4a",
+    "retrieved_at": "2026-09-19T02:39:02.671174+00:00",
+    "last_checked": "2026-09-19T02:39:02.671174+00:00"
+  },
+  {
+    "source_id": "trademarks_act",
+    "title": "Trade Marks Act 1999 (amended through 2023)",
+    "source_url": "https://www.wipo.int/wipolex/en/legislation/details/22958",
+    "jurisdiction": "india",
+    "regime": "trademarks",
+    "organization": "WIPO Lex",
+    "required_patterns": [
+      "trade mark"
+    ],
+    "kind": "pdf",
+    "resolve_pdf": true,
+    "status": "verified",
+    "version": "See source record for amendments and consolidation limits",
+    "record_url": "https://www.wipo.int/wipolex/en/legislation/details/22958",
+    "local_file_path": "dataset/raw/official/trademarks_act/in154en_1.pdf",
+    "content_hash": "e12835963e0aa1091202a459009cd90160e4504abb398bdcc54671541cd4071f",
+    "retrieved_at": "2026-09-19T02:39:32.895480+00:00",
+    "last_checked": "2026-09-19T02:39:32.895480+00:00"
+  },
+  {
+    "source_id": "wipo_pct_intro",
+    "title": "WIPO: Introduction to the PCT",
+    "source_url": "https://www.wipo.int/en/web/pct-system/introduction",
+    "jurisdiction": "international",
+    "regime": "patents",
+    "organization": "WIPO",
+    "required_patterns": [
+      "patent",
+      "national"
+    ],
+    "kind": "web",
+    "status": "verified",
+    "last_checked": "2026-09-19T03:45:37.069745+00:00",
+    "discovered_links": [
+      {
+        "text": "About Intellectual Property",
+        "url": "https://www.wipo.int/en/web/about-ip"
+      },
+      {
+        "text": "Respect for IP",
+        "url": "https://www.wipo.int/en/web/respect-for-ip"
+      },
+      {
+        "text": "IP Outreach",
+        "url": "https://www.wipo.int/en/web/ip-outreach"
+      },
+      {
+        "text": "Patent & Technology Information",
+        "url": "https://www.wipo.int/en/web/patents/patent-information"
+      },
+      {
+        "text": "Trademark Information",
+        "url": "https://www.wipo.int/en/web/ip-resources"
+      },
+      {
+        "text": "Patent Protection",
+        "url": "https://www.wipo.int/en/web/patents/protection"
+      },
+      {
+        "text": "Trademark Protection",
+        "url": "https://www.wipo.int/en/web/trademarks/protection"
+      },
+      {
+        "text": "Design Protection",
+        "url": "https://www.wipo.int/en/web/designs/protection"
+      },
+      {
+        "text": "Geographical Indication Protection",
+        "url": "https://www.wipo.int/en/web/geographical-indications/protection"
+      },
+      {
+        "text": "IP Dispute Resolution",
+        "url": "https://www.wipo.int/en/web/amc"
+      },
+      {
+        "text": "IP Office Business Solutions",
+        "url": "https://www.wipo.int/en/web/ip-office-business-solutions"
+      },
+      {
+        "text": "Paying for IP Services",
+        "url": "https://www.wipo.int/en/web/paying-for-ip-services"
+      },
+      {
+        "text": "Negotiation & Decision-Making",
+        "url": "https://www.wipo.int/en/web/decision-making-and-negotiating-bodies"
+      },
+      {
+        "text": "IP Cooperation",
+        "url": "https://www.wipo.int/en/web/cooperation"
+      },
+      {
+        "text": "Innovation Support",
+        "url": "https://www.wipo.int/en/web/patents"
+      },
+      {
+        "text": "Public-Private Partnerships",
+        "url": "https://www.wipo.int/en/web/cooperation/public-private-partnerships"
+      },
+      {
+        "text": "The Organization",
+        "url": "https://www.wipo.int/en/web/about-wipo"
+      },
+      {
+        "text": "WIPO and Artificial Intelligence",
+        "url": "https://www.wipo.int/en/web/wipo-and-ai"
+      },
+      {
+        "text": "Working at WIPO",
+        "url": "https://www.wipo.int/en/web/working-at-wipo"
+      },
+      {
+        "text": "Trademarks",
+        "url": "https://www.wipo.int/en/web/trademarks"
+      },
+      {
+        "text": "Designs",
+        "url": "https://www.wipo.int/en/web/designs"
+      },
+      {
+        "text": "Geographical Indications",
+        "url": "https://www.wipo.int/en/web/geographical-indications"
+      },
+      {
+        "text": "Copyright",
+        "url": "https://www.wipo.int/en/web/copyright"
+      },
+      {
+        "text": "Trade Secrets",
+        "url": "https://www.wipo.int/en/web/trade-secrets"
+      },
+      {
+        "text": "Future of IP",
+        "url": "https://www.wipo.int/en/web/future-of-ip"
+      },
+      {
+        "text": "WIPO Academy",
+        "url": "https://www.wipo.int/en/web/wipo-academy"
+      },
+      {
+        "text": "Workshops & Seminars",
+        "url": "https://www.wipo.int/meetings/en/topic_type.jsp?group_id=242"
+      },
+      {
+        "text": "IP Enforcement",
+        "url": "https://www.wipo.int/en/web/ip-enforcement"
+      },
+      {
+        "text": "WIPO ALERT",
+        "url": "https://www.wipo.int/en/web/wipo-alert"
+      },
+      {
+        "text": "Raising Awareness",
+        "url": "https://www.wipo.int/en/web/respect-for-ip/awareness-raising"
+      },
+      {
+        "text": "World IP Day",
+        "url": "https://www.wipo.int/en/web/ipday"
+      },
+      {
+        "text": "WIPO Magazine",
+        "url": "https://www.wipo.int/en/web/wipo-magazine"
+      },
+      {
+        "text": "Case Studies & Success Stories",
+        "url": "https://www.wipo.int/en/web/ip-advantage"
+      },
+      {
+        "text": "IP News",
+        "url": "https://www.wipo.int/en/web/news/explore"
+      },
+      {
+        "text": "WIPO Awards",
+        "url": "https://www.wipo.int/en/web/awards"
+      },
+      {
+        "text": "Business",
+        "url": "https://www.wipo.int/en/web/business"
+      },
+      {
+        "text": "Women",
+        "url": "https://www.wipo.int/en/web/women"
+      },
+      {
+        "text": "Universities",
+        "url": "https://www.wipo.int/en/web/universities"
+      },
+      {
+        "text": "Indigenous Peoples",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge/engagement"
+      },
+      {
+        "text": "Judiciaries",
+        "url": "https://www.wipo.int/en/web/judiciaries"
+      },
+      {
+        "text": "Youth",
+        "url": "https://www.wipo.int/en/web/youth-engagement"
+      },
+      {
+        "text": "Examiners",
+        "url": "https://www.wipo.int/en/web/examiners"
+      },
+      {
+        "text": "Innovation Ecosystems",
+        "url": "https://www.wipo.int/en/web/innovation-ecosystems"
+      },
+      {
+        "text": "Economics",
+        "url": "https://www.wipo.int/en/web/economics"
+      },
+      {
+        "text": "Finance",
+        "url": "https://www.wipo.int/en/web/ip-financing"
+      },
+      {
+        "text": "Intangible Assets",
+        "url": "https://www.wipo.int/en/web/intangible-assets"
+      },
+      {
+        "text": "Global Health",
+        "url": "https://www.wipo.int/en/web/global-health"
+      },
+      {
+        "text": "Climate Change",
+        "url": "https://www.wipo.int/en/web/climate-change"
+      },
+      {
+        "text": "Competition Policy",
+        "url": "https://www.wipo.int/en/web/competition-policy"
+      },
+      {
+        "text": "Sustainable Development Goals",
+        "url": "https://www.wipo.int/en/web/sdgs"
+      },
+      {
+        "text": "Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions",
+        "url": "https://www.wipo.int/en/web/traditional-knowledge"
+      },
+      {
+        "text": "Frontier Technologies",
+        "url": "https://www.wipo.int/en/web/frontier-technologies"
+      },
+      {
+        "text": "Mobile Applications",
+        "url": "https://www.wipo.int/en/web/mobile-apps"
+      },
+      {
+        "text": "Sports",
+        "url": "https://www.wipo.int/en/web/sports"
+      },
+      {
+        "text": "Tourism",
+        "url": "https://www.wipo.int/en/web/tourism"
+      },
+      {
+        "text": "Music",
+        "url": "https://www.wipo.int/en/web/music"
+      },
+      {
+        "text": "Fashion",
+        "url": "https://www.wipo.int/en/web/fashion"
+      },
+      {
+        "text": "PATENTSCOPE",
+        "url": "https://www.wipo.int/en/web/patentscope"
+      },
+      {
+        "text": "Patent Analytics",
+        "url": "https://www.wipo.int/en/web/patent-analytics"
+      },
+      {
+        "text": "International Patent Classification",
+        "url": "https://www.wipo.int/en/web/classification-ipc"
+      },
+      {
+        "text": "ARDI – Research for Innovation",
+        "url": "https://www.wipo.int/en/web/ardi"
+      },
+      {
+        "text": "ASPI – Specialized Patent Information",
+        "url": "https://www.wipo.int/en/web/aspi"
+      },
+      {
+        "text": "Global Brand Database",
+        "url": "https://www.wipo.int/en/web/global-brand-database"
+      },
+      {
+        "text": "Madrid Monitor",
+        "url": "https://www3.wipo.int/madrid/monitor/en/"
+      },
+      {
+        "text": "Article 6ter Express Database",
+        "url": "https://6ter.wipo.int/struct-search"
+      },
+      {
+        "text": "Nice Classification",
+        "url": "https://www.wipo.int/en/web/classification-nice"
+      },
+      {
+        "text": "Vienna Classification",
+        "url": "https://www.wipo.int/en/web/classification-vienna"
+      },
+      {
+        "text": "Global Design Database",
+        "url": "https://www.wipo.int/en/web/global-design-database"
+      },
+      {
+        "text": "International Designs Bulletin",
+        "url": "https://hague.wipo.int/"
+      },
+      {
+        "text": "Hague Express Database",
+        "url": "https://designdb.wipo.int/designdb/hague/en/"
+      },
+      {
+        "text": "Locarno Classification",
+        "url": "https://www.wipo.int/en/web/classification-locarno"
+      },
+      {
+        "text": "Lisbon Express Database",
+        "url": "https://lisbon-express.wipo.int/"
+      },
+      {
+        "text": "Global Brand Database for GIs",
+        "url": "https://branddb.wipo.int/en/IPO-LISBON/quicksearch?_=1676544734688&by=brandName&start=0&v="
+      },
+      {
+        "text": "WIPO-Administered Treaties",
+        "url": "https://www.wipo.int/en/web/treaties"
+      },
+      {
+        "text": "WIPO Lex - IP Laws, Treaties & Judgments",
+        "url": "https://www.wipo.int/en/web/wipolex"
+      },
+      {
+        "text": "WIPO Standards",
+        "url": "https://www.wipo.int/en/web/standards"
+      },
+      {
+        "text": "IP Statistics",
+        "url": "https://www.wipo.int/en/web/ip-statistics"
+      },
+      {
+        "text": "WIPO Pearl (Terminology)",
+        "url": "https://www.wipo.int/en/web/wipo-pearl"
+      },
+      {
+        "text": "WIPO Publications",
+        "url": "https://www.wipo.int/publications/en/"
+      },
+      {
+        "text": "Country IP Profiles",
+        "url": "https://www.wipo.int/en/web/country-profiles"
+      },
+      {
+        "text": "WIPO Knowledge Center",
+        "url": "https://www.wipo.int/en/web/wipo-knowledge-center"
+      },
+      {
+        "text": "World Intangible Investment Highlights",
+        "url": "https://www.wipo.int/en/web/intangible-assets/measuring-investments"
+      },
+      {
+        "text": "WIPO Technology Trends",
+        "url": "https://www.wipo.int/en/web/technology-trends"
+      },
+      {
+        "text": "Global Innovation Index",
+        "url": "https://www.wipo.int/en/web/global-innovation-index"
+      },
+      {
+        "text": "World Intellectual Property Report",
+        "url": "https://www.wipo.int/en/web/world-ip-report"
+      },
+      {
+        "text": "PCT – The International Patent System",
+        "url": "https://www.wipo.int/en/web/pct-system"
+      },
+      {
+        "text": "ePCT",
+        "url": "https://pct.wipo.int/ePCT/"
+      },
+      {
+        "text": "Budapest – The International Microorganism Deposit System",
+        "url": "https://www.wipo.int/en/web/budapest-system"
+      },
+      {
+        "text": "Madrid – The International Trademark System",
+        "url": "https://www.wipo.int/en/web/madrid-system"
+      },
+      {
+        "text": "eMadrid",
+        "url": "https://madrid.wipo.int/"
+      },
+      {
+        "text": "Article 6ter (armorial bearings, flags, state emblems)",
+        "url": "https://www.wipo.int/en/web/article-6ter"
+      },
+      {
+        "text": "Hague – The International Design System",
+        "url": "https://www.wipo.int/en/web/hague-system"
+      },
+      {
+        "text": "Lisbon – The International System of Appellations of Origin and Geographical Indications",
+        "url": "https://www.wipo.int/en/web/lisbon-system"
+      },
+      {
+        "text": "eLisbon",
+        "url": "https://lisbon-system.wipo.int/"
+      },
+      {
+        "text": "UPOV PRISMA",
+        "url": "https://www3.wipo.int/upovprisma"
+      },
+      {
+        "text": "Domain Name Disputes",
+        "url": "https://www.wipo.int/en/web/amc/domain-name-disputes"
+      },
+      {
+        "text": "Centralized Access to Search and Examination (CASE)",
+        "url": "https://www.wipo.int/en/web/case"
+      },
+      {
+        "text": "Digital Access Service (DAS)",
+        "url": "https://www.wipo.int/en/web/das"
+      },
+      {
+        "text": "WIPO Pay",
+        "url": "https://www.wipo.int/en/web/wipo-pay"
+      },
+      {
+        "text": "Current Account at WIPO",
+        "url": "https://www.wipo.int/en/web/current-account-at-wipo"
+      },
+      {
+        "text": "WIPO Assemblies",
+        "url": "https://www.wipo.int/en/web/assemblies"
+      },
+      {
+        "text": "Calendar of Meetings",
+        "url": "https://www.wipo.int/meetings/en/"
+      },
+      {
+        "text": "WIPO Webcast",
+        "url": "https://webcast.wipo.int/"
+      },
+      {
+        "text": "WIPO Official Documents",
+        "url": "https://www.wipo.int/meetings/en/archive.jsp"
+      },
+      {
+        "text": "Development Agenda",
+        "url": "https://www.wipo.int/en/web/development-agenda"
+      },
+      {
+        "text": "Tailored Initiatives & Projects",
+        "url": "https://www.wipo.int/en/web/cooperation/tailored-initiatives"
+      },
+      {
+        "text": "Collaborative Forums & Dialogues",
+        "url": "https://www.wipo.int/en/web/cooperation/collaborative-forums"
+      },
+      {
+        "text": "Innovation, Creativity and Development Acceleration Program",
+        "url": "https://www.wipo.int/en/web/innovation-creativity-and-development-acceleration-program"
+      },
+      {
+        "text": "IP for Impact",
+        "url": "https://www.wipo.int/pressroom/en/stories/"
+      },
+      {
+        "text": "National IP Strategies",
+        "url": "https://www.wipo.int/en/web/national-ip-strategies"
+      },
+      {
+        "text": "Cooperation Hub",
+        "url": "https://www.wipo.int/en/web/cooperation/cooperation-hub"
+      },
+      {
+        "text": "Technology and Innovation Support Centers (TISC)",
+        "url": "https://www.wipo.int/en/web/tisc"
+      },
+      {
+        "text": "Technology Transfer",
+        "url": "https://www.wipo.int/en/web/technology-transfer"
+      },
+      {
+        "text": "Inventor Assistance Program",
+        "url": "https://www.wipo.int/en/web/inventor-assistance-program"
+      },
+      {
+        "text": "IP Commercialization",
+        "url": "https://www.wipo.int/en/web/ip-commercialization"
+      },
+      {
+        "text": "WIPO GREEN",
+        "url": "https://www3.wipo.int/wipogreen/en/"
+      },
+      {
+        "text": "WIPO's Pat-INFORMED",
+        "url": "https://www.wipo.int/pat-informed/en/"
+      },
+      {
+        "text": "WIPO for Creators",
+        "url": "https://www.wipo.int/en/web/wipo-for-creators"
+      },
+      {
+        "text": "Member States",
+        "url": "https://www.wipo.int/members/en/"
+      },
+      {
+        "text": "Observers",
+        "url": "https://www.wipo.int/en/web/about-wipo/observers"
+      },
+      {
+        "text": "Director General",
+        "url": "https://www.wipo.int/en/web/director-general"
+      },
+      {
+        "text": "Activities by Unit",
+        "url": "https://www.wipo.int/en/web/about-wipo/activities-by-unit"
+      },
+      {
+        "text": "External Offices",
+        "url": "https://www.wipo.int/en/web/about-wipo/offices"
+      },
+      {
+        "text": "Global Forum on IP and AI",
+        "url": "https://www.wipo.int/en/web/global-forum-on-ip-and-ai"
+      },
+      {
+        "text": "AI Infrastructure Interchange",
+        "url": "https://www.wipo.int/en/web/ai-infrastructure-interchange"
+      },
+      {
+        "text": "AI Tools & Services",
+        "url": "https://www.wipo.int/en/web/ai-tools-services"
+      },
+      {
+        "text": "Procurement",
+        "url": "https://www.wipo.int/en/web/procurement"
+      },
+      {
+        "text": "Results & Budget",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget"
+      },
+      {
+        "text": "Financial Reporting",
+        "url": "https://www.wipo.int/en/web/about-wipo/budget/financial"
+      },
+      {
+        "text": "Oversight",
+        "url": "https://www.wipo.int/en/web/about-wipo/oversight"
+      },
+      {
+        "text": "Patent Cooperation Treaty (PCT)",
+        "url": "https://www.wipo.int/en/web/pct-system/texts/articles/atoc"
+      },
+      {
+        "text": "PDF",
+        "url": "https://webcms.wipo.int/documents/d/pct-system/docs-en-texts-pct.pdf"
+      },
+      {
+        "text": "Contracting States",
+        "url": "https://www.wipo.int/en/web/pct-system/pct_contracting_states"
+      },
+      {
+        "text": "Video",
+        "url": "https://www.wipo.int/multimedia-video/en/pct/video_series/01_intro.mp4"
+      },
+      {
+        "text": "play_circle",
+        "url": "https://www.wipo.int/en/web/pct-system/introduction"
+      },
+      {
+        "text": "file with the International Bureau of WIPO",
+        "url": "https://www.wipo.int/en/web/pct-system/filing/filing"
+      },
+      {
+        "text": "national security clearance",
+        "url": "https://www.wipo.int/en/web/pct-system/texts/nat_sec"
+      },
+      {
+        "text": "certain States",
+        "url": "https://www.wipo.int/documents/d/pct-system/docs-en-fee-reduction.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://www.wipo.int/documents/d/pct-system/docs-en-fees.pdf"
+      },
+      {
+        "text": "Fees and Payments",
+        "url": "https://www.wipo.int/en/web/pct-system/fees/index"
+      },
+      {
+        "text": "request",
+        "url": "https://www.wipo.int/documents/d/pct-system/docs-en-forms-request-ed-request.pdf"
+      },
+      {
+        "text": "wide range of receiving Offices",
+        "url": "https://pct.wipo.int/ePCTExternal/pages/EFilingServers.xhtml"
+      },
+      {
+        "text": "filing an international application",
+        "url": "https://www.wipo.int/en/web/pct-system/filing/index"
+      },
+      {
+        "text": "",
+        "url": "https://pct.wipo.int/ePCT/about-epct.xhtml?lang=en"
+      },
+      {
+        "text": "PCT Article 11(1)",
+        "url": "https://www.wipo.int/en/web/pct-system/texts/articles/a11"
+      },
+      {
+        "text": "PCT Article 14",
+        "url": "https://www.wipo.int/en/web/pct-system/texts/articles/a14"
+      },
+      {
+        "text": "Rule 11",
+        "url": "https://www.wipo.int/en/web/pct-system/texts/rules/r11"
+      },
+      {
+        "text": "PATENTSCOPE",
+        "url": "https://www.wipo.int/patentscope/en/"
+      },
+      {
+        "text": "within the required time limit",
+        "url": "https://www.wipo.int/en/web/pct-system/texts/time_limits"
+      },
+      {
+        "text": "entering the national Phase",
+        "url": "https://www.wipo.int/en/web/pct-system/national-phase"
+      }
+    ],
+    "page_title": "Introduction to the Patent Cooperation Treaty (PCT)",
+    "local_file_path": "dataset/raw/official/wipo_pct_intro/content.txt",
+    "content_hash": "8842102f6626b91323ddc8b1e5deb2e126a605421203287f5caefdd0962ed6a3",
+    "retrieved_at": "2026-09-19T03:45:37.069745+00:00"
+  },
+  {
+    "source_id": "fssai_category_a_order",
+    "title": "FSSAI order dated 25 July 2025: Ayurveda Aahara category A",
+    "source_url": "https://www.fssai.gov.in/upload/uploadfiles/files/Order%20dated%2025-07-2025%20enclosing%20Ayurveda%20Aahara.pdf",
+    "jurisdiction": "india",
+    "regime": "food_regulation",
+    "organization": "FSSAI",
+    "required_patterns": [
+      "Ayurveda",
+      "category"
+    ],
+    "kind": "pdf",
+    "status": "verified",
+    "publication_date": "2025-07-25",
+    "last_checked": "2026-09-19T03:45:44.026816+00:00",
+    "local_file_path": "dataset/raw/official/fssai_category_a_order/Order dated 25-07-2025 enclosing Ayurveda Aahara.pdf",
+    "content_hash": "498d6f579357e7bb8e8d7b9f7741db5863f6eea8d29ffd559ff9add7d32d7edc",
+    "retrieved_at": "2026-09-19T03:45:44.026816+00:00"
+  },
+  {
+    "source_id": "patents_rules",
+    "title": "The Patents Rules, 2003 (incorporating amendments up to 2024)",
+    "organization": "ipindia.gov.in",
+    "jurisdiction": "india",
+    "regime": "patents",
+    "source_type": "official_pdf",
+    "local_file_path": "dataset/ayirvetha dataset/Indian_Patent_Rules_2003__1_.pdf",
+    "source_url": "https://ipindia.gov.in/rules-patents.htm",
+    "status": "verified",
+    "required_patterns": [
+      "Form 1",
+      "Rule 24B"
+    ]
+  },
+  {
+    "source_id": "cgptdm_tk_guidelines",
+    "title": "CGPDTM Guidelines for Examination of Patent Applications Relating to Traditional Knowledge and Biological Material",
+    "organization": "ipindia.gov.in",
+    "jurisdiction": "india",
+    "regime": "traditional_knowledge",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/cgptdm_tk_guidelines/content.txt",
+    "source_url": "https://ipindia.gov.in/writereaddata/Portal/IPOGuidelines/1_37_1_guidelines-for-examination-of-patent-applications-traditional-knowledge-and-biological-material.pdf",
+    "status": "verified",
+    "required_patterns": [
+      "Section 3(p)",
+      "Synergistic"
+    ]
+  },
+  {
+    "source_id": "tkdl_csir",
+    "title": "CSIR Traditional Knowledge Digital Library (TKDL) Prior Art and Access Framework",
+    "organization": "tkdl.res.in",
+    "jurisdiction": "india",
+    "regime": "traditional_knowledge",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/tkdl_csir/content.txt",
+    "source_url": "https://www.tkdl.res.in/",
+    "status": "verified",
+    "required_patterns": [
+      "Traditional Knowledge Digital Library",
+      "biopiracy"
+    ]
+  },
+  {
+    "source_id": "bd_rules_2004",
+    "title": "Biological Diversity Rules, 2004 (Form I, Form II, Form III, Form IV)",
+    "organization": "nbaindia.org",
+    "jurisdiction": "india",
+    "regime": "biodiversity_abs",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/bd_rules_2004/content.txt",
+    "source_url": "http://nbaindia.org/content/17/14/1/rules.html",
+    "status": "verified",
+    "required_patterns": [
+      "Form III",
+      "Biological Diversity Rules"
+    ]
+  },
+  {
+    "source_id": "ayurveda_aahara_2022",
+    "title": "FSSAI Food Safety and Standards (Ayurveda Aahara) Regulations, 2022",
+    "organization": "fssai.gov.in",
+    "jurisdiction": "india",
+    "regime": "food_regulation",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/ayurveda_aahara_2022/content.txt",
+    "source_url": "https://www.fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Ayurveda_Aahara_09_05_2022.pdf",
+    "status": "verified",
+    "required_patterns": [
+      "Ayurveda Aahara",
+      "Schedule A"
+    ]
+  },
+  {
+    "source_id": "drugs_magic_remedies_1954",
+    "title": "Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+    "organization": "indiacode.nic.in",
+    "jurisdiction": "india",
+    "regime": "drug_regulation",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/drugs_magic_remedies_1954/content.txt",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1572",
+    "status": "verified",
+    "required_patterns": [
+      "Magic Remedies",
+      "misleading"
+    ]
+  },
+  {
+    "source_id": "fda_botanical_guidance",
+    "title": "US FDA Guidance for Industry: Botanical Drug Development",
+    "organization": "fda.gov",
+    "jurisdiction": "international",
+    "regime": "export_us",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/fda_botanical_guidance/content.txt",
+    "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry",
+    "status": "verified",
+    "required_patterns": [
+      "Botanical",
+      "FDA"
+    ]
+  }
+]

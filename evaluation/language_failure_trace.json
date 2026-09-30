@@ -1,0 +1,112 @@
+[
+  {
+    "kind": "generation",
+    "language": "English",
+    "result": {
+      "claims": [
+        {
+          "text": "india-laa paarambariya arivu-kuuu kappurimai kudukala, aenenil kappurimai sattam-oodaa pirivu 3 (pii) atthaa pannudhuvai vilakkukirathu.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 4,
+              "quote": "(l)   a literary, dramatic, musical or artistic  work or any other aesthetic creation whatsoever including cinematographic works  and television productions;\n(m) a mere scheme or rule or method  of performing mental act or method of playing game;\n(n)    a presentation of information;\n(o)    topography of integrated circuits;\n(p)   an invention which in effect, is  traditional knowledge or which is an aggregation or duplication of known  properties of traditionally known component or components.\nHome\nNext"
+            }
+          ],
+          "translation_source": "India-la traditional knowledge-ku patent kudukkala, because Patent Act-oda Section 3(p) atha exclude pannudhu.",
+          "translation_native": "இந்தியா-லா பாரம்பரிய அறிவு-கு காப்புரிமை குடுக்கலா, ஏனெனில் காப்புரிமை சட்டம்-ஓடா பிரிவு 3 (பி) அத்தா பன்னுதுவை விலக்குகிறது."
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "language": null,
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1
+      ],
+      "reason": "The claim that traditional knowledge cannot be patented in India because Section 3(p) of the Indian Patents Act excludes it is directly supported by the quoted provision (p) in the evidence, which lists traditional knowledge as a non‑patentable invention. The claim matches the jurisdiction (India) and preserves the qualification that the exclusion is statutory."
+    }
+  },
+  {
+    "kind": "generation",
+    "language": null,
+    "result": {
+      "english": "Tell me about GI registration."
+    }
+  },
+  {
+    "kind": "generation",
+    "language": "English",
+    "result": {
+      "claims": [
+        {
+          "text": "urpaththiyaalargalin sangam allathu niyamikkapatta athikaaram pathivaalarukku ezhuththuppoorvamaaga vinnappikka vaendum, kurippu oru kuripitta piraanthiyaththilirunthu porutkal thoandruvathaaga evvaaru kurippidugiradhu mattrum parinthuraikkappatta kattanatthai seluththukirathu enbathaik kurippidugiradhu.",
+          "evidence": [
+            {
+              "source": 3,
+              "span": 3,
+              "quote": "goods shall apply in writing to the Registrar in such form\nand in such manner and accompanied by such fees as may\nbe prescribed for the registration of the geographical\nindication.\n(2) The appli cation under sub-section (1) shall\ncontain-\n(a)  statement as to how the geographical indication\nserves to designate the goods as originating from the\nconcerned territory of the country or region or locality in\nthe country, as the case may be, in respect of specific\nquality, reputation or other characteristics of which are due\nexclusively or essentially to the geographical, environment,\nwith its inherent natural and human factors, and the\nproduction, processing or preparation of which takes place\nin such territory, region or locality, as the case may be;\nRegistration of\nhomonymous\ngeographical\nindications\nApplication for\nregistration"
+            }
+          ],
+          "translation_source": "An association of producers or a designated authority must apply in writing to the Registrar, stating how the indication designates the goods as originating from a specific territory and paying the prescribed fee.",
+          "translation_native": "உற்பத்தியாளர்களின் சங்கம் அல்லது நியமிக்கப்பட்ட அதிகாரம் பதிவாளருக்கு எழுத்துப்பூர்வமாக விண்ணப்பிக்க வேண்டும், குறிப்பு ஒரு குறிப்பிட்ட பிராந்தியத்திலிருந்து பொருட்கள் தோன்றுவதாக எவ்வாறு குறிப்பிடுகிறது மற்றும் பரிந்துரைக்கப்பட்ட கட்டணத்தை செலுத்துகிறது என்பதைக் குறிப்பிடுகிறது."
+        },
+        {
+          "text": "vinnappam aetrtrukkollappattu, endha ethirppum thaakkal seiyappadaavittaal allathu vinnappathaararukku aatharavaaka ethirkkatchi mudivu seiyappattaal, pathivaalar puviyiyal kuriyeettaip pathivuseithu vinnappathaararukkum angkeekarikkappatta payanarkalukkum oru saantrithazhai vazhangkukiraar.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 2,
+              "quote": "been accepted and either =\n(a) the application has not been opposed and the time for\nnotice of opposition has expired; or\n(b) the applicant has been opposed and the opposition has\nbeen decided in favour of the applicant.\nThe Registrar shall, unless the Central Government\notherwise directs, register the said geographical indication\nand the authorised  users, if any, mentioned in the\napplication and the geographical indication and the\nauthorised  users when registered shall be registered as of\nthe date of the making of the said application and the date\nshall, subject to the provisions of Section 84, be deemed to\nbe the date of registration.\n(2) On the registration of a geographical indication, the\nRegistrar shall issue each to the applicant and the\nauthorised users, if registered with the geographical\nindication, a certificate in such form as may be prescribed"
+            }
+          ],
+          "translation_source": "If the application is accepted and either no opposition is filed or the opposition is decided in favour of the applicant, the Registrar registers the geographical indication and issues a certificate to the applicant and any authorised users.",
+          "translation_native": "விண்ணப்பம் ஏற்றுக்கொள்ளப்பட்டு, எந்த எதிர்ப்பும் தாக்கல் செய்யப்படாவிட்டால் அல்லது விண்ணப்பதாரருக்கு ஆதரவாக எதிர்க்கட்சி முடிவு செய்யப்பட்டால், பதிவாளர் புவியியல் குறியீட்டைப் பதிவுசெய்து விண்ணப்பதாரருக்கும் அங்கீகரிக்கப்பட்ட பயனர்களுக்கும் ஒரு சான்றிதழை வழங்குகிறார்."
+        },
+        {
+          "text": "puviyiyal kuriyeettin pathivu paththu aandugalukku sellupadiyaagum, maelum vinnappam, parinthuraikkappatta kattanatthai seluththuthal mattrum pudhuppiththal nibanthanaigalukku inangkuthal aagiyavattrin meethu maelum paththu aandu kaalatthirku pudhuppikkappadalaam.",
+          "evidence": [
+            {
+              "source": 2,
+              "span": 2,
+              "quote": "and registration of the geographical indication.\n18. (1) The registration of a geographical indication shall\nbe for a period of ten years, but may be renewed from time\nto time in accordance with the provisions of this section.\n(2) The registration of an authorised user shall be for a\nperiod of ten years or for the period till the date on which\nthe registration of the geographical indication in respect of\nwhich the authorised user is registered expires, whichever\nis earlier.\n(3) The Registrar shall, on application made in the\nprescribed manner, by the registered proprietor or by the\nauthorised  user and within the prescribed period and\nsubject to the payment of the prescribed fee, renew the\nregistration of the geographical indication or authorised\nuser, as the case may be, for a period of ten years from the\ndate of expiration of the original registration or of the last"
+            }
+          ],
+          "translation_source": "The registration of a geographical indication is valid for ten years and may be renewed for further ten‑year periods upon application, payment of the prescribed fee, and compliance with renewal conditions.",
+          "translation_native": "புவியியல் குறியீட்டின் பதிவு பத்து ஆண்டுகளுக்கு செல்லுபடியாகும், மேலும் விண்ணப்பம், பரிந்துரைக்கப்பட்ட கட்டணத்தை செலுத்துதல் மற்றும் புதுப்பித்தல் நிபந்தனைகளுக்கு இணங்குதல் ஆகியவற்றின் மீது மேலும் பத்து ஆண்டு காலத்திற்கு புதுப்பிக்கப்படலாம்."
+        },
+        {
+          "text": "vinnappathaarar thavariyathaal vinnappiththa thaethiyilirunthu pannirandu maathangkalukkul pathivu seyalmurai mudikkappadaavittaal, pathivaalar arivippu aliththa piragu vinnapaththai kaividappattadhaaga karudhalaam.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 3,
+              "quote": "of the registration thereof, sealed with the seal of the\nGeographical Indication Registry.\n(3) Where registration of a geographical indication is not\ncompleted within twelve months from the date of the\napplication by reason of default on the part of the\napplicant, the Registrar may, after giving notice to the\napplicant in the prescribed manner, treat the application as\nabandoned unless it is competed within the time specified\nin that behalf in the notice.\n(4) The Registrar may amend the register or a certificate of\nregistration for the purpose of correcting a clerical error or\non abvious mistake.\n17. (1) Any person claiming to be the producer of the\ngoods in respect of which a geographical indication has\nbeen registered under section 16 may apply in writing to\nthe Registrar in the prescribed manner for registering him\nas an authorised user of such geographical indication.\nCorrection and\nAmendment"
+            }
+          ],
+          "translation_source": "If the registration process is not completed within twelve months from the date of application due to the applicant’s default, the Registrar may treat the application as abandoned after giving notice.",
+          "translation_native": "விண்ணப்பதாரர் தவறியதால் விண்ணப்பித்த தேதியிலிருந்து பன்னிரண்டு மாதங்களுக்குள் பதிவு செயல்முறை முடிக்கப்படாவிட்டால், பதிவாளர் அறிவிப்பு அளித்த பிறகு விண்ணப்பத்தை கைவிடப்பட்டதாக கருதலாம்."
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "language": null,
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "reason": "Each claim is directly entailed by the quoted passages from the Geographical Indications of Goods (Registration & Protection) Act, 1999. The translations preserve the original meaning, including all qualifications such as the need for written application, fee payment, opposition outcomes, registration period of ten years, renewal conditions, and the possibility of abandonment after twelve months of default."
+    }
+  }
+]

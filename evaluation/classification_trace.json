@@ -1,0 +1,170 @@
+{
+  "calls": [
+    {
+      "stage": "generate",
+      "result": {
+        "claims": [],
+        "clarification": "Does the product claim to treat, cure, mitigate, or prevent any skin disease or disorder (e.g., eczema, dermatitis), or is the claim solely a cosmetic benefit such as “moisturises dry skin” without therapeutic implication?"
+      }
+    }
+  ],
+  "query": "Ayurveda product classification Drugs and Cosmetics Act definition. Intended use: skin moisturising; route: topical application; label claim: moisturises dry skin; no disease treatment claim; composition: aloe gel and water; no authoritative Ayurvedic text claimed",
+  "documents": [
+    {
+      "meta": {
+        "producer": "Microsoft® Word 2010",
+        "source_type": "official_pdf",
+        "source_id": "cdsco_drugs_cosmetics_act_1940",
+        "creationdate": "2017-01-19T18:56:19+05:30",
+        "page_label": "182",
+        "total_pages": 635,
+        "retrieved_at": "2026-09-18",
+        "creator": "Microsoft® Word 2010",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\pdf\\cdsco_drugs_cosmetics_act_1940.pdf",
+        "author": "CDSCO",
+        "regime": "drug_regulation",
+        "source_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf",
+        "moddate": "2017-01-19T18:56:19+05:30",
+        "organization": "CDSCO / Ministry of Health and Family Welfare",
+        "title": "Drugs and Cosmetics Act, 1940 and Rules, 1945 (incl. Schedule E-1, relevant to Ayurveda classification)",
+        "page": 181,
+        "version": "Existing snapshot; not a current consolidation",
+        "jurisdiction": "india",
+        "content_hash": "62bc0d8fd5f9d0c6be90b2fb86f67f8ed5280ac719a038fbf9f26fc8aa5036bf",
+        "retrieval_score": 0.032796,
+        "semantic_score": 0.6462
+      },
+      "text": " \nDrugs and Cosmetics Rules 1945 \n182 \n \n1[158(B) Guidelines for issue of license with  respect to Ayurveda, S iddha or \nUnani drugs.- \nI. (A). Ayurveda, Siddha Unani Medicines under section 3 (a):- Ayurveda, Siddha or \nUnani drugs includes all medicines intended for internal or external use for or in the \ndiagnosis, treatment, mitigation or prevention of disease or di sorder in human beings or \nanimals, and manufactured exclusively in accordance with the formulae described in the \nauthoritative"
+    },
+    {
+      "meta": {
+        "jurisdiction": "india",
+        "source_type": "official_pdf",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\pdf\\cdsco_drugs_cosmetics_act_1940.pdf",
+        "producer": "Microsoft® Word 2010",
+        "page_label": "190",
+        "title": "Drugs and Cosmetics Act, 1940 and Rules, 1945 (incl. Schedule E-1, relevant to Ayurveda classification)",
+        "page": 189,
+        "total_pages": 635,
+        "moddate": "2017-01-19T18:56:19+05:30",
+        "organization": "CDSCO / Ministry of Health and Family Welfare",
+        "content_hash": "62bc0d8fd5f9d0c6be90b2fb86f67f8ed5280ac719a038fbf9f26fc8aa5036bf",
+        "regime": "drug_regulation",
+        "retrieved_at": "2026-09-18",
+        "creationdate": "2017-01-19T18:56:19+05:30",
+        "version": "Existing snapshot; not a current consolidation",
+        "source_id": "cdsco_drugs_cosmetics_act_1940",
+        "creator": "Microsoft® Word 2010",
+        "source_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf",
+        "author": "CDSCO",
+        "retrieval_score": 0.030798,
+        "semantic_score": 0.6427
+      },
+      "text": " \nDrugs and Cosmetics Rules 1945 \n190 \n \n \n(2) If the approving authority is not satisfied, it shall reject the application and shall \ninform the applicant of the reasons for such rejection and of the conditions which shall be \nsatisfied before approval could be granted. \n \n160H.  Application after rejection. - If within a period of six months from the rejection of \nan application for approval, the applicant informs the approving authority that the conditions \nlaid  down  have  been  satisfied a"
+    },
+    {
+      "meta": {
+        "creationdate": "2017-01-19T18:56:19+05:30",
+        "source_type": "official_pdf",
+        "total_pages": 635,
+        "source_id": "cdsco_drugs_cosmetics_act_1940",
+        "author": "CDSCO",
+        "producer": "Microsoft® Word 2010",
+        "moddate": "2017-01-19T18:56:19+05:30",
+        "source_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf",
+        "organization": "CDSCO / Ministry of Health and Family Welfare",
+        "page": 5,
+        "title": "Drugs and Cosmetics Act, 1940 and Rules, 1945 (incl. Schedule E-1, relevant to Ayurveda classification)",
+        "version": "Existing snapshot; not a current consolidation",
+        "retrieved_at": "2026-09-18",
+        "creator": "Microsoft® Word 2010",
+        "jurisdiction": "india",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\pdf\\cdsco_drugs_cosmetics_act_1940.pdf",
+        "regime": "drug_regulation",
+        "page_label": "6",
+        "content_hash": "62bc0d8fd5f9d0c6be90b2fb86f67f8ed5280ac719a038fbf9f26fc8aa5036bf",
+        "retrieval_score": 0.030679,
+        "semantic_score": 0.6221
+      },
+      "text": " \n \n \n \n \n6 \n \n \n \n1                                                        Drugs and Cosmetics  Act, 1940 \nTHE DRUGS AND COSMETICS ACT, 1940 \n(23 OF 1940)\n1\n \n \n \n \n[10th  April, 1940.]\n \nAn Act to regulate the import, manufacture, distribution and sale of drugs \n2\n[and cosmetics]; \nWHEREAS it is  expedient to re gulate the \n3\n[import, manufacture, distribution a nd sale] of drugs \n2\n[and \ncosmetics];  \nAND WHEREAS  the Legislature of all the Provinces have passed resolutions in terms of sectio"
+    },
+    {
+      "meta": {
+        "page": 7,
+        "title": "Drugs and Cosmetics Act, 1940 and Rules, 1945 (incl. Schedule E-1, relevant to Ayurveda classification)",
+        "creationdate": "2017-01-19T18:56:19+05:30",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\pdf\\cdsco_drugs_cosmetics_act_1940.pdf",
+        "content_hash": "62bc0d8fd5f9d0c6be90b2fb86f67f8ed5280ac719a038fbf9f26fc8aa5036bf",
+        "moddate": "2017-01-19T18:56:19+05:30",
+        "regime": "drug_regulation",
+        "page_label": "8",
+        "creator": "Microsoft® Word 2010",
+        "source_id": "cdsco_drugs_cosmetics_act_1940",
+        "organization": "CDSCO / Ministry of Health and Family Welfare",
+        "source_type": "official_pdf",
+        "total_pages": 635,
+        "retrieved_at": "2026-09-18",
+        "version": "Existing snapshot; not a current consolidation",
+        "jurisdiction": "india",
+        "producer": "Microsoft® Word 2010",
+        "author": "CDSCO",
+        "source_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf",
+        "retrieval_score": 0.028543,
+        "semantic_score": 0.6269
+      },
+      "text": "Drugs and Cosmetics Act, 1940  \n8 \n \n \n1\n[\n2\n[(h)] ―patent or proprietary medicine‖ means,— \n \n(i)  in relation to Ayurvedic, Siddha or Unani Tibb systems of medicine all   formulations containing only \nsuch ingredients mentioned in the formulae described in the authoritative books of Ayurveda, Siddha or Unani \nTibb systems of medicine specified in the First Sch edule, but do es not i nclude a medicine which is \nadministered by p arenteral route and also a formulation included in t he authoritat"
+    },
+    {
+      "meta": {
+        "source_id": "cosmetics_rules_2020",
+        "moddate": "2022-11-22T12:03:34+05:30",
+        "producer": "Microsoft® Word 2010",
+        "organization": "CDSCO",
+        "retrieved_at": "2026-09-28T11:07:04.981182+00:00",
+        "page": 100,
+        "creator": "Microsoft® Word 2010",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\official\\cosmetics_rules_2020\\original.pdf",
+        "source_url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/cos_rules/Cosmetics%20Rules%202020.pdf",
+        "title": "Cosmetics Rules 2020",
+        "page_label": "101",
+        "regime": "drug_regulation",
+        "jurisdiction": "india",
+        "content_hash": "baf622fd41acd2bd42333ceba332362a9223c60b32cb8544ad408b5ae57e6e0f",
+        "version": "Official source snapshot; check subsequent amendments before relying on current law",
+        "total_pages": 112,
+        "author": "Gunja Chaturvedi",
+        "creationdate": "2022-11-22T12:03:34+05:30",
+        "source_type": "official_pdf",
+        "retrieval_score": 0.015873,
+        "semantic_score": -1.0
+      },
+      "text": "Central Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India      Page 101 of 112 \nFORM COS- 12 \n[See rule 32(1)] \nApplication for grant of permission for new cosmetics for obtaining import \nregistration certificate or manufacturing license \n \nI/We*_(Name and full address) hereby \napply for the grant of permission to import or manufacture a new cosmetics in \nIndia. The necessary information or data is given below:— \n1. Particulars of new cosmetic:— \na.    Na"
+    },
+    {
+      "meta": {
+        "title": "Supreme Court: In Re Patanjali Ayurved Ltd, 2024 INSC 605, 13 August 2024",
+        "source_id": "patanjali_judgment_2024",
+        "content_hash": "c3ad89b79d0fd43e04b500add48d28756c896129a4e5b0a838e9a86d9dc168ef",
+        "total_pages": 41,
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\official\\patanjali_judgment_2024\\original.pdf",
+        "source_type": "official_pdf",
+        "creationdate": "2024-08-13T16:37:24+05:30",
+        "page": 4,
+        "creator": "pdftk 2.02 - www.pdftk.com",
+        "organization": "Supreme Court of India",
+        "source_url": "https://api.sci.gov.in/supremecourt/2024/35078/35078_2024_9_1501_54748_Judgement_13-Aug-2024.pdf",
+        "producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com); modified using iText® 5.2.1 ©2000-2012 1T3XT BVBA",
+        "version": "Judgment dated 2024-08-13; case-specific decision, not a current consolidated advertising regime",
+        "jurisdiction": "india",
+        "retrieved_at": "2026-09-28T11:07:25.209885+00:00",
+        "page_label": "5",
+        "moddate": "2024-08-13T16:40:48+05:30",
+        "regime": "drug_regulation",
+        "retrieval_score": 0.01391,
+        "semantic_score": 0.5803
+      },
+      "text": "xxx xxx xxx\n14. Till  further  orders,  the  respondent  no.5-Patanjali  Ayurved\nLimited  is  restrained  from  advertising  or  branding  of  products\nmanufactured  and  marketed  by  it  which  are  meant  to  cure  the\ndiseases/disorders/conditions specified in the 1954 Act and 1955 Rules.\nRespondent  no.5 and its officers are also cautioned to refrain from\nmaking any statements against any system of medicine in the media\n(both  electronic  and  print)  in  any  form,  as  undertaken  on  21s"
+    }
+  ],
+  "answer": "**India**\n\nI could not verify this from the available authoritative sources, so I don't want to give you an unsupported legal conclusion.\n\nEvidence status: insufficient.\n\nThis information is for general guidance and is not legal advice. Please confirm important decisions with a qualified IP professional or the relevant authority."
+}

@@ -1,0 +1,312 @@
+[
+  {
+    "question": "Under Section 3(p), can traditional knowledge itself be patented in India?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patents_3"
+    ],
+    "retrieval_query": "Under Section 3(p), can traditional knowledge itself be patented in India?",
+    "sources": [
+      "patent_rule_24b",
+      "patents_3"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\n\n\n- Section 3(p) of the Indian Patents Act expressly excludes an invention that is traditional knowledge or an aggregation or duplication of known properties of traditionally known components from patentability. [1]\n\n- Consequently, traditional knowledge itself cannot be patented in India. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 11.6
+  },
+  {
+    "question": "What is the request-for-examination time limit under Rule 24B, and what is the exception for applications filed before the 2024 amendment?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patent_rule_24b"
+    ],
+    "retrieval_query": "What is the request-for-examination time limit under Rule 24B, and what is the exception for applications filed before the 2024 amendment?",
+    "sources": [
+      "patent_rule_24b"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\n\n\n- A request for examination under section 11B must be made within thirty‑one months from the date of priority or from the date of filing of the application, whichever is earlier. [1]\n\n- For applications filed before the commencement of the Patent (Amendment) Rules, 2024, the time limit for filing a request for examination under section 11B(1) is the period specified in this rule (the thirty‑one‑month limit) as it applied prior to the amendment. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Rules: examination of application (Rule 24B)](https://ipindia.gov.in/acts/patent-rules-2003/rule-24b) | Section/heading: RULE 24B. | https://ipindia.gov.in/acts/patent-rules-2003/rule-24b | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 8.69
+  },
+  {
+    "question": "What does section 3(a) say about Ayurvedic, Siddha or Unani drugs?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "cdsco_drugs_cosmetics_act_1940"
+    ],
+    "retrieval_query": "What does section 3(a) say about Ayurvedic, Siddha or Unani drugs?",
+    "sources": [
+      "cdsco_drugs_cosmetics_act_1940"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\n\n\n- Section 3(a) defines an “Ayurvedic, Siddha or Unani drug” as any medicine intended for internal or external use for the diagnosis, treatment, mitigation or prevention of disease or disorder in humans or animals, manufactured exclusively in accordance with the formulae described in the authoritative books of the Ayurvedic, Siddha and Unani systems of medicine as specified in the First Schedule. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Drugs and Cosmetics Act, 1940 and Rules, 1945 (incl. Schedule E-1, relevant to Ayurveda classification)](https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf#page=6) | PDF page: 6 | https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf | Retrieved: 2026-09-18\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 8.59
+  },
+  {
+    "question": "Who can apply for registration of a geographical indication under section 11?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "ip_india_gi_act"
+    ],
+    "retrieval_query": "Who can apply for registration of a geographical indication under section 11?",
+    "sources": [
+      "ip_india_gi_act"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\n\n\n- Section 11(1) provides that any association of persons or producers, or any organization or authority established by law representing the interest of the producers of the goods, may apply in writing to the Registrar for registration of a geographical indication. [2]\n\n\n\n**Sources**\n\n\n\n[2] [Geographical Indications of Goods (Registration & Protection) Act, 1999](https://ipindia.gov.in/frontend/pdf/mannual/1_49_1_gi-act-1999.pdf#page=6) | PDF page: 6 | https://ipindia.gov.in/frontend/pdf/mannual/1_49_1_gi-act-1999.pdf | Retrieved: 2026-09-18\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 5.93
+  },
+  {
+    "question": "What does the Nagoya Protocol say about prior informed consent for access to genetic resources?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "nagoya_full"
+    ],
+    "retrieval_query": "What does the Nagoya Protocol say about prior informed consent for access to genetic resources?",
+    "sources": [
+      "nagoya_full",
+      "wto_trips_agreement"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**International (destination-specific rules require a named market)**\n\n\n\n- Article 6(1) of the Nagoya Protocol requires that access to genetic resources be subject to the prior informed consent of the Party providing the resources (the country of origin) unless that Party decides otherwise. [1]\n\n- Parties that require prior informed consent must adopt legislative, administrative or policy measures to ensure legal certainty, clarity and transparency of their access‑and‑benefit‑sharing rules. [1]\n\n- The consent must be provided as a clear written decision by a competent national authority, accompanied by a permit or equivalent evidence of the decision, and notified to the Access and Benefit‑sharing Clearing‑House. [1]\n\n- Where applicable, parties must set out criteria and procedures for obtaining prior informed consent and ensure the involvement of indigenous and local communities. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Nagoya Protocol full text](https://www.cbd.int/abs/doc/protocol/nagoya-protocol-en.pdf#page=6) | PDF page: 6 | Section/heading: Article\n7; Article\n5; Article\n6 | https://www.cbd.int/abs/doc/protocol/nagoya-protocol-en.pdf | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 6.87
+  },
+  {
+    "question": "What disclosure does Article 3 of the WIPO GRATK Treaty require?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "gratk"
+    ],
+    "retrieval_query": "What disclosure does Article 3 of the WIPO GRATK Treaty require?",
+    "sources": [
+      "gratk",
+      "wto_trips_agreement"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**International (destination-specific rules require a named market)**\n\n\n\n- For a patent application whose claimed invention is based on genetic resources, the applicant must disclose the country of origin of the genetic resources, or, if that is not known, the source of the genetic resources. [1]\n\n- For a patent application whose claimed invention is based on traditional knowledge associated with genetic resources, the applicant must disclose the Indigenous Peoples or local community that provided the knowledge, or, if that is not known, the source of the traditional knowledge. [1]\n\n- If the applicant does not know any of the information required in Articles 3.1 or 3.2, the applicant must make a declaration affirming that the information is unknown and that the declaration is true to the best of their knowledge. [1]\n\n- Contracting Parties shall provide guidance on how to meet the disclosure requirement, allow applicants to correct or rectify missing or erroneous information, and shall not place an obligation on patent offices to verify the authenticity of the disclosure. [1]\n\n\n\n**Sources**\n\n\n\n[1] [WIPO GRATK Treaty](https://www.wipo.int/wipolex/en/text/592504) | PDF page: 4 | Section/heading: ARTICLE 3 ; ARTICLE 4  | https://www.wipo.int/wipolex/en/text/592504 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 10.09
+  },
+  {
+    "question": "Can a PCT application by itself give me a worldwide patent?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "wipo_pct_intro"
+    ],
+    "retrieval_query": "Can a PCT application by itself give me a worldwide patent?",
+    "sources": [
+      "wipo_pct_guide",
+      "wipo_pct_intro"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**International (destination-specific rules require a named market)**\n\n\n\n- A PCT application does not itself grant a patent; it only initiates an international filing and publication process. [1]\n\n- After the international phase, the applicant must enter the national phase in each desired Contracting State for a patent to be granted. [1]\n\n- The PCT application is recognized in all Contracting States as having the same effect as filing separate national applications, but patents are granted only by the national offices. [5]\n\n\n\n**Sources**\n\n\n\n[1] [WIPO: Introduction to the PCT](https://www.wipo.int/en/web/pct-system/introduction) | Section/heading: Article 6ter Express Database; Article 6ter (armorial bearings, flags, state emblems); Rule 11 | https://www.wipo.int/en/web/pct-system/introduction | Retrieved: 2026-09-19\n\n[5] [WIPO: Introduction to the PCT](https://www.wipo.int/en/web/pct-system/introduction) | Section/heading: Article 6ter Express Database; Article 6ter (armorial bearings, flags, state emblems); Rule 11 | https://www.wipo.int/en/web/pct-system/introduction | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 6.72
+  },
+  {
+    "question": "What does the Madrid System protect?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "wipo_madrid_guide"
+    ],
+    "retrieval_query": "What does the Madrid System protect?",
+    "sources": [
+      "wipo_madrid_guide",
+      "wto_trips_agreement"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**International (destination-specific rules require a named market)**\n\n\n\n- The Madrid System protects trademarks by providing a single international filing that secures trademark rights in the 133 member countries. [4]\n\n\n\n**Sources**\n\n\n\n[4] [Madrid international trademark system](https://www.wipo.int/en/web/madrid-system) | Section/heading: Article 6ter Express Database; Article 6ter (armorial bearings, flags, state emblems) | https://www.wipo.int/en/web/madrid-system | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 6.68
+  },
+  {
+    "question": "How does the Hague System relate to industrial designs?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "wipo_hague_guide"
+    ],
+    "retrieval_query": "How does the Hague System relate to industrial designs?",
+    "sources": [
+      "wipo_hague_guide",
+      "wto_trips_agreement"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**International (destination-specific rules require a named market)**\n\n\n\nThe following points are supported; I could not verify every requested detail.\n\n- It enables applicants to register up to 100 designs in one international filing. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Hague international design system](https://www.wipo.int/en/web/hague-system) | Section/heading: Article 6ter Express Database; Article 6ter (armorial bearings, flags, state emblems) | https://www.wipo.int/en/web/hague-system | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 6.01
+  },
+  {
+    "question": "What benefit-sharing provisions are in the 2025 ABS Regulations?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "abs_2025"
+    ],
+    "retrieval_query": "What benefit-sharing provisions are in the 2025 ABS Regulations?",
+    "sources": [
+      "abs_2025",
+      "bd_amendment_act_2023_gazette",
+      "nba_faq"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\n\n\n- When an applicant commercialises intellectual‑property rights, the monetary benefit‑sharing is up to 1 % of the annual gross ex‑factory sale price if the applicant uses the IP itself, and up to 5 % of any licence or assignment fee and up to 5 % of annual royalties if the IP is licensed to a third party; if traditional knowledge is involved the rate is 25 % higher than the applicable rate (source 1, spans 3 and 4). [1]\n\n- For direct commercial utilisation of a biological resource (or its digital sequence information), benefit‑sharing is determined by the applicant’s annual turnover: nil for turnover up to ₹5 crore, 0.2 % for ₹5‑50 crore, 0.4 % for ₹50‑250 crore, and 0.6 % for turnover above ₹250 crore of gross ex‑factory sales (source 3, span 2). [3]\n\n- If the accessed biological resource has conservation or high economic value (e.g., red sanders, sandalwood, agarwood or threatened species), the benefit‑sharing shall be at least 5 % of the auction or sale proceeds, and the overall benefit‑sharing component is increased by 20 % over the standard rate (source 3, span 4). [3]\n\n- The accrued benefits must be shared with the Authority at a minimum of 10 % and a maximum of 15 % of the total; half of this amount may be retained by the Authority and the remainder allocated to the State Biodiversity Board or Council, with the balance distributed among benefit claimers, while if the resource source is unknown the Authority may retain the full amount (source 2, spans 5 and 7). [2]\n\n\n\n**Sources**\n\n\n\n[1] [Biological Diversity ABS Regulations 2025](https://www.nbaindia.nic.in/sites/default/files/2026-07/GNABSREG_2025.pdf#page=19) | PDF page: 19 | https://www.nbaindia.nic.in/sites/default/files/2026-07/GNABSREG_2025.pdf | Retrieved: 2026-09-19\n\n[2] [Biological Diversity ABS Regulations 2025](https://www.nbaindia.nic.in/sites/default/files/2026-07/GNABSREG_2025.pdf#page=20) | PDF page: 20 | Section/heading: section 39 of the Act.  | https://www.nbaindia.nic.in/sites/default/files/2026-07/GNABSREG_2025.pdf | Retrieved: 2026-09-19\n\n[3] [Biological Diversity ABS Regulations 2025](https://www.nbaindia.nic.in/sites/default/files/2026-07/GNABSREG_2025.pdf#page=17) | PDF page: 17 | https://www.nbaindia.nic.in/sites/default/files/2026-07/GNABSREG_2025.pdf | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 9.99
+  },
+  {
+    "question": "Explain patent protection and benefit sharing for an Ayurvedic invention using Indian biological resources.",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patents_3",
+      "abs_2025"
+    ],
+    "category": "multi-source",
+    "retrieval_query": "Explain patent protection and benefit sharing for an Ayurvedic invention using Indian biological resources.",
+    "sources": [
+      "abs_2025",
+      "nba_faq",
+      "patents_3"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\n\n\n- Section 3 of the Patents Act, 1970 lists inventions that are not patentable, including discoveries of natural substances, methods of medical treatment, plants or animals, and any invention that is essentially traditional knowledge. [1]\n\n- When an Ayurvedic invention that uses Indian biological resources is commercialised by the applicant themselves, the monetary benefit‑sharing payable to the Authority is up to one percent of the annual gross ex‑factory sale price, determined on a sector‑specific basis. [2]\n\n- If the patent is assigned or licensed to a third party, the applicant must pay up to five percent of the licence/assignment fee and up to five percent of any annual royalty received, again based on a sector‑specific approach. [2]\n\n- Where the invention involves traditional knowledge, the benefit‑sharing rate is increased by twenty‑five percent over the standard rate applicable to the same activity. [2]\n\n- The 2023 amendment to the Biological Diversity Act exempts the use of cultivated medicinal plants by Indian AYUSH practitioners from the ABS monetary‑sharing requirement. [6]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n[2] [Biological Diversity ABS Regulations 2025](https://www.nbaindia.nic.in/sites/default/files/2026-07/GNABSREG_2025.pdf#page=19) | PDF page: 19 | https://www.nbaindia.nic.in/sites/default/files/2026-07/GNABSREG_2025.pdf | Retrieved: 2026-09-19\n\n[6] [NBA official frequently asked questions](https://nbaindia.nic.in/about-us/faqs) | Section/heading: Section 7 of the BD (Amendment) Act, 2023 does not apply to the following: | https://nbaindia.nic.in/about-us/faqs | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 33.22
+  },
+  {
+    "question": "Give me the secret TKDL record for my proprietary formulation.",
+    "jurisdiction": "india",
+    "expect_abstain": true,
+    "retrieval_query": "Give me the secret TKDL record for my proprietary formulation.",
+    "sources": [
+      "cdsco_drugs_cosmetics_act_1940"
+    ],
+    "hit_at_8": null,
+    "expected_source_recall": null,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\nI could not find sufficient information in the available knowledge sources to answer this reliably.\n\nEvidence status: insufficient.\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": true,
+    "status": "completed",
+    "seconds": 4.59
+  },
+  {
+    "question": "Who won the football match yesterday?",
+    "jurisdiction": "india",
+    "expect_abstain": true,
+    "retrieval_query": "Who won the football match yesterday?",
+    "sources": [],
+    "hit_at_8": null,
+    "expected_source_recall": null,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\nI could not find sufficient information in the available knowledge sources to answer this reliably.\n\nEvidence status: insufficient.\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": true,
+    "status": "completed",
+    "seconds": 1.1
+  },
+  {
+    "question": "Guarantee that my unnamed herbal mixture is patentable and approved for sale.",
+    "jurisdiction": "india",
+    "expect_abstain": true,
+    "retrieval_query": "Guarantee that my unnamed herbal mixture is patentable and approved for sale.",
+    "sources": [],
+    "hit_at_8": null,
+    "expected_source_recall": null,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\nI could not find sufficient information in the available knowledge sources to answer this reliably.\n\nEvidence status: insufficient.\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": true,
+    "status": "completed",
+    "seconds": 0.04
+  },
+  {
+    "question": "பாரம்பரிய அறிவுக்கு இந்தியாவில் காப்புரிமை பெற முடியுமா?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patents_3"
+    ],
+    "language": "Tamil",
+    "retrieval_query": "Can traditional knowledge be patented in India?",
+    "sources": [
+      "patents_3"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\n\n\n- இந்தியப் பாட்டெண்ட் சட்டத்தின் பிரிவு 3(p) படி, பாரம்பரிய அறிவை அல்லது அதன் கூறுகளின் அறியப்பட்ட பண்புகளின் சேர்க்கை/நகல் ஆகியவை காப்புரிமை பெற முடியாது. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 7.2
+  },
+  {
+    "question": "क्या भारत में पारंपरिक ज्ञान का पेटेंट हो सकता है?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patents_3"
+    ],
+    "language": "Hindi",
+    "retrieval_query": "Can traditional knowledge be patented in India?",
+    "sources": [
+      "patents_3"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\n\n\n- भारतीय पेटेंट अधिनियम की धारा 3(p) के अनुसार पारंपरिक ज्ञान या उसके घटकों के ज्ञात गुणों का संकलन पेटेंट योग्य नहीं है। [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 7.38
+  },
+  {
+    "question": "What is the purpose of the FSSAI order dated 25 July 2025 concerning category A Ayurveda Aahara?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "fssai_category_a_order"
+    ],
+    "retrieval_query": "What is the purpose of the FSSAI order dated 25 July 2025 concerning category A Ayurveda Aahara?",
+    "sources": [
+      "fssai_category_a_order"
+    ],
+    "hit_at_8": true,
+    "expected_source_recall": 1.0,
+    "jurisdiction_pass": true,
+    "answer": "**India**\n\n\n\n- The order provides a list of Ayurveda Aahara products covered under category A, as authorised by Note (1) of Schedule B of the Food Safety and Standards (Ayurveda Aahara) Regulations 2022, and states that the list may be updated from time to time. [1]\n\n- It is issued to facilitate Food Business Operators in manufacturing category A Ayurveda Aahara by publishing the list and allowing operators to request inclusion of products not mentioned, upon submission of literature from authoritative texts. [1] [2]\n\n\n\n**Sources**\n\n\n\n[1] [FSSAI order dated 25 July 2025: Ayurveda Aahara category A](https://www.fssai.gov.in/upload/uploadfiles/files/Order%20dated%2025-07-2025%20enclosing%20Ayurveda%20Aahara.pdf#page=1) | PDF page: 1 | https://www.fssai.gov.in/upload/uploadfiles/files/Order%20dated%2025-07-2025%20enclosing%20Ayurveda%20Aahara.pdf | Retrieved: 2026-09-19\n\n[2] [FSSAI order dated 25 July 2025: Ayurveda Aahara category A](https://www.fssai.gov.in/upload/uploadfiles/files/Order%20dated%2025-07-2025%20enclosing%20Ayurveda%20Aahara.pdf#page=2) | PDF page: 2 | https://www.fssai.gov.in/upload/uploadfiles/files/Order%20dated%2025-07-2025%20enclosing%20Ayurveda%20Aahara.pdf | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "abstained": false,
+    "status": "completed",
+    "seconds": 7.83
+  }
+]

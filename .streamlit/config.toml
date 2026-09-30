@@ -1,0 +1,15 @@
+[browser]
+gatherUsageStats = false
+[server]
+fileWatcherType = "none"
+address = "127.0.0.1"
+maxUploadSize = 25
+maxMessageSize = 50
+enableCORS = true
+enableXsrfProtection = true
+enableStaticServing = false
+[client]
+showErrorDetails = "none"
+
+[theme]
+primaryColor = "#16765e"

@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: ip-sakti
+    runtime: docker
+    plan: standard
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /_stcore/health
+    numInstances: 1
+    envVars:
+      - key: APP_DATA_DIR
+        value: /var/data/ip-sakti
+      - key: PUBLIC_BASE_URL
+        sync: false
+      - key: OLLAMA_HOST
+        value: https://ollama.com
+      - key: LLM_MODEL
+        value: gpt-oss:120b
+      - key: OLLAMA_API_KEY
+        sync: false
+    disk:
+      name: ip-sakti-data
+      mountPath: /var/data
+      sizeGB: 10

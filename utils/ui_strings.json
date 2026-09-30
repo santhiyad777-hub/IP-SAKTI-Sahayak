@@ -1,0 +1,792 @@
+{
+  "Language": {
+    "Tamil": "மொழி",
+    "Hindi": "भाषा",
+    "English": "Language"
+  },
+  "Jurisdiction": {
+    "Tamil": "சட்ட வரம்பு",
+    "Hindi": "अधिकार क्षेत्र",
+    "English": "Jurisdiction"
+  },
+  "India": {
+    "Tamil": "இந்தியா",
+    "Hindi": "भारत",
+    "English": "India"
+  },
+  "International": {
+    "Tamil": "சர்வதேசம்",
+    "Hindi": "अंतरराष्ट्रीय",
+    "English": "International"
+  },
+  "Knowledge sources": {
+    "Tamil": "அறிவு ஆதாரங்கள்",
+    "Hindi": "जानकारी के स्रोत",
+    "English": "Knowledge sources"
+  },
+  "Knowledge base": {
+    "Tamil": "அறிவுத் தளம்",
+    "Hindi": "ज्ञान आधार",
+    "English": "Knowledge base"
+  },
+  "Knowledge base + uploads": {
+    "Tamil": "அறிவுத் தளம் + பதிவேற்றங்கள்",
+    "Hindi": "ज्ञान आधार + अपलोड",
+    "English": "Knowledge base + uploads"
+  },
+  "Uploaded documents": {
+    "Tamil": "பதிவேற்றிய ஆவணங்கள்",
+    "Hindi": "अपलोड किए गए दस्तावेज़",
+    "English": "Uploaded documents"
+  },
+  "Limit uploads to": {
+    "Tamil": "இந்த ஆவணங்களில் மட்டும் தேடு",
+    "Hindi": "केवल इन दस्तावेज़ों में खोजें",
+    "English": "Limit uploads to"
+  },
+  "Use BHASHINI translation": {
+    "Tamil": "BHASHINI மொழிபெயர்ப்பைப் பயன்படுத்து",
+    "Hindi": "BHASHINI अनुवाद का उपयोग करें",
+    "English": "Use BHASHINI translation"
+  },
+  "Your selected language controls the interface and every answer, regardless of the language of your question.": {
+    "Tamil": "நீங்கள் தேர்ந்தெடுத்த மொழியில் திரையும் எல்லாப் பதில்களும் இருக்கும். கேள்வியை எந்த மொழியிலும் கேட்கலாம்.",
+    "Hindi": "आपकी चुनी हुई भाषा में इंटरफ़ेस और सभी उत्तर मिलेंगे। प्रश्न किसी भी भाषा में पूछ सकते हैं।",
+    "English": "Your selected language controls the interface and every answer, regardless of the language of your question."
+  },
+  "Questions and retrieved excerpts are sent to Ollama. Text for translation is sent to BHASHINI when enabled. Chats and uploads are stored locally.": {
+    "Tamil": "கேள்விகளும் ஆதாரப் பகுதிகளும் Ollama-க்கு அனுப்பப்படும். மொழிபெயர்ப்பு இயக்கப்பட்டிருந்தால் உரை BHASHINI-க்கு அனுப்பப்படும். உரையாடல்களும் ஆவணங்களும் உங்கள் கணினியில் சேமிக்கப்படும்.",
+    "Hindi": "प्रश्न और स्रोत अंश Ollama को भेजे जाते हैं। अनुवाद चालू होने पर पाठ BHASHINI को भेजा जाता है। बातचीत और दस्तावेज़ आपके कंप्यूटर पर सहेजे जाते हैं।",
+    "English": "Questions and retrieved excerpts are sent to Ollama. Text for translation is sent to BHASHINI when enabled. Chats and uploads are stored locally."
+  },
+  "Classify a formulation / ABS checklist": {
+    "Tamil": "தயாரிப்பு வகை / ABS விவரங்கள்",
+    "Hindi": "उत्पाद वर्गीकरण / ABS जानकारी",
+    "English": "Classify a formulation / ABS checklist"
+  },
+  "Intended use and claims (medicine, food, cosmetic)": {
+    "Tamil": "பயன்பாடும் பயன் குறித்த கூற்றுகளும் (மருந்து, உணவு, அழகுசாதனம்)",
+    "Hindi": "उपयोग और दावे (दवा, भोजन, सौंदर्य प्रसाधन)",
+    "English": "Intended use and claims (medicine, food, cosmetic)"
+  },
+  "Authoritative text and changes to ingredients/process": {
+    "Tamil": "அங்கீகரிக்கப்பட்ட நூலும் மூலப்பொருள் / செய்முறை மாற்றங்களும்",
+    "Hindi": "प्रामाणिक ग्रंथ और सामग्री / प्रक्रिया में बदलाव",
+    "English": "Authoritative text and changes to ingredients/process"
+  },
+  "Resource origin; applicant nationality/control; activity": {
+    "Tamil": "வளத்தின் மூலம்; விண்ணப்பதாரரின் நாட்டுரிமை / கட்டுப்பாடு; செயல்பாடு",
+    "Hindi": "संसाधन का स्रोत; आवेदक की राष्ट्रीयता / नियंत्रण; गतिविधि",
+    "English": "Resource origin; applicant nationality/control; activity"
+  },
+  "Destination market (required for export guidance)": {
+    "Tamil": "விற்பனை செய்யும் நாடு (ஏற்றுமதி வழிகாட்டலுக்குத் தேவை)",
+    "Hindi": "लक्षित बाज़ार (निर्यात मार्गदर्शन के लिए आवश्यक)",
+    "English": "Destination market (required for export guidance)"
+  },
+  "Review formulation and ABS questions": {
+    "Tamil": "தயாரிப்பு மற்றும் ABS விவரங்களைச் சரிபார்",
+    "Hindi": "उत्पाद और ABS जानकारी की समीक्षा करें",
+    "English": "Review formulation and ABS questions"
+  },
+  "Official resources and human help": {
+    "Tamil": "அதிகாரப்பூர்வ ஆதாரங்களும் நிபுணர் உதவியும்",
+    "Hindi": "आधिकारिक स्रोत और विशेषज्ञ सहायता",
+    "English": "Official resources and human help"
+  },
+  "IP India: facilitators and official searches": {
+    "Tamil": "IP India: ஆலோசகர்களும் அதிகாரப்பூர்வ தேடலும்",
+    "Hindi": "IP India: सलाहकार और आधिकारिक खोज",
+    "English": "IP India: facilitators and official searches"
+  },
+  "WIPO databases": {
+    "Tamil": "WIPO தரவுத்தளங்கள்",
+    "Hindi": "WIPO डेटाबेस",
+    "English": "WIPO databases"
+  },
+  "TKDL and paid databases are pointers only. This app does not access subscriptions or submit applications.": {
+    "Tamil": "TKDL மற்றும் கட்டணத் தரவுத்தளங்களுக்கு இணைப்புகள் மட்டுமே வழங்கப்படுகின்றன. இந்தச் செயலி சந்தாக்களை அணுகவோ விண்ணப்பங்களைச் சமர்ப்பிக்கவோ செய்யாது.",
+    "Hindi": "TKDL और सशुल्क डेटाबेस के केवल लिंक दिए गए हैं। यह ऐप सदस्यताओं का उपयोग या आवेदन जमा नहीं करता।",
+    "English": "TKDL and paid databases are pointers only. This app does not access subscriptions or submit applications."
+  },
+  "Corpus coverage": {
+    "Tamil": "அறிவுத் தளத்தின் உள்ளடக்கம்",
+    "Hindi": "ज्ञान आधार की सामग्री",
+    "English": "Corpus coverage"
+  },
+  "{count} validated sources. Retrieval dates do not guarantee current law.": {
+    "Tamil": "{count} சரிபார்க்கப்பட்ட ஆதாரங்கள். சேகரித்த தேதி, தற்போதைய சட்டத்தை உறுதிப்படுத்தாது.",
+    "Hindi": "{count} सत्यापित स्रोत। संग्रह की तारीख वर्तमान कानून की गारंटी नहीं है।",
+    "English": "{count} validated sources. Retrieval dates do not guarantee current law."
+  },
+  "Title": {
+    "Tamil": "தலைப்பு",
+    "Hindi": "शीर्षक",
+    "English": "Title"
+  },
+  "Status": {
+    "Tamil": "நிலை",
+    "Hindi": "स्थिति",
+    "English": "Status"
+  },
+  "verified": {
+    "Tamil": "சரிபார்க்கப்பட்டது",
+    "Hindi": "सत्यापित",
+    "English": "verified"
+  },
+  "unavailable": {
+    "Tamil": "கிடைக்கவில்லை",
+    "Hindi": "अनुपलब्ध",
+    "English": "unavailable"
+  },
+  "Knowledge workspace": {
+    "Tamil": "அறிவுத் தளம்",
+    "Hindi": "ज्ञान कार्यक्षेत्र",
+    "English": "Knowledge workspace"
+  },
+  "+ New chat": {
+    "Tamil": "+ புதிய உரையாடல்",
+    "Hindi": "+ नई बातचीत",
+    "English": "+ New chat"
+  },
+  "New conversation": {
+    "Tamil": "புதிய உரையாடல்",
+    "Hindi": "नई बातचीत",
+    "English": "New conversation"
+  },
+  "Uploaded Documents": {
+    "Tamil": "பதிவேற்றிய ஆவணங்கள்",
+    "Hindi": "अपलोड किए गए दस्तावेज़",
+    "English": "Uploaded Documents"
+  },
+  "Document library": {
+    "Tamil": "ஆவணத் தொகுப்பு",
+    "Hindi": "दस्तावेज़ संग्रह",
+    "English": "Document library"
+  },
+  "Drop files here or browse to add knowledge.": {
+    "Tamil": "ஆவணங்களை இங்கே இழுத்துவிடவும் அல்லது தேர்ந்தெடுக்கவும்.",
+    "Hindi": "दस्तावेज़ यहाँ छोड़ें या चुनें।",
+    "English": "Drop files here or browse to add knowledge."
+  },
+  "Upload documents": {
+    "Tamil": "ஆவணங்களைப் பதிவேற்று",
+    "Hindi": "दस्तावेज़ अपलोड करें",
+    "English": "Upload documents"
+  },
+  "Browse files": {
+    "Tamil": "கோப்புகளைத் தேர்ந்தெடு",
+    "Hindi": "फ़ाइलें चुनें",
+    "English": "Browse files"
+  },
+  "Up to 25 MB per file": {
+    "Tamil": "ஒரு கோப்புக்கு அதிகபட்சம் 25 MB",
+    "Hindi": "प्रति फ़ाइल अधिकतम 25 MB",
+    "English": "Up to 25 MB per file"
+  },
+  "Upload a filename without directories, at most 25 MB.": {
+    "Tamil": "கோப்புறைப் பாதையில்லாத பெயருடன், 25 MB-க்குள் உள்ள கோப்பைப் பதிவேற்றவும்.",
+    "Hindi": "फ़ोल्डर पथ के बिना नाम वाली, अधिकतम 25 MB की फ़ाइल अपलोड करें।",
+    "English": "Upload a filename without directories, at most 25 MB."
+  },
+  "Indexed {count} chunks": {
+    "Tamil": "{count} பகுதிகள் தேடலில் சேர்க்கப்பட்டன",
+    "Hindi": "{count} अंश खोज में जोड़े गए",
+    "English": "Indexed {count} chunks"
+  },
+  "{count} documents ready": {
+    "Tamil": "{count} ஆவணங்கள் தயார்",
+    "Hindi": "{count} दस्तावेज़ तैयार",
+    "English": "{count} documents ready"
+  },
+  "Remove document": {
+    "Tamil": "ஆவணத்தை நீக்கு",
+    "Hindi": "दस्तावेज़ हटाएँ",
+    "English": "Remove document"
+  },
+  "The document could not be processed. Check the file and retry.": {
+    "Tamil": "ஆவணத்தைச் செயலாக்க முடியவில்லை. கோப்பைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்.",
+    "Hindi": "दस्तावेज़ संसाधित नहीं हो सका। फ़ाइल जाँचकर दोबारा प्रयास करें।",
+    "English": "The document could not be processed. Check the file and retry."
+  },
+  "Recent Conversations": {
+    "Tamil": "சமீபத்திய உரையாடல்கள்",
+    "Hindi": "हाल की बातचीत",
+    "English": "Recent Conversations"
+  },
+  "Search conversations": {
+    "Tamil": "உரையாடல்களைத் தேடு",
+    "Hindi": "बातचीत खोजें",
+    "English": "Search conversations"
+  },
+  "Search chats…": {
+    "Tamil": "உரையாடல்களைத் தேடுங்கள்…",
+    "Hindi": "बातचीत खोजें…",
+    "English": "Search chats…"
+  },
+  "Delete conversation": {
+    "Tamil": "உரையாடலை நீக்கு",
+    "Hindi": "बातचीत हटाएँ",
+    "English": "Delete conversation"
+  },
+  "Delete All Chats": {
+    "Tamil": "எல்லா உரையாடல்களையும் நீக்கு",
+    "Hindi": "सभी बातचीत हटाएँ",
+    "English": "Delete All Chats"
+  },
+  "Permanently delete this conversation?": {
+    "Tamil": "இந்த உரையாடலை நிரந்தரமாக நீக்க வேண்டுமா?",
+    "Hindi": "क्या यह बातचीत हमेशा के लिए हटाएँ?",
+    "English": "Permanently delete this conversation?"
+  },
+  "Permanently delete all conversations? This cannot be undone.": {
+    "Tamil": "எல்லா உரையாடல்களையும் நிரந்தரமாக நீக்க வேண்டுமா? இதை மீட்டெடுக்க முடியாது.",
+    "Hindi": "क्या सभी बातचीत हमेशा के लिए हटाएँ? इसे वापस नहीं किया जा सकता।",
+    "English": "Permanently delete all conversations? This cannot be undone."
+  },
+  "Delete": {
+    "Tamil": "நீக்கு",
+    "Hindi": "हटाएँ",
+    "English": "Delete"
+  },
+  "Delete All": {
+    "Tamil": "அனைத்தையும் நீக்கு",
+    "Hindi": "सभी हटाएँ",
+    "English": "Delete All"
+  },
+  "Cancel": {
+    "Tamil": "ரத்து செய்",
+    "Hindi": "रद्द करें",
+    "English": "Cancel"
+  },
+  "Bookmarks": {
+    "Tamil": "சேமித்த குறிப்புகள்",
+    "Hindi": "बुकमार्क",
+    "English": "Bookmarks"
+  },
+  "Search bookmarks": {
+    "Tamil": "சேமித்த குறிப்புகளைத் தேடு",
+    "Hindi": "बुकमार्क खोजें",
+    "English": "Search bookmarks"
+  },
+  "Search bookmarks…": {
+    "Tamil": "சேமித்த குறிப்புகளைத் தேடுங்கள்…",
+    "Hindi": "बुकमार्क खोजें…",
+    "English": "Search bookmarks…"
+  },
+  "No bookmarked conversations yet.": {
+    "Tamil": "இன்னும் உரையாடல் குறிப்புகள் சேமிக்கப்படவில்லை.",
+    "Hindi": "अभी कोई बातचीत बुकमार्क नहीं की गई है।",
+    "English": "No bookmarked conversations yet."
+  },
+  "Bookmarked question": {
+    "Tamil": "சேமித்த கேள்வி",
+    "Hindi": "बुकमार्क किया गया प्रश्न",
+    "English": "Bookmarked question"
+  },
+  "Remove bookmark": {
+    "Tamil": "சேமித்த குறிப்பை நீக்கு",
+    "Hindi": "बुकमार्क हटाएँ",
+    "English": "Remove bookmark"
+  },
+  "☀ Light mode": {
+    "Tamil": "☀ வெளிர் தோற்றம்",
+    "Hindi": "☀ हल्का रूप",
+    "English": "☀ Light mode"
+  },
+  "◐ Dark mode": {
+    "Tamil": "◐ இருண்ட தோற்றம்",
+    "Hindi": "◐ गहरा रूप",
+    "English": "◐ Dark mode"
+  },
+  "No document selected": {
+    "Tamil": "ஆவணம் தேர்ந்தெடுக்கப்படவில்லை",
+    "Hindi": "कोई दस्तावेज़ नहीं चुना गया",
+    "English": "No document selected"
+  },
+  "Workspace exports": {
+    "Tamil": "உரையாடலைப் பதிவிறக்கு",
+    "Hindi": "बातचीत डाउनलोड करें",
+    "English": "Workspace exports"
+  },
+  "Prepare PDF": {
+    "Tamil": "PDF உருவாக்கு",
+    "Hindi": "PDF तैयार करें",
+    "English": "Prepare PDF"
+  },
+  "Download PDF": {
+    "Tamil": "PDF பதிவிறக்கு",
+    "Hindi": "PDF डाउनलोड करें",
+    "English": "Download PDF"
+  },
+  "PDF export failed. Check the browser configuration.": {
+    "Tamil": "PDF உருவாக்க முடியவில்லை. உலாவி அமைப்பைச் சரிபார்க்கவும்.",
+    "Hindi": "PDF नहीं बन सका। ब्राउज़र की सेटिंग जाँचें।",
+    "English": "PDF export failed. Check the browser configuration."
+  },
+  "YOUR AI KNOWLEDGE ASSISTANT": {
+    "Tamil": "உங்கள் அறிவு உதவியாளர்",
+    "Hindi": "आपका ज्ञान सहायक",
+    "English": "YOUR AI KNOWLEDGE ASSISTANT"
+  },
+  "Ayurveda innovation. Informed decisions.": {
+    "Tamil": "ஆயுர்வேதப் புதுமை. தெளிவான முடிவுகள்.",
+    "Hindi": "आयुर्वेद में नवाचार। जानकारी पर आधारित निर्णय।",
+    "English": "Ayurveda innovation. Informed decisions."
+  },
+  "Ask about Ayurveda IP, product classification, ABS and regulatory requirements. Sources are cited; missing evidence is reported.": {
+    "Tamil": "ஆயுர்வேத அறிவுசார் சொத்துரிமை, தயாரிப்பு வகை, ABS மற்றும் ஒழுங்குமுறை விதிகள் பற்றிக் கேளுங்கள். பதில்களில் ஆதாரங்களும் தகவல் கிடைக்காதபோது அதற்கான அறிவிப்பும் இருக்கும்.",
+    "Hindi": "आयुर्वेद की बौद्धिक संपदा, उत्पाद वर्गीकरण, ABS और नियामक आवश्यकताओं के बारे में पूछें। उत्तर में स्रोत दिए जाएँगे और जानकारी न मिलने पर बताया जाएगा।",
+    "English": "Ask about Ayurveda IP, product classification, ABS and regulatory requirements. Sources are cited; missing evidence is reported."
+  },
+  "You": {
+    "Tamil": "நீங்கள்",
+    "Hindi": "आप",
+    "English": "You"
+  },
+  "YOU": {
+    "Tamil": "நீங்கள்",
+    "Hindi": "आप",
+    "English": "YOU"
+  },
+  "Copy": {
+    "Tamil": "நகலெடு",
+    "Hindi": "कॉपी करें",
+    "English": "Copy"
+  },
+  "Select the text above to copy.": {
+    "Tamil": "மேலே உள்ள உரையைத் தேர்ந்தெடுத்து நகலெடுக்கவும்.",
+    "Hindi": "कॉपी करने के लिए ऊपर का पाठ चुनें।",
+    "English": "Select the text above to copy."
+  },
+  "Bookmark this answer": {
+    "Tamil": "இந்தப் பதிலைச் சேமி",
+    "Hindi": "यह उत्तर बुकमार्क करें",
+    "English": "Bookmark this answer"
+  },
+  "Bookmark saved": {
+    "Tamil": "குறிப்பு சேமிக்கப்பட்டது",
+    "Hindi": "बुकमार्क सहेजा गया",
+    "English": "Bookmark saved"
+  },
+  "Regenerate": {
+    "Tamil": "மீண்டும் பதிலளி",
+    "Hindi": "फिर उत्तर दें",
+    "English": "Regenerate"
+  },
+  "Sources used in the latest answer": {
+    "Tamil": "சமீபத்திய பதிலின் ஆதாரங்கள்",
+    "Hindi": "नवीनतम उत्तर के स्रोत",
+    "English": "Sources used in the latest answer"
+  },
+  "Conversation outline": {
+    "Tamil": "உரையாடல் பட்டியல்",
+    "Hindi": "बातचीत की रूपरेखा",
+    "English": "Conversation outline"
+  },
+  "Find question": {
+    "Tamil": "கேள்வியைத் தேடு",
+    "Hindi": "प्रश्न खोजें",
+    "English": "Find question"
+  },
+  "Search outline…": {
+    "Tamil": "கேள்விகளைத் தேடுங்கள்…",
+    "Hindi": "प्रश्न खोजें…",
+    "English": "Search outline…"
+  },
+  "↑ Jump to top": {
+    "Tamil": "↑ மேலே செல்",
+    "Hindi": "↑ ऊपर जाएँ",
+    "English": "↑ Jump to top"
+  },
+  "↓ Jump to bottom": {
+    "Tamil": "↓ கீழே செல்",
+    "Hindi": "↓ नीचे जाएँ",
+    "English": "↓ Jump to bottom"
+  },
+  "Ask about Ayurveda IP, classification, ABS or export requirements...": {
+    "Tamil": "ஆயுர்வேத சொத்துரிமை, தயாரிப்பு வகை, ABS அல்லது ஏற்றுமதி பற்றிக் கேளுங்கள்…",
+    "Hindi": "आयुर्वेद की बौद्धिक संपदा, वर्गीकरण, ABS या निर्यात के बारे में पूछें…",
+    "English": "Ask about Ayurveda IP, classification, ABS or export requirements..."
+  },
+  "IP-SAKTI is checking the evidence...": {
+    "Tamil": "IP-SAKTI ஆதாரங்களைச் சரிபார்க்கிறது…",
+    "Hindi": "IP-SAKTI साक्ष्य जाँच रहा है…",
+    "English": "IP-SAKTI is checking the evidence..."
+  },
+  "The request could not be completed. Please retry shortly.": {
+    "Tamil": "கோரிக்கையை நிறைவேற்ற முடியவில்லை. சிறிது நேரத்தில் மீண்டும் முயற்சிக்கவும்.",
+    "Hindi": "अनुरोध पूरा नहीं हो सका। थोड़ी देर बाद दोबारा प्रयास करें।",
+    "English": "The request could not be completed. Please retry shortly."
+  },
+  "Translation is temporarily unavailable. Please retry.": {
+    "Tamil": "மொழிபெயர்ப்பு தற்போது கிடைக்கவில்லை. மீண்டும் முயற்சிக்கவும்.",
+    "Hindi": "अनुवाद अभी उपलब्ध नहीं है। दोबारा प्रयास करें।",
+    "English": "Translation is temporarily unavailable. Please retry."
+  },
+  "Translating previous answers...": {
+    "Tamil": "முந்தைய பதில்களை மொழிபெயர்க்கிறது…",
+    "Hindi": "पिछले उत्तरों का अनुवाद हो रहा है…",
+    "English": "Translating previous answers..."
+  },
+  "Hello! Ask me about Ayurveda intellectual property, product classification, ABS or export requirements.": {
+    "Tamil": "வணக்கம்! ஆயுர்வேத அறிவுசார் சொத்துரிமை, தயாரிப்பு வகை, ABS அல்லது ஏற்றுமதி பற்றிக் கேளுங்கள்.",
+    "Hindi": "नमस्ते! आयुर्वेद की बौद्धिक संपदा, उत्पाद वर्गीकरण, ABS या निर्यात के बारे में पूछें।",
+    "English": "Hello! Ask me about Ayurveda intellectual property, product classification, ABS or export requirements."
+  },
+  "You're welcome! You can ask another Ayurveda IP or regulatory question.": {
+    "Tamil": "நன்றி! ஆயுர்வேத சொத்துரிமை அல்லது ஒழுங்குமுறை பற்றி மேலும் கேட்கலாம்.",
+    "Hindi": "आपका स्वागत है! आयुर्वेद की बौद्धिक संपदा या नियमों पर अगला प्रश्न पूछ सकते हैं।",
+    "English": "You're welcome! You can ask another Ayurveda IP or regulatory question."
+  },
+  "Exported": {
+    "Tamil": "பதிவிறக்கத் தேதி",
+    "Hindi": "डाउनलोड की तारीख",
+    "English": "Exported"
+  },
+  "Conversation ID": {
+    "Tamil": "உரையாடல் எண்",
+    "Hindi": "बातचीत क्रमांक",
+    "English": "Conversation ID"
+  },
+  "No messages in this conversation.": {
+    "Tamil": "இந்த உரையாடலில் செய்திகள் இல்லை.",
+    "Hindi": "इस बातचीत में कोई संदेश नहीं है।",
+    "English": "No messages in this conversation."
+  },
+  "Auto": {
+    "English": "Auto",
+    "Tamil": "தானியங்கி",
+    "Hindi": "स्वतः"
+  },
+  "Answer language": {
+    "English": "Answer language",
+    "Tamil": "பதிலின் மொழி",
+    "Hindi": "उत्तर की भाषा"
+  },
+  "Message language": {
+    "English": "Message language",
+    "Tamil": "இந்தப் பதிலின் மொழி",
+    "Hindi": "इस उत्तर की भाषा"
+  },
+  "Use the global language": {
+    "English": "Use the global language",
+    "Tamil": "பொது மொழியைப் பயன்படுத்து",
+    "Hindi": "सामान्य भाषा का उपयोग करें"
+  },
+  "PDF page": {
+    "English": "PDF page",
+    "Tamil": "PDF பக்கம்",
+    "Hindi": "PDF पृष्ठ"
+  },
+  "Slide": {
+    "English": "Slide",
+    "Tamil": "ஸ்லைடு",
+    "Hindi": "स्लाइड"
+  },
+  "Sheet": {
+    "English": "Sheet",
+    "Tamil": "தாள்",
+    "Hindi": "शीट"
+  },
+  "Row": {
+    "English": "Row",
+    "Tamil": "வரிசை",
+    "Hindi": "पंक्ति"
+  },
+  "Section/heading": {
+    "English": "Section/heading",
+    "Tamil": "பிரிவு / தலைப்பு",
+    "Hindi": "धारा / शीर्षक"
+  },
+  "Retrieved": {
+    "English": "Retrieved",
+    "Tamil": "சேகரித்த தேதி",
+    "Hindi": "संग्रह की तारीख"
+  },
+  "User upload; authority not verified": {
+    "English": "User upload; authority not verified",
+    "Tamil": "பயனர் பதிவேற்றம்; அதிகாரப்பூர்வத் தன்மை சரிபார்க்கப்படவில்லை",
+    "Hindi": "उपयोगकर्ता का अपलोड; प्रामाणिकता सत्यापित नहीं"
+  },
+  "Try again": {
+    "English": "Try again",
+    "Tamil": "மீண்டும் முயற்சி செய்",
+    "Hindi": "दोबारा प्रयास करें"
+  },
+  "Select a language for this answer only.": {
+    "English": "Select a language for this answer only.",
+    "Tamil": "இந்தப் பதிலுக்கு மட்டும் மொழியைத் தேர்ந்தெடுக்கவும்.",
+    "Hindi": "केवल इस उत्तर की भाषा चुनें।"
+  },
+  "No uploaded files are available. Switched to the built-in knowledge base.": {
+    "English": "No uploaded files are available. Switched to the built-in knowledge base.",
+    "Tamil": "?????????? ????????? ?????. ????????? ??????? ???????? ?????????????????????.",
+    "Hindi": "????? ?? ?? ??????? ?????? ???? ???? ?????????? ????? ???? ???? ??? ???"
+  },
+  "Using the built-in Ayurveda IP and regulatory sources. No upload required.": {
+    "English": "Using the built-in Ayurveda IP and regulatory sources. No upload required.",
+    "Tamil": "????????? ???????? ????????? ?????? ??????? ??????????? ????????? ?????????????????????. ?????? ?????????? ??????????.",
+    "Hindi": "?????????? ???????? ??????? ????? ?? ?????? ????? ????? ??? ???? ????? ????? ?????? ???? ???"
+  },
+  "No readable uploaded evidence is available. Choose Knowledge base to use the built-in sources, or upload and select a document.": {
+    "English": "No readable uploaded evidence is available. Choose Knowledge base to use the built-in sources, or upload and select a document.",
+    "Tamil": "????????????? ???????? ?????? ?????. ????????? ????????????? ??????? ?????????? ????????????????? ?????? ????????? ??????????? ?????????????????.",
+    "Hindi": "????? ????? ????? ???? ??? ????? ?????? ???? ??? ?????????? ??????? ?? ??? ????? ???? ?????, ?? ????????? ????? ???? ??????"
+  },
+  "Applicant nationality / ownership or control": {
+    "English": "Applicant nationality / ownership or control",
+    "Tamil": "விண்ணப்பதாரரின் தேசியம் / உரிமை அல்லது கட்டுப்பாடு",
+    "Hindi": "आवेदक की राष्ट्रीयता / स्वामित्व या नियंत्रण"
+  },
+  "Awaiting product details": {
+    "English": "Awaiting product details",
+    "Tamil": "தயாரிப்பு விவரங்கள் காத்திருக்கிறது",
+    "Hindi": "उत्पाद विवरण की प्रतीक्षा में"
+  },
+  "Biological resource and source location": {
+    "English": "Biological resource and source location",
+    "Tamil": "உயிரியல் வளம் மற்றும் மூல இடம்",
+    "Hindi": "जैविक संसाधन और स्रोत स्थान"
+  },
+  "Changes from the traditional formula": {
+    "English": "Changes from the traditional formula",
+    "Tamil": "பாரம்பரிய சூத்திரத்திலிருந்து மாற்றங்கள்",
+    "Hindi": "पारंपरिक सूत्र से परिवर्तन"
+  },
+  "Check classification": {
+    "English": "Check classification",
+    "Tamil": "வகைப்படுத்தலைச் சரிபார்",
+    "Hindi": "वर्गीकरण जाँचें"
+  },
+  "Citation needs review": {
+    "English": "Citation needs review",
+    "Tamil": "மேற்கோள் மதிப்பாய்வு தேவை",
+    "Hindi": "उद्धरण को समीक्षा की आवश्यकता है"
+  },
+  "Corpus refresh is an administrator-reviewed operation. This view does not fetch or silently update laws.": {
+    "English": "Corpus refresh is an administrator-reviewed operation. This view does not fetch or silently update laws.",
+    "Tamil": "கோர்ப்பஸ் புதுப்பிப்பு நிர்வாகி மதிப்பாய்வு செய்யும் செயலாகும். இந்த பார்வை சட்டங்களைப் பெறவோ அல்லது அமைதியாகப் புதுப்பிக்கவோ செய்யாது.",
+    "Hindi": "कॉर्पस रीफ़्रेश एक प्रशासक-समिक्षित प्रक्रिया है। यह दृश्य कानूनों को प्राप्त या चुपचाप अपडेट नहीं करता है।"
+  },
+  "Destination country or region": {
+    "English": "Destination country or region",
+    "Tamil": "இலக்கு நாடு அல்லது பகுதி",
+    "Hindi": "गंतव्य देश या क्षेत्र"
+  },
+  "Download evidence passport": {
+    "English": "Download evidence passport",
+    "Tamil": "சான்று பாஸ்போர்டை பதிவிறக்கு",
+    "Hindi": "साक्ष्य पासपोर्ट डाउनलोड करें"
+  },
+  "Download expert review pack": {
+    "English": "Download expert review pack",
+    "Tamil": "நிபுணர் மதிப்பாய்வு தொகுப்பை பதிவிறக்கு",
+    "Hindi": "विशेषज्ञ समीक्षा पैक डाउनलोड करें"
+  },
+  "Download local audit": {
+    "English": "Download local audit",
+    "Tamil": "உள்ளூர் ஆய்வை பதிவிறக்கு",
+    "Hindi": "स्थानीय ऑडिट डाउनलोड करें"
+  },
+  "Download source inventory": {
+    "English": "Download source inventory",
+    "Tamil": "மூல சரக்கு பட்டியலை பதிவிறக்கு",
+    "Hindi": "स्रोत इन्वेंटरी डाउनलोड करें"
+  },
+  "Evidence indicator, not a legal confidence score": {
+    "English": "Evidence indicator, not a legal confidence score",
+    "Tamil": "ஆதார நிலைக் குறியீடு; சட்டத் துல்லியத்திற்கான மதிப்பெண் அல்ல",
+    "Hindi": "साक्ष्य स्थिति का संकेतक; कानूनी शुद्धता का स्कोर नहीं"
+  },
+  "Evidence passport": {
+    "English": "Evidence passport",
+    "Tamil": "சான்று பாஸ்போர்ட்",
+    "Hindi": "साक्ष्य पासपोर्ट"
+  },
+  "Exact label claim": {
+    "English": "Exact label claim",
+    "Tamil": "துல்லியமான லேபல் கோரிக்கை",
+    "Hindi": "सटीक लेबल दावा"
+  },
+  "Expert review": {
+    "English": "Expert review",
+    "Tamil": "நிபுணர் மதிப்பாய்வு",
+    "Hindi": "विशेषज्ञ समीक्षा"
+  },
+  "Find a WIPO TISC facilitator": {
+    "English": "Find a WIPO TISC facilitator",
+    "Tamil": "WIPO TISC வசதியாளர் கண்டுபிடிக்க",
+    "Hindi": "WIPO TISC सुविधा प्रदाता खोजें"
+  },
+  "Find a source": {
+    "English": "Find a source",
+    "Tamil": "ஒரு மூலத்தை கண்டுபிடிக்க",
+    "Hindi": "एक स्रोत खोजें"
+  },
+  "Ingredients / authoritative text / preparation method": {
+    "English": "Ingredients / authoritative text / preparation method",
+    "Tamil": "உறுப்புகள் / அதிகாரப்பூர்வ உரை / தயாரிப்பு முறை",
+    "Hindi": "सामग्री / प्राधिकृत पाठ / तैयारी विधि"
+  },
+  "Insufficient evidence": {
+    "English": "Insufficient evidence",
+    "Tamil": "மதிப்பிட போதிய சான்றுகள் இல்லை",
+    "Hindi": "अपर्याप्त साक्ष्य"
+  },
+  "Intended activity": {
+    "English": "Intended activity",
+    "Tamil": "நோக்கப்பட்ட செயல்பாடு",
+    "Hindi": "इरादा किया गया कार्य"
+  },
+  "Intended use": {
+    "English": "Intended use",
+    "Tamil": "நோக்கப்பட்ட பயன்பாடு",
+    "Hindi": "इरादा किया गया उपयोग"
+  },
+  "Leave unknown facts blank. These are user-supplied facts, not an approval or a legal classification.": {
+    "English": "Leave unknown facts blank. These are user-supplied facts, not an approval or a legal classification.",
+    "Tamil": "அறியப்படாத உண்மைகளை காலியாக விடவும். இவை பயனர் வழங்கிய உண்மைகள், அங்கீகாரம் அல்லது சட்ட வகைப்படுத்தல் அல்ல.",
+    "Hindi": "अज्ञात तथ्यों को खाली छोड़ दें। ये उपयोगकर्ता द्वारा प्रदान किए गए तथ्य हैं, न कि कोई अनुमोदन या कानूनी वर्गीकरण।"
+  },
+  "No cited legal conclusion": {
+    "English": "No cited legal conclusion",
+    "Tamil": "மேற்கோள் செய்யப்பட்ட சட்ட முடிவு இல்லை",
+    "Hindi": "कोई उद्धृत कानूनी निष्कर्ष नहीं"
+  },
+  "No matching sources in the local manifest.": {
+    "English": "No matching sources in the local manifest.",
+    "Tamil": "உள்ளூர் பட்டியலில் பொருந்தும் மூலங்கள் இல்லை.",
+    "Hindi": "स्थानीय मैनिफेस्ट में कोई मिलते-जुलते स्रोत नहीं हैं।"
+  },
+  "Not supplied": {
+    "English": "Not supplied",
+    "Tamil": "வழங்கப்படவில்லை",
+    "Hindi": "प्रदान नहीं किया गया"
+  },
+  "Official URL": {
+    "English": "Official URL",
+    "Tamil": "அதிகாரப்பூர்வ URL",
+    "Hindi": "आधिकारिक URL"
+  },
+  "Only the selected jurisdiction is shown. Download age does not establish legal currency.": {
+    "English": "Only the selected jurisdiction is shown. Download age does not establish legal currency.",
+    "Tamil": "தேர்ந்தெடுக்கப்பட்ட சட்ட அதிகார வரம்பின் ஆதாரங்கள் மட்டுமே காட்டப்படுகின்றன. பதிவிறக்கத் தேதி மட்டும் சட்டம் தற்போது நடைமுறையில் இருப்பதை உறுதிப்படுத்தாது.",
+    "Hindi": "केवल चुने गए अधिकार क्षेत्र के स्रोत दिखाए जाते हैं। डाउनलोड की तारीख से यह पुष्टि नहीं होती कि कानून अभी अद्यतन है।"
+  },
+  "Open original source": {
+    "English": "Open original source",
+    "Tamil": "மூலத்தை திற",
+    "Hindi": "मूल स्रोत खोलें"
+  },
+  "Paid-source connectors are disabled. No subscription access is performed.": {
+    "English": "Paid-source connectors are disabled. No subscription access is performed.",
+    "Tamil": "கட்டண-மூல இணைப்பிகள் முடக்கப்பட்டுள்ளன. சந்தா அணுகல் செய்யப்படவில்லை.",
+    "Hindi": "भुगतान-स्रोत कनेक्टर अक्षम हैं। कोई सदस्यता पहुंच नहीं की गई।"
+  },
+  "Partial source-linked answer": {
+    "English": "Partial source-linked answer",
+    "Tamil": "பகுதி மூல-இணைக்கப்பட்ட பதில்",
+    "Hindi": "आंशिक स्रोत-लिंक्ड उत्तर"
+  },
+  "Prepare your questions, product facts and cited answers for a human IP facilitator.": {
+    "English": "Prepare your questions, product facts and cited answers for a human IP facilitator.",
+    "Tamil": "மனித IP வசதியாளருக்காக உங்கள் கேள்விகள், தயாரிப்பு உண்மைகள் மற்றும் மேற்கோள் பதில்களை தயார் செய்யவும்.",
+    "Hindi": "एक मानव IP सुविधा प्रदाता के लिए अपने प्रश्न, उत्पाद तथ्य और उद्धृत उत्तर तैयार करें।"
+  },
+  "Privacy & audit": {
+    "English": "Privacy & audit",
+    "Tamil": "தனியுரிமை & ஆய்வு",
+    "Hindi": "गोपनीयता और ऑडिट"
+  },
+  "Product brief": {
+    "English": "Product brief",
+    "Tamil": "தயாரிப்பு சுருக்கம்",
+    "Hindi": "उत्पाद ब्रीफ़"
+  },
+  "Product brief & review tools": {
+    "English": "Product brief & review tools",
+    "Tamil": "தயாரிப்பு சுருக்கம் & மதிப்பாய்வு கருவிகள்",
+    "Hindi": "उत्पाद ब्रीफ़ और समीक्षा उपकरण"
+  },
+  "Product brief saved to this conversation.": {
+    "English": "Product brief saved to this conversation.",
+    "Tamil": "தயாரிப்பு சுருக்கம் இந்த உரையாடலில் சேமிக்கப்பட்டது.",
+    "Hindi": "उत्पाद ब्रीफ़ इस बातचीत में सहेजा गया।"
+  },
+  "Questions and relevant source excerpts are sent to the configured AI provider. Translation may use Bhashini. Chats, product briefs and uploads are stored locally.": {
+    "English": "Questions and relevant source excerpts are sent to the configured AI provider. Translation may use Bhashini. Chats, product briefs and uploads are stored locally.",
+    "Tamil": "கேள்விகள் மற்றும் தொடர்புடைய மூல மேற்கோள்கள் அமைக்கப்பட்ட AI வழங்குநருக்கு அனுப்பப்படுகின்றன. மொழிபெயர்ப்பு Bhashini-ஐ பயன்படுத்தலாம். உரையாடல்கள், தயாரிப்பு சுருக்கங்கள் மற்றும் பதிவேற்றங்கள் உள்ளூராக சேமிக்கப்படுகின்றன.",
+    "Hindi": "प्रश्न और संबंधित स्रोत अंश कॉन्फ़िगर किए गए AI प्रदाता को भेजे जाते हैं। अनुवाद Bhashini का उपयोग कर सकता है। चैट, उत्पाद ब्रीफ़ और अपलोड स्थानीय रूप से संग्रहीत होते हैं।"
+  },
+  "References below occur in this answer. Excerpts are retrieved context, not independent verification of every claim.": {
+    "English": "References below occur in this answer. Excerpts are retrieved context, not independent verification of every claim.",
+    "Tamil": "கீழே உள்ள குறிப்புகள் இந்த பதிலில் இடம்பெறுகின்றன. மேற்கோள்கள் சூழ்நிலையிலிருந்து பெறப்பட்டவை, ஒவ்வொரு கோரிக்கையையும் தனித்தனியாக சரிபார்ப்பதில்லை.",
+    "Hindi": "नीचे दिए गए संदर्भ इस उत्तर में आते हैं। अंश संदर्भ से प्राप्त होते हैं, प्रत्येक दावे की स्वतंत्र पुष्टि नहीं।"
+  },
+  "Review ABS": {
+    "English": "Review ABS",
+    "Tamil": "ABS-ஐ மதிப்பாய்வு செய்யவும்",
+    "Hindi": "ABS की समीक्षा करें"
+  },
+  "Review confidential details before sharing. Nothing is sent to a facilitator automatically.": {
+    "English": "Review confidential details before sharing. Nothing is sent to a facilitator automatically.",
+    "Tamil": "பகிர்வதற்கு முன் ரகசிய விவரங்களை மதிப்பாய்வு செய்யவும். எதுவும் தானாகவே வசதியாளருக்கு அனுப்பப்படாது.",
+    "Hindi": "साझा करने से पहले गोपनीय विवरणों की समीक्षा करें। कुछ भी स्वचालित रूप से सुविधा प्रदाता को नहीं भेजा जाता।"
+  },
+  "Route of use": {
+    "English": "Route of use",
+    "Tamil": "பயன்பாட்டு பாதை",
+    "Hindi": "उपयोग मार्ग"
+  },
+  "Save brief": {
+    "English": "Save brief",
+    "Tamil": "சுருக்கத்தை சேமிக்க",
+    "Hindi": "ब्रीफ़ सहेजें"
+  },
+  "Save product facts once. Ask for classification or an ABS review using the same facts.": {
+    "English": "Save product facts once. Ask for classification or an ABS review using the same facts.",
+    "Tamil": "தயாரிப்பு உண்மைகளை ஒருமுறை சேமிக்கவும். அதே உண்மைகளைப் பயன்படுத்தி வகைப்படுத்தல் அல்லது ABS மதிப்பாய்வை கேட்கவும்.",
+    "Hindi": "उत्पाद तथ्यों को एक बार सहेजें। वही तथ्यों का उपयोग करके वर्गीकरण या ABS समीक्षा का अनुरोध करें।"
+  },
+  "Some references cannot be matched to stored evidence. Request a new answer or human review.": {
+    "English": "Some references cannot be matched to stored evidence. Request a new answer or human review.",
+    "Tamil": "சில குறிப்புகள் சேமிக்கப்பட்ட சான்றுகளுடன் பொருந்தவில்லை. புதிய பதில் அல்லது மனித மதிப்பாய்வை கோரவும்.",
+    "Hindi": "कुछ संदर्भ संग्रहीत साक्ष्य से मेल नहीं खा सकते। नया उत्तर या मानव समीक्षा का अनुरोध करें।"
+  },
+  "Source freshness": {
+    "English": "Source freshness",
+    "Tamil": "மூலத்தின் تازா நிலை",
+    "Hindi": "स्रोत की ताजगी"
+  },
+  "Source-linked answer": {
+    "English": "Source-linked answer",
+    "Tamil": "மூல-இணைக்கப்பட்ட பதில்",
+    "Hindi": "स्रोत-लिंक्ड उत्तर"
+  },
+  "The brief was saved, but the audit event could not be recorded.": {
+    "English": "The brief was saved, but the audit event could not be recorded.",
+    "Tamil": "சுருக்கம் சேமிக்கப்பட்டது, ஆனால் ஆய்வு நிகழ்வு பதிவு செய்யப்படவில்லை.",
+    "Hindi": "ब्रीफ़ सहेजा गया, लेकिन ऑडिट इवेंट रिकॉर्ड नहीं हो सका।"
+  },
+  "The local audit records event type, time, jurisdiction and evidence counts. It excludes question text, answers, product facts and credentials.": {
+    "English": "The local audit records event type, time, jurisdiction and evidence counts. It excludes question text, answers, product facts and credentials.",
+    "Tamil": "உள்ளூர் ஆய்வு நிகழ்வு வகை, நேரம், நீதிமன்றம் மற்றும் சான்று எண்ணிக்கைகளை பதிவு செய்கிறது. இது கேள்வி உரை, பதில்கள், தயாரிப்பு உண்மைகள் மற்றும் சான்றுகளை விலக்குகிறது.",
+    "Hindi": "स्थानीय ऑडिट घटना प्रकार, समय, अधिकार क्षेत्र और साक्ष्य गिनती को रिकॉर्ड करता है। यह प्रश्न पाठ, उत्तर, उत्पाद तथ्य और प्रमाणपत्रों को बाहर रखता है।"
+  },
+  "Use the conversation and document delete controls to remove local items. Exports, backups and provider-side retention are separate.": {
+    "English": "Use the conversation and document delete controls to remove local items. Exports, backups and provider-side retention are separate.",
+    "Tamil": "உரையாடல் மற்றும் ஆவணம் நீக்க கட்டுப்பாடுகளைப் பயன்படுத்தி உள்ளூர் உருப்படிகளை நீக்கவும். ஏற்றுமதிகள், காப்புப்பிரதிகள் மற்றும் வழங்குநர்-பக்க வைத்திருப்பு தனித்தனியாக இருக்கும்.",
+    "Hindi": "संवाद और दस्तावेज़ हटाने के नियंत्रणों का उपयोग करके स्थानीय आइटम हटाएँ। निर्यात, बैकअप और प्रदाता-साइड प्रतिधारण अलग हैं।"
+  },
+  "Version": {
+    "English": "Version",
+    "Tamil": "பதிப்பு",
+    "Hindi": "संस्करण"
+  },
+  "Cultivated or wild resource / origin evidence": {
+    "English": "Cultivated or wild resource / origin evidence",
+    "Tamil": "சாகுபடி அல்லது காட்டிலிருந்து பெறப்பட்ட வளம் / தோற்ற ஆதாரம்",
+    "Hindi": "खेती से या जंगली स्रोत से प्राप्त संसाधन / उत्पत्ति का प्रमाण"
+  }
+}

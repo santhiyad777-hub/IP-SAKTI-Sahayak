@@ -1,0 +1,41 @@
+# CGPDTM Guidelines for Examination of Patent Applications Relating to Traditional Knowledge and Biological Material
+Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM / IP India)
+
+## Introduction & Legal Framework
+Traditional Knowledge (TK) is codified or non-codified knowledge that has been developed, sustained, and passed on from generation to generation within a community. In India, traditional knowledge systems including Ayurveda, Siddha, Unani, and Yoga are documented in ancient treatises as well as in the Traditional Knowledge Digital Library (TKDL).
+
+Under the Patents Act, 1970 (as amended), inventions based on or derived from Traditional Knowledge and Biological Materials are subject to stringent statutory bars and disclosure requirements:
+
+1. **Section 3(p) of the Patents Act, 1970:**
+   "An invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components is not an invention within the meaning of this Act."
+   - **Guiding Principle 1:** If the subject matter of an application relates to a plant, herb, animal or mineral extract or formulation whose therapeutic, cosmetic, nutritional or general utility is already known in ancient Ayurvedic/TK texts or TKDL, it attracts Section 3(p) as mere traditional knowledge.
+   - **Guiding Principle 2:** A mere discovery of an already known property of an Ayurvedic herb (e.g. anti-inflammatory, antimicrobial, hepatoprotective, wound healing properties of Tulasi, Neem, Turmeric, Ashwagandha) cannot be patented under Section 3(p).
+
+2. **Section 3(e) of the Patents Act, 1970 (Mere Admixture vs Synergism):**
+   "A substance obtained by a mere admixture resulting only in the aggregation of the properties of the components thereof or a process for producing such substance is not patentable."
+   - **Guiding Principle 3:** When an applicant claims a polyherbal composition or combination of Ayurvedic ingredients (such as Tulasi + Ginger + Honey), the examiner must raise an objection under Section 3(e).
+   - **Requirement for Overcoming Section 3(e):** The applicant must submit comparative experimental data / pharmacological evidence proving that the combination produces a statistically significant **Synergistic Effect** (super-additive efficacy) that is beyond the mere additive sum of the individual known properties of the components.
+
+3. **Section 3(d) of the Patents Act, 1970 (New Forms & Derivatives):**
+   "The mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance... is not patentable."
+   - For Ayurvedic extracts, fractionated extracts, or modified derivatives of known herbal compounds, significant enhancement in therapeutic efficacy must be demonstrated through clinical or preclinical data.
+
+4. **Section 10(4)(d) of the Patents Act, 1970 (Mandatory Disclosure of Biological Origin):**
+   - Every patent applicant utilizing biological resources (plants, microbes, animal parts) obtained from India must explicitly disclose the source and geographical origin of the biological material in the patent specification (Form 2).
+   - Non-disclosure or wrongful disclosure of biological source is a valid ground for pre-grant opposition (Section 25(1)(j)), post-grant opposition (Section 25(2)(j)), and revocation of the patent (Section 64(1)(p)).
+
+5. **Mandatory National Biodiversity Authority (NBA) Approval (Section 6 of Biological Diversity Act, 2002):**
+   - Under Section 6(1) of the Biological Diversity Act, 2002, no person shall apply for any Intellectual Property Right (IPR), in or outside India, for any invention based on any research or information on a biological resource obtained from India without obtaining the prior approval of the National Biodiversity Authority (NBA).
+   - The applicant must submit **Form III** under Rule 18 of the Biological Diversity Rules, 2004 to the NBA before the grant of the patent.
+   - The Patent Office cannot grant a patent until the applicant submits NBA approval / NOC.
+
+6. **Prior Art Search & TKDL Consultation:**
+   - Patent examiners must conduct thorough prior art searches in the Traditional Knowledge Digital Library (TKDL), Ayurvedic Pharmacopoeia of India (API), Caraka Samhita, Sushruta Samhita, Ashtanga Hridaya, Bhavaprakasha, and related authoritative First Schedule texts before issuing the First Examination Report (FER).
+   - Where a claimed formulation or single herb usage matches TKDL references, citations are issued under Section 3(p) read with Section 2(1)(j) (lack of novelty/inventive step).
+
+7. **Conditions under which an Ayurvedic / Herbal Invention MAY be Patented:**
+   An invention involving Ayurvedic plants (such as Tulasi / Ocimum sanctum) can be patentable ONLY if:
+   a. **Novel Extraction/Isolation Process:** The applicant develops a truly novel, non-obvious process for isolating a specific bioactive fraction or pure chemical moiety that was not previously known or practiced in traditional methods.
+   b. **Novel Synergistic Formulation:** A novel combination of bioactive fractions where clear, rigorous experimental data proves synergistic therapeutic efficacy (overcoming Section 3(e) and 3(p)).
+   c. **Novel Secondary Derivative / Synthetic Analog:** A synthetically modified derivative of a herbal compound possessing enhanced therapeutic efficacy (satisfying Section 3(d)).
+   d. **Full Compliance:** Complete disclosure of geographical origin under Section 10(4)(d) and grant of NBA Form III approval under Section 6 of Biological Diversity Act.

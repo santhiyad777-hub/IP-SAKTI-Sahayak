@@ -1,0 +1,38 @@
+{
+  "question": "Ayurveda product classification Drugs and Cosmetics Act definition. Intended use: skin moisturising; route: topical; label claim: moisturises dry skin",
+  "pages": [
+    {
+      "source_id": "cdsco_drugs_cosmetics_act_1940",
+      "page": 5
+    },
+    {
+      "source_id": "cdsco_drugs_cosmetics_act_1940",
+      "page": 7
+    },
+    {
+      "source_id": "cdsco_drugs_cosmetics_act_1940",
+      "page": 6
+    },
+    {
+      "source_id": "drugs_magic_remedies_1954",
+      "page": 0
+    },
+    {
+      "source_id": "cdsco_drugs_cosmetics_act_1940",
+      "page": 38
+    },
+    {
+      "source_id": "ndct_rules_2019",
+      "page": 5
+    },
+    {
+      "source_id": "ndct_rules_2019",
+      "page": 4
+    },
+    {
+      "source_id": "cosmetics_rules_2020",
+      "page": 3
+    }
+  ],
+  "cosmetic_definition_found": true
+}

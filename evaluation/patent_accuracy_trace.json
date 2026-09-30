@@ -1,0 +1,66 @@
+{
+  "answer": "**India**\n\n\n\n- A formulation that is based on traditional Ayurvedic knowledge is excluded from patentability under Section 3(p) of the Indian Patents Act, which states that an invention that is, in effect, traditional knowledge is not an invention. [1]\n\n- If the formulation is merely a mixture of known Ayurvedic ingredients without any enhancement of efficacy, it is also excluded under Section 3(e), which bars a substance obtained by a mere admixture resulting only in the aggregation of the properties of the components. [1]\n\n- Guidelines for processing patent applications relating to traditional knowledge require that any claim involving a known Ayurvedic formulation be examined for novelty and inventive step; if the formulation is disclosed in the Traditional Knowledge Digital Library (TKDL) or otherwise known in the public domain, it cannot be patented. [4] [5]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act 1970: Section 3 Inventions Not Patentable (Complete clauses a to p)](https://ipindia.gov.in/acts-patents.htm) | https://ipindia.gov.in/acts-patents.htm\n\n[4] [Guidelines for Processing Patent Applications Relating to Traditional Knowledge and Biological Material (2012)](https://ipindia.gov.in/frontend/pdf/patents/guidelines/Guidelines%20for%20Processing%20of%20Patent%20Applications%20relating%20to%20Traditional%20Knowledge%20and%20Biological%20Material%20-%202012.pdf#page=2) | PDF page: 2 | https://ipindia.gov.in/frontend/pdf/patents/guidelines/Guidelines%20for%20Processing%20of%20Patent%20Applications%20relating%20to%20Traditional%20Knowledge%20and%20Biological%20Material%20-%202012.pdf | Retrieved: 2026-09-28\n\n[5] [Guidelines for Processing Patent Applications Relating to Traditional Knowledge and Biological Material (2012)](https://ipindia.gov.in/frontend/pdf/patents/guidelines/Guidelines%20for%20Processing%20of%20Patent%20Applications%20relating%20to%20Traditional%20Knowledge%20and%20Biological%20Material%20-%202012.pdf#page=8) | PDF page: 8 | https://ipindia.gov.in/frontend/pdf/patents/guidelines/Guidelines%20for%20Processing%20of%20Patent%20Applications%20relating%20to%20Traditional%20Knowledge%20and%20Biological%20Material%20-%202012.pdf | Retrieved: 2026-09-28\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nThis information is for general guidance and is not legal advice. Please confirm important decisions with a qualified IP professional or the relevant authority.",
+  "calls": [
+    {
+      "stage": "generation",
+      "result": {
+        "claims": [
+          {
+            "text": "A formulation that is based on traditional Ayurvedic knowledge is excluded from patentability under Section 3(p) of the Indian Patents Act, which states that an invention that is, in effect, traditional knowledge is not an invention.",
+            "evidence": [
+              {
+                "reference": "ev_635e1d44f07b",
+                "source": 1,
+                "span": 16,
+                "quote": "(p) an invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components."
+              }
+            ]
+          },
+          {
+            "text": "If the formulation is merely a mixture of known Ayurvedic ingredients without any enhancement of efficacy, it is also excluded under Section 3(e), which bars a substance obtained by a mere admixture resulting only in the aggregation of the properties of the components.",
+            "evidence": [
+              {
+                "reference": "ev_101f9875e6e5",
+                "source": 1,
+                "span": 6,
+                "quote": "(e) a substance obtained by a mere admixture resulting only in the aggregation of the properties of the components thereof or a process for producing such substance;\n"
+              }
+            ]
+          },
+          {
+            "text": "Guidelines for processing patent applications relating to traditional knowledge require that any claim involving a known Ayurvedic formulation be examined for novelty and inventive step; if the formulation is disclosed in the Traditional Knowledge Digital Library (TKDL) or otherwise known in the public domain, it cannot be patented.",
+            "evidence": [
+              {
+                "reference": "ev_a4a3ea27991f",
+                "source": 4,
+                "span": 4,
+                "quote": "3. Indian law has adequate provisions for the protection of TK and Biological Resources. \nTraditional knowledge, by its very definition, is in the public domain and hence, any applicatio n \nfor patent relating to TK does not qualify as an invention under section 2 (1) (j) of the Patents \nAct, 1970, which defines that \"invention means a new product or process involving an inventive \nstep and capable of industrial application\". Further, under s ection 3(e) of the Patents Act \"a \nsubstance obtained by a mere admixture resulting only in the aggregation of the properties of \nthe components thereof or process for producing such substances\" is not an invention and \nhence, not patentable. The Indian Patents Act also has a unique provision under Section 3 (p), \nwherein \"an invention which, in effect, is traditional knowledge or which is an aggregation or "
+              },
+              {
+                "reference": "ev_7039f5da8074",
+                "source": 5,
+                "span": 5,
+                "quote": "15. While d eciding the patentability of the claimed subject matter, the relevant clauses of \nsection 3, particularly sections 3 (c), (e), (i), (j) and (p) of the Patents Act, for TK and/or \nbiological material should be strictly followed. "
+              }
+            ]
+          }
+        ],
+        "clarification": ""
+      }
+    },
+    {
+      "stage": "audit",
+      "result": {
+        "supported": true,
+        "supported_claims": [
+          1,
+          2,
+          3
+        ],
+        "answers_question": true,
+        "repairable": false,
+        "reason": "All three claim statements are fully supported by the quoted provisions of Section 3(p) and 3(e) of the Indian Patents Act and by the Guidelines for Processing Patent Applications relating to Traditional Knowledge, which state that traditional knowledge (including Ayurvedic formulations) is in the public domain, is not an invention, and must be examined for novelty and inventive step; if disclosed in the TKDL it cannot be patented."
+      }
+    }
+  ]
+}

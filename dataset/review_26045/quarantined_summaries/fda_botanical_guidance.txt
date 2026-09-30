@@ -1,0 +1,21 @@
+# US FDA Guidance for Industry: Botanical Drug Development (December 2016)
+U.S. Department of Health and Human Services, Food and Drug Administration (FDA), Center for Drug Evaluation and Research (CDER)
+
+## Overview & Definition of Botanical Drug Products
+A botanical drug product consists of vegetable materials, which may include plant materials, algae, macroscopic fungi, or combinations thereof. It is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in humans.
+Botanical drugs may be available as solutions (e.g. teas), powders, tablets, capsules, elixirs, and topical preparations. It does not include highly purified or chemically modified substances of natural origin.
+
+## Regulatory Pathways for Botanical Products in the US
+1. **Dietary Supplements (DSHEA Pathway):**
+   - Products marketed for dietary support or structure/function claims without disease-treatment claims.
+   - Requires compliance with 21 CFR Part 111 (Dietary Supplement cGMP) and New Dietary Ingredient (NDI) notifications if applicable.
+2. **Botanical New Drug Application (NDA) Pathway:**
+   - Required for any Ayurvedic / herbal product intended to treat, cure, mitigate, or prevent specific diseases in the United States.
+   - Requires submitting an Investigational New Drug (IND) application, followed by Phase 1, Phase 2, and Phase 3 clinical trials, and an NDA approval under Section 505 of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+
+## Quality Control, Chemistry, Manufacturing, and Controls (CMC) for Botanicals
+Because botanical drugs are complex heterogeneous mixtures, FDA allows a totality-of-evidence approach to ensure batch-to-batch consistency:
+1. **Raw Material Control:** Strict botanical raw material identification, GACP (Good Agricultural and Collection Practices), voucher specimens, geographic sourcing, harvesting controls.
+2. **Fingerprinting & Multiple Assays:** Chemical fingerprinting (HPLC, LC-MS, NMR), spectroscopic profiling, and quantification of multiple active or marker compounds.
+3. **Biological Assays:** In vitro or in vivo bioassays to establish potency and consistency across production batches.
+4. **Safety & Toxicological Evaluation:** Nonclinical pharmacology and toxicology profiles according to ICH guidelines.

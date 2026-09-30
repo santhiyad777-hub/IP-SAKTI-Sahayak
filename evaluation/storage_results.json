@@ -1,0 +1,7 @@
+{
+  "repeat_ingestion_pass": true,
+  "selected_upload_filter_pass": true,
+  "curated_chunks": 6895,
+  "source_metadata_pass": true,
+  "fixture_cleanup_pass": true
+}

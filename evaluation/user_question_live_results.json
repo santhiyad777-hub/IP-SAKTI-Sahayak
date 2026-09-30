@@ -1,0 +1,188 @@
+[
+  {
+    "question": "En herbal product medicine-aa, food-aa, cosmetic-aa?",
+    "answer": "**Formulation clarification**\n\nWhat is the intended use, route of use, and the exact claim you want to make for the product?\n\nNo regulatory category has been assigned yet.\n\nThis information is for general guidance and is not legal advice. Please confirm important decisions with a qualified IP professional or the relevant authority.",
+    "source_ids": [],
+    "abstained": false,
+    "calls": [],
+    "seconds": 0.0
+  },
+  {
+    "question": "What labelling requirements apply to Ayurveda Aahara products?",
+    "answer": "**India**\n\n\n\n- Labelling of Ayurveda Aahara must comply with the Food Safety and Standards (Labelling and Display) Regulations, 2020 and the specific labelling requirements set out in the Ayurveda Aahara Regulations. [1]\n\n- The front of the pack must display the words “AYURVEDA AAHARA” in close proximity to the product name or brand and the logo prescribed in Schedule E, together with a prominent advisory warning “ONLY FOR DIETARY USE”. [2]\n\n- The label must state that the product is not a substitute for a varied diet, include any known side‑effects, contraindications, drug or product interactions, and warn that it is for oral consumption only and not for parenteral use. [2]\n\n- Every label must specify the intended purpose, the target consumer group, the recommended duration of use, and a storage warning that the product should be kept out of reach of children. [1] [2]\n\n\n\n**Sources**\n\n\n\n[1] [Food Safety and Standards (Ayurveda Aahara) Regulations 2022: original Gazette](https://stg-old.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf#page=16) | PDF page: 16 | https://stg-old.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf | Retrieved: 2026-09-28\n\n[2] [Food Safety and Standards (Ayurveda Aahara) Regulations 2022: original Gazette](https://stg-old.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf#page=17) | PDF page: 17 | https://stg-old.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf | Retrieved: 2026-09-28\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nThis information is for general guidance and is not legal advice. Please confirm important decisions with a qualified IP professional or the relevant authority.",
+    "source_ids": [
+      "ayurveda_aahara_2022",
+      "fssai_category_a_order",
+      "fssai_labelling"
+    ],
+    "abstained": false,
+    "calls": [
+      {
+        "stage": "generation",
+        "result": {
+          "claims": [
+            {
+              "text": "Labelling of Ayurveda Aahara must comply with the Food Safety and Standards (Labelling and Display) Regulations, 2020 and the specific labelling requirements set out in the Ayurveda Aahara Regulations.",
+              "evidence": [
+                {
+                  "reference": "ev_695dae96ba00",
+                  "source": 1,
+                  "span": 16,
+                  "quote": "12. Labelling of Ayurveda  Aahara .-  The labelling of Ayurveda Aahara shall be in accordance wi th \nthe Food Safety and Standards (Labelling and Display) Regulations, 2020, and the specific labelling \nrequirements provided in these regulations. "
+                }
+              ]
+            },
+            {
+              "text": "The front of the pack must display the words “AYURVEDA AAHARA” in close proximity to the product name or brand and the logo prescribed in Schedule E, together with a prominent advisory warning “ONLY FOR DIETARY USE”.",
+              "evidence": [
+                {
+                  "reference": "ev_08502fef316c",
+                  "source": 2,
+                  "span": 2,
+                  "quote": "(a) the words “AYURVEDA AAHARA” printed in the immediate proximity of  the name \nor brand name of the product; and the logo as specified in the  Schedule E  of these \nregulations, on the front of the pack of the label; "
+                },
+                {
+                  "reference": "ev_f0d35242cf09",
+                  "source": 2,
+                  "span": 3,
+                  "quote": "(b) an advisory warning ‘ONLY FOR DIETARY USE’ prominently written; "
+                }
+              ]
+            },
+            {
+              "text": "The label must state that the product is not a substitute for a varied diet, include any known side‑effects, contraindications, drug or product interactions, and warn that it is for oral consumption only and not for parenteral use.",
+              "evidence": [
+                {
+                  "reference": "ev_a25dfbd84eac",
+                  "source": 2,
+                  "span": 4,
+                  "quote": "(c) a statement that the Ayurveda Aahara is not to be used as a substitute for a varied diet; "
+                },
+                {
+                  "reference": "ev_10dfcede6a10",
+                  "source": 2,
+                  "span": 5,
+                  "quote": "(d) a warning or any other precautions to be taken while consuming, known side effects, if \nany, contraindications, and published product or drug interactions, as applicable; and "
+                },
+                {
+                  "reference": "ev_82099a0af873",
+                  "source": 2,
+                  "span": 7,
+                  "quote": "(f) a warning that the product is for oral consumption only and not for parenteral use. "
+                }
+              ]
+            },
+            {
+              "text": "Every label must specify the intended purpose, the target consumer group, the recommended duration of use, and a storage warning that the product should be kept out of reach of children.",
+              "evidence": [
+                {
+                  "reference": "ev_7d553c7f9db2",
+                  "source": 1,
+                  "span": 17,
+                  "quote": "13. Other requirement for  Ayurveda Aahara .-  Every label of Ayurveda Aahara shall  specify the \nintended purpose,  the target  consumer group, recommended duration of use and other specific \nlabelling requirements, namely:- "
+                },
+                {
+                  "reference": "ev_3e6e822cc928",
+                  "source": 2,
+                  "span": 6,
+                  "quote": "(e) a statement that the product is required to be stored out of reach of children. "
+                }
+              ]
+            }
+          ],
+          "clarification": ""
+        }
+      },
+      {
+        "stage": "audit",
+        "result": {
+          "supported": true,
+          "supported_claims": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "answers_question": true,
+          "repairable": false,
+          "reason": "Each claim is directly entailed by the quoted provisions of the Food Safety and Standards (Ayurveda Aahara) Regulations 2022 and the Food Safety and Standards (Labelling and Display) Regulations, 2020. The wording, scope, and mandatory nature of the requirements are preserved exactly as in the source text."
+        }
+      }
+    ],
+    "seconds": 44.2
+  },
+  {
+    "question": "an I patent a traditional Ayurvedic formulation?",
+    "answer": "**India**\n\n\n\n- A traditional Ayurvedic formulation is excluded from patentability under Section 3(p) of the Indian Patents Act because it is considered traditional knowledge. [5]\n\n- Section 3(e) further bars patenting of a mere admixture of known ingredients that only aggregates the known properties of the components. [5]\n\n- Guidelines for processing patent applications state that a formulation whose ingredients and therapeutic use are already disclosed in the Traditional Knowledge Digital Library lacks novelty and inventive step, and therefore is not patentable. [6]\n\n\n\n**Sources**\n\n\n\n[5] [Guidelines for Processing Patent Applications Relating to Traditional Knowledge and Biological Material (2012)](https://ipindia.gov.in/frontend/pdf/patents/guidelines/Guidelines%20for%20Processing%20of%20Patent%20Applications%20relating%20to%20Traditional%20Knowledge%20and%20Biological%20Material%20-%202012.pdf#page=2) | PDF page: 2 | https://ipindia.gov.in/frontend/pdf/patents/guidelines/Guidelines%20for%20Processing%20of%20Patent%20Applications%20relating%20to%20Traditional%20Knowledge%20and%20Biological%20Material%20-%202012.pdf | Retrieved: 2026-09-28\n\n[6] [Guidelines for Processing Patent Applications Relating to Traditional Knowledge and Biological Material (2012)](https://ipindia.gov.in/frontend/pdf/patents/guidelines/Guidelines%20for%20Processing%20of%20Patent%20Applications%20relating%20to%20Traditional%20Knowledge%20and%20Biological%20Material%20-%202012.pdf#page=5) | PDF page: 5 | https://ipindia.gov.in/frontend/pdf/patents/guidelines/Guidelines%20for%20Processing%20of%20Patent%20Applications%20relating%20to%20Traditional%20Knowledge%20and%20Biological%20Material%20-%202012.pdf | Retrieved: 2026-09-28\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nThis information is for general guidance and is not legal advice. Please confirm important decisions with a qualified IP professional or the relevant authority.",
+    "source_ids": [
+      "cgptdm_tk_guidelines",
+      "patents_act",
+      "tkdl_csir"
+    ],
+    "abstained": false,
+    "calls": [
+      {
+        "stage": "generation",
+        "result": {
+          "claims": [
+            {
+              "text": "A traditional Ayurvedic formulation is excluded from patentability under Section 3(p) of the Indian Patents Act because it is considered traditional knowledge.",
+              "evidence": [
+                {
+                  "reference": "ev_cdaca7e37715",
+                  "source": 5,
+                  "span": 4,
+                  "quote": "3. Indian law has adequate provisions for the protection of TK and Biological Resources. \nTraditional knowledge, by its very definition, is in the public domain and hence, any applicatio n \nfor patent relating to TK does not qualify as an invention under section 2 (1) (j) of the Patents \nAct, 1970, which defines that \"invention means a new product or process involving an inventive \nstep and capable of industrial application\". Further, under s ection 3(e) of the Patents Act \"a \nsubstance obtained by a mere admixture resulting only in the aggregation of the properties of \nthe components thereof or process for producing such substances\" is not an invention and \nhence, not patentable. The Indian Patents Act also has a unique provision under Section 3 (p), \nwherein \"an invention which, in effect, is traditional knowledge or which is an aggregation or "
+                }
+              ]
+            },
+            {
+              "text": "Section 3(e) further bars patenting of a mere admixture of known ingredients that only aggregates the known properties of the components.",
+              "evidence": [
+                {
+                  "reference": "ev_cdaca7e37715",
+                  "source": 5,
+                  "span": 4,
+                  "quote": "3. Indian law has adequate provisions for the protection of TK and Biological Resources. \nTraditional knowledge, by its very definition, is in the public domain and hence, any applicatio n \nfor patent relating to TK does not qualify as an invention under section 2 (1) (j) of the Patents \nAct, 1970, which defines that \"invention means a new product or process involving an inventive \nstep and capable of industrial application\". Further, under s ection 3(e) of the Patents Act \"a \nsubstance obtained by a mere admixture resulting only in the aggregation of the properties of \nthe components thereof or process for producing such substances\" is not an invention and \nhence, not patentable. The Indian Patents Act also has a unique provision under Section 3 (p), \nwherein \"an invention which, in effect, is traditional knowledge or which is an aggregation or "
+                }
+              ]
+            },
+            {
+              "text": "Guidelines for processing patent applications state that a formulation whose ingredients and therapeutic use are already disclosed in the Traditional Knowledge Digital Library lacks novelty and inventive step, and therefore is not patentable.",
+              "evidence": [
+                {
+                  "reference": "ev_36c840ceadac",
+                  "source": 6,
+                  "span": 1,
+                  "quote": "4 \n \nThe patents Act warrants that the subject-matter claimed in a patent application must be novel.  \nThe inventive step is another cardinal principle of patentability. Often it is said to be the final \ngate keeper of the patent system. While considering the traditional knowledge based \ninventions, the following guiding principles must be followed in assessing the novelty and \ninventive step: \nGuiding Principle 1: If the subject- matter as claimed relates to extracts /alkaloids and/or \nisolation of active ingredients of plants, which are naturally/inherently present in plants, such \nclaims cannot be considered as novel and/or inventive when use of such plants is pre -known \nas part of teachings of Traditional Knowledge. \nWhen the subject -matter of claims relate to extracts of plant materials containing undefined "
+                },
+                {
+                  "reference": "ev_1802f3879c4b",
+                  "source": 6,
+                  "span": 2,
+                  "quote": "active ingredients, such claims cannot be said to be novel if the use of such plants or plant \nmaterials is pre -known as a part of teaching of TK. However, if the claims relate to alkaloids \nand/or active principles obtained from the plant materials and structures of the said alkaloids \nand/or active principles are characterized , which do not form the part of the prior art, such \nclaims cannot be said to involve an invent ive step, since the use of said plant materials and \ntheir therapeutic effects are known from the teaching of TK. Thus, the prior art motivate s the \nperson skilled in the art to isolate the individual ingredients such as alkaloids, flavonoids, phyto -\nsteroids, etc. \nIllustration 1:  Patent application claims relate to an extract of Withania plant for the \nmanagement of stress. \nPrior art (TKDL):  Discloses use of Withania somnifera roots and not Withania plant extract for "
+                }
+              ]
+            }
+          ],
+          "clarification": ""
+        }
+      },
+      {
+        "stage": "audit",
+        "result": {
+          "supported": true,
+          "supported_claims": [
+            1,
+            2,
+            3
+          ],
+          "answers_question": true,
+          "repairable": false,
+          "reason": "All three claims are directly supported by the provided excerpts. The excerpts state that Section 3(p) excludes inventions that are traditional knowledge, Section 3(e) excludes mere admixtures that only aggregate known properties, and the Guidelines explicitly say that formulations whose ingredients and therapeutic uses are already disclosed in the TKDL lack novelty and inventive step, making them unpatentable. These points together answer the question that a traditional Ayurvedic formulation cannot be patented."
+        }
+      }
+    ],
+    "seconds": 9.1
+  }
+]

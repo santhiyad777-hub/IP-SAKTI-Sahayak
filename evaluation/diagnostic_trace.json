@@ -1,0 +1,666 @@
+[
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "Section 3(p) of the Indian Patents Act expressly excludes an invention that is traditional knowledge or an aggregation or duplication of known properties of traditionally known components from patentability.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 4,
+              "quote": "(l)   a literary, dramatic, musical or artistic  work or any other aesthetic creation whatsoever including cinematographic works  and television productions;\n(m) a mere scheme or rule or method  of performing mental act or method of playing game;\n(n)    a presentation of information;\n(o)    topography of integrated circuits;\n(p)   an invention which in effect, is  traditional knowledge or which is an aggregation or duplication of known  properties of traditionally known component or components.\nHome\nNext"
+            }
+          ]
+        },
+        {
+          "text": "Consequently, traditional knowledge itself cannot be patented in India.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 4,
+              "quote": "(l)   a literary, dramatic, musical or artistic  work or any other aesthetic creation whatsoever including cinematographic works  and television productions;\n(m) a mere scheme or rule or method  of performing mental act or method of playing game;\n(n)    a presentation of information;\n(o)    topography of integrated circuits;\n(p)   an invention which in effect, is  traditional knowledge or which is an aggregation or duplication of known  properties of traditionally known component or components.\nHome\nNext"
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1,
+        2
+      ],
+      "reason": "The quoted text from Section 3(p) of the Indian Patents Act lists 'an invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components' among inventions that are not patentable. This directly supports the claim that Section 3(p) excludes traditional knowledge from patentability, and consequently, traditional knowledge itself cannot be patented in India."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "A request for examination under section 11B must be made within thirty‑one months from the date of priority or from the date of filing of the application, whichever is earlier.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 1,
+              "quote": "THE FIRST SCHEDULE\nFees\nSECOND SCHEDULE FORMS\nForms\nForm 1\nForm 2\nForm 3\nForm 4\nForm 5\nForm 6\nForm 7\nForm 7A\nForm 8\nForm 8A\nForm 9\nForm 10\nForm 11\nForm 12\nForm 13\nForm 14\nForm 15\nForm 16\nForm 17\nForm 18\nForm 18A\nForm 19\nForm 20\nForm 21\nForm 22\nForm 23\nForm 24\nForm 25\nForm 26\nForm 27\nForm 28\nForm 29\nForm 30\nForm 31\nTHE THIRD SCHEDULE\nFORM OF PATENT\nTHE FOURTH SCHEDULE\nSCALE OF COSTS\nTHE FIFTH SCHEDULE\nFIFTH SCHEDULE\nCHAPTER\n                                    4\nHome\nPublication and Examination of Applications\nRULE 24B.\n                                EXAMINATION OF APPLICATION\n(1)(i) A request for examination under section 11B shall be made in Form 18 within thirty-one months from the date of priority of the application or from the date of filing of the application, whichever is earlier;"
+            }
+          ]
+        },
+        {
+          "text": "For applications filed before the commencement of the Patent (Amendment) Rules, 2024, the time limit for filing a request for examination under section 11B(1) is the period specified in this rule (the thirty‑one‑month limit) as it applied prior to the amendment.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 3,
+              "quote": "(v) 1 जनवरी, 2005 से पहले दायर किए गए आवेदनों की धारा 11बी के तहत जांच के लिए अनुरोध करने की अवधि पेटेंट (संशोधन) अधिनियम, 2005 के प्रारंभ से पहले या इन नियमों के तहत निर्दिष्ट अवधि, जो भी बाद में समाप्त हो, धारा 11बी के तहत निर्दिष्ट अवधि होगी\n(vi) इस उप-नियम में कुछ भी निहित होने के बावजूद, पेटेंट (संशोधन) नियम, 2024 के प्रारंभ से पहले दायर एक आवेदन के संबंध में, धारा 11बी की उप-धारा (1) के तहत परीक्षा के लिए अनुरोध करने की अवधि पेटेंट (संशोधन) नियम, 2024 के प्रारंभ से पहले इस उप-नियम के तहत निर्दिष्ट अवधि होगी।\n(2) (i) जहां उपनियम (1) के तहत परीक्षा के लिए अनुरोध दायर किया गया है और धारा 11ए के तहत आवेदन प्रकाशित किया गया है, नियंत्रक आवेदन, विनिर्देश और उससे संबंधित अन्य दस्तावेजों को परीक्षक को भेजेगा और ऐसा संदर्भ उस क्रम में किया जाएगा जिसमें अनुरोध दायर किया गया हैः"
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1,
+        2
+      ],
+      "reason": "Both claims are directly entailed by the provided Rule 24B text. Claim 1 matches the explicit wording that a request for examination must be made within thirty‑one months from the priority or filing date, whichever is earlier. Claim 2 is supported by the Hindi provision stating that for applications filed before the commencement of the Patent (Amendment) Rules, 2024, the examination request period is the one specified in this sub‑rule prior to the amendment, which is the thirty‑one‑month limit."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "Section 3(a) defines an “Ayurvedic, Siddha or Unani drug” as any medicine intended for internal or external use for the diagnosis, treatment, mitigation or prevention of disease or disorder in humans or animals, manufactured exclusively in accordance with the formulae described in the authoritative books of the Ayurvedic, Siddha and Unani systems of medicine as specified in the First Schedule.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 3,
+              "quote": "3.  Definitions.—In this Act, unless there is anything repugnant in the subject or context, \n7\n[(a) ―8[Ayurvedic, Siddha or Unani] drug‖ includes all medicines intended for internal or external use \nfor or in the d iagnosis, treatment, mitigation or prevention  of \n8\n[disease or disorder in human beings or \nanimals, and manufac tured] exclusively in accordance with the formulae described in, the authoritative \nbooks of \n9\n[Ayurvedic, Siddha and Unani Tibb systems of medicine], specified in the First Schedule;] \n9\n[(aa) ―the Board‖ means— \n(i) in relation to \n9\n[Ayurvedic, Siddha or Unani] drug, the \n9\n[Ayurvedic, Siddha and Unani \nDrugs Technical Advisory Board] constituted under section 33C; and \n(ii) in relation to any other drug or cosmetic, the Drugs Technical Advisory Board \nconstituted under section 5;] \n "
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1
+      ],
+      "reason": "The provided source (source 1, span 3) contains the exact definition of an “Ayurvedic, Siddha or Unani drug” as stated in the claim, matching the wording and qualifications about intended use, disease prevention/treatment, exclusive manufacture according to authoritative formulae, and reference to the First Schedule. No other claims are present, and the claim directly answers the question."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "Section 11(1) provides that any association of persons or producers, or any organization or authority established by law representing the interest of the producers of the goods, may apply in writing to the Registrar for registration of a geographical indication.",
+          "evidence": [
+            {
+              "source": 2,
+              "span": 2,
+              "quote": "which the name originates and the area of consumption of\nthe goods.\n10.  Subject to the provisions of Section 7, a homonymous\ngeographical indication may be registered under this Act,\nif the Registrar is satisfied, after considering the practical\nconditions under which the homonymous indication in\nquestion shall be differentiated from other homonymous\nindications and the need to ensure equitable treatment of\nthe producers of the goods concerned, that the consumers\nof such goods shall not be confused of misled in\nconsequence of such registration.\nCHAPTER IIII\nProcedure for and duration of registration.\n11.  (1) Any association of persons or producers or any\norganization or authority established by or under any law\nfor the time being in force representing the interest of the\nproducers of the concerned goods, who are desirous of\nregistering a geographical indication in relation to such"
+            },
+            {
+              "source": 2,
+              "span": 3,
+              "quote": "goods shall apply in writing to the Registrar in such form\nand in such manner and accompanied by such fees as may\nbe prescribed for the registration of the geographical\nindication.\n(2) The appli cation under sub-section (1) shall\ncontain-\n(a)  statement as to how the geographical indication\nserves to designate the goods as originating from the\nconcerned territory of the country or region or locality in\nthe country, as the case may be, in respect of specific\nquality, reputation or other characteristics of which are due\nexclusively or essentially to the geographical, environment,\nwith its inherent natural and human factors, and the\nproduction, processing or preparation of which takes place\nin such territory, region or locality, as the case may be;\nRegistration of\nhomonymous\ngeographical\nindications\nApplication for\nregistration"
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1
+      ],
+      "reason": "The quoted text from Section 11(1) of the Geographical Indications of Goods (Registration & Protection) Act, 1999 explicitly states that any association of persons or producers, or any organization or authority established by law representing the interest of the producers of the goods, may apply in writing to the Registrar for registration of a geographical indication. This directly answers the question and fully supports the claim."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "Article 6(1) of the Nagoya Protocol requires that access to genetic resources be subject to the prior informed consent of the Party providing the resources (the country of origin) unless that Party decides otherwise.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 5,
+              "quote": "knowledge associated with genetic resources are shared in a fair and equitable way \nwith indigenous and local communities holding such knowledge. Such sharing shall \nbe upon mutually agreed terms. \nArticle\n6\nACCESS TO GENETIC RESOURCES\n1. In the exercise of sovereign rights over natural resources, and subject to \ndomestic access and benefit-sharing legislation or regulatory requirements, access \nto genetic resources for their utilization shall be subject to the prior informed \nconsent of the Party providing such resources that is the country of origin of such \nresources or a Party that has acquired the genetic resources in accordance with the \nConvention, unless otherwise determined by that Party.\n2.  In accordance with domestic law, each Party shall take measures, as \nappropriate, with the aim of ensuring that the prior informed consent or approval "
+            }
+          ]
+        },
+        {
+          "text": "Parties that require prior informed consent must adopt legislative, administrative or policy measures to ensure legal certainty, clarity and transparency of their access‑and‑benefit‑sharing rules.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 1,
+              "quote": "6\nNagoya Protocol on Access and Benefit-sharing\n7\nNagoya Protocol on Access and Benefit-sharing\ngenetic resources where they have the established right to grant access to such \nresources.\n3. Pursuant to paragraph 1 above, each Party requiring prior informed consent shall \ntake the necessary legislative, administrative or policy measures, as appropriate, to:\n(a) Provide for legal certainty, clarity and transparency of their domestic access \nand benefit-sharing legislation or regulatory requirements;\n(b)  Provide for fair and non-arbitrary rules and procedures on accessing \ngenetic resources;\n(c)  Provide information on how to apply for prior informed consent;\n(d) Provide for a clear and transparent written decision by a competent national \nauthority, in a cost-effective manner and within a reasonable period of time;\n(e)  Provide for the issuance at the time of access of a permit or its equivalent "
+            }
+          ]
+        },
+        {
+          "text": "The consent must be provided as a clear written decision by a competent national authority, accompanied by a permit or equivalent evidence of the decision, and notified to the Access and Benefit‑sharing Clearing‑House.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 1,
+              "quote": "6\nNagoya Protocol on Access and Benefit-sharing\n7\nNagoya Protocol on Access and Benefit-sharing\ngenetic resources where they have the established right to grant access to such \nresources.\n3. Pursuant to paragraph 1 above, each Party requiring prior informed consent shall \ntake the necessary legislative, administrative or policy measures, as appropriate, to:\n(a) Provide for legal certainty, clarity and transparency of their domestic access \nand benefit-sharing legislation or regulatory requirements;\n(b)  Provide for fair and non-arbitrary rules and procedures on accessing \ngenetic resources;\n(c)  Provide information on how to apply for prior informed consent;\n(d) Provide for a clear and transparent written decision by a competent national \nauthority, in a cost-effective manner and within a reasonable period of time;\n(e)  Provide for the issuance at the time of access of a permit or its equivalent "
+            }
+          ]
+        },
+        {
+          "text": "Where applicable, parties must set out criteria and procedures for obtaining prior informed consent and ensure the involvement of indigenous and local communities.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 1,
+              "quote": "6\nNagoya Protocol on Access and Benefit-sharing\n7\nNagoya Protocol on Access and Benefit-sharing\ngenetic resources where they have the established right to grant access to such \nresources.\n3. Pursuant to paragraph 1 above, each Party requiring prior informed consent shall \ntake the necessary legislative, administrative or policy measures, as appropriate, to:\n(a) Provide for legal certainty, clarity and transparency of their domestic access \nand benefit-sharing legislation or regulatory requirements;\n(b)  Provide for fair and non-arbitrary rules and procedures on accessing \ngenetic resources;\n(c)  Provide information on how to apply for prior informed consent;\n(d) Provide for a clear and transparent written decision by a competent national \nauthority, in a cost-effective manner and within a reasonable period of time;\n(e)  Provide for the issuance at the time of access of a permit or its equivalent "
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "reason": "All four claims are directly entailed by the quoted passages from Article 6 and Article 7 of the Nagoya Protocol. The evidence confirms that (1) access requires prior informed consent of the providing Party unless otherwise determined, (2) Parties requiring consent must adopt legislative, administrative or policy measures to ensure legal certainty, clarity and transparency, (3) consent must be a clear written decision by a competent national authority, issued with a permit or equivalent and notified to the ABS Clearing‑House, and (4) where applicable, Parties must set out criteria and procedures for obtaining consent and involve indigenous and local communities."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "For a patent application whose claimed invention is based on genetic resources, the applicant must disclose the country of origin of the genetic resources, or, if that is not known, the source of the genetic resources.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 1,
+              "quote": "page 4 \n \n \nARTICLE 3 \nDISCLOSURE REQUIREMENT  \n \n3.1 Where the claimed invention in a patent application is based on genetic resources, each \nContracting Party shall require applicants to disclose: \n \n(a) the country of origin of the genetic resources2, or, \n \n(b) in cases where the information in Article 3.1(a) is not known to the applicant, or \nwhere Article 3.1(a) does not apply, the source of the genetic resources. \n \n3.2 Where the claimed invention in a patent application is based on traditional knowledge \nassociated with genetic resources, each Contracting Party shall require applicants to disclose: \n \n(a) the Indigenous Peoples or local community, as applicable3, who provided the \ntraditional knowledge associated with genetic resources, or, \n \n(b) in cases where the information in Article 3.2(a) is not known to the applicant, or "
+            }
+          ]
+        },
+        {
+          "text": "For a patent application whose claimed invention is based on traditional knowledge associated with genetic resources, the applicant must disclose the Indigenous Peoples or local community that provided the knowledge, or, if that is not known, the source of the traditional knowledge.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 1,
+              "quote": "page 4 \n \n \nARTICLE 3 \nDISCLOSURE REQUIREMENT  \n \n3.1 Where the claimed invention in a patent application is based on genetic resources, each \nContracting Party shall require applicants to disclose: \n \n(a) the country of origin of the genetic resources2, or, \n \n(b) in cases where the information in Article 3.1(a) is not known to the applicant, or \nwhere Article 3.1(a) does not apply, the source of the genetic resources. \n \n3.2 Where the claimed invention in a patent application is based on traditional knowledge \nassociated with genetic resources, each Contracting Party shall require applicants to disclose: \n \n(a) the Indigenous Peoples or local community, as applicable3, who provided the \ntraditional knowledge associated with genetic resources, or, \n \n(b) in cases where the information in Article 3.2(a) is not known to the applicant, or "
+            }
+          ]
+        },
+        {
+          "text": "If the applicant does not know any of the information required in Articles 3.1 or 3.2, the applicant must make a declaration affirming that the information is unknown and that the declaration is true to the best of their knowledge.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 2,
+              "quote": "where Article 3.2(a) does not apply, the source of the traditional knowledge \nassociated with genetic resources. \n \n3.3 In cases where none of the information in Articles 3.1 and/or 3.2 is known to the applicant, \neach Contracting Party shall require the applicant to make a declaration to that effect, affirming \nthat the content of the declaration is true and correct to the best knowledge of the applicant. \n \n3.4  Contracting Parties shall provide guidance to patent applicants on how to meet the \ndisclosure requirement as well as an opportunity for patent applicants to rectify a failure to \ninclude the minimum information referred to in Articles 3.1 and 3.2 or correct any disclosures \nthat are erroneous or incorrect. \n \n3.5 Contracting Parties shall not place an obligation on Offices to verify the authenticity of the \ndisclosure. \n "
+            }
+          ]
+        },
+        {
+          "text": "Contracting Parties shall provide guidance on how to meet the disclosure requirement, allow applicants to correct or rectify missing or erroneous information, and shall not place an obligation on patent offices to verify the authenticity of the disclosure.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 2,
+              "quote": "where Article 3.2(a) does not apply, the source of the traditional knowledge \nassociated with genetic resources. \n \n3.3 In cases where none of the information in Articles 3.1 and/or 3.2 is known to the applicant, \neach Contracting Party shall require the applicant to make a declaration to that effect, affirming \nthat the content of the declaration is true and correct to the best knowledge of the applicant. \n \n3.4  Contracting Parties shall provide guidance to patent applicants on how to meet the \ndisclosure requirement as well as an opportunity for patent applicants to rectify a failure to \ninclude the minimum information referred to in Articles 3.1 and 3.2 or correct any disclosures \nthat are erroneous or incorrect. \n \n3.5 Contracting Parties shall not place an obligation on Offices to verify the authenticity of the \ndisclosure. \n "
+            },
+            {
+              "source": 1,
+              "span": 3,
+              "quote": "3.6 Each Contracting Party shall make the information disclosed available in accordance with \npatent procedures, without prejudice to the protection of confidential information.  \n \n \n \nARTICLE 4 \nNON-RETROACTIVITY \n \nA Contracting Party shall not impose the obligations of this Treaty in relation to patent \napplications which have been filed prior to the entry into force of this Treaty with regard to that \nContracting Party, without prejudice to existing national laws on disclosure that apply to such \npatent applications. \n \n \n2 Agreed Statement:  In cases where there is more than one country of origin, the applicant shall disclose the country \nof origin from which the genetic resources were actually obtained. \n3 Agreed Statement: It is understood that the term “as applicable” in Article 3.2(a) shall not be interpreted as providing "
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "reason": "Each claim is directly entailed by the quoted passages from Article 3 of the WIPO GRATK Treaty. The source text specifies the disclosure of country of origin or source for genetic resources (3.1), the disclosure of Indigenous Peoples or local community or source for traditional knowledge (3.2), the requirement for a declaration when information is unknown (3.3), and the obligations to provide guidance, allow rectification, and not require offices to verify authenticity (3.4‑3.5)."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "A PCT application does not itself grant a patent; it only initiates an international filing and publication process.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 1,
+              "quote": "”, out of which you can expect to receive a search report plus a patentability opinion. The application will then be published (“\ninternational publication\n”). You may additionally ask for “\ninternational preliminary examination\n” to get an examination report. Thereafter, you may decide whether, and in which countries, you wish to have your application processed further by the national Offices in the “\nnational phase\n” to decide if a patent can be granted.\nFind out more details about these procedures below.\narrow_right\nFormalities Check\nThe receiving Office will first check whether your application can be accorded an international filing date, namely, whether the applicant is entitled to file a PCT application and whether the application contains all the essential elements (\nPCT Article 11(1)\n). It will further determine whether all the other PCT formality requirements are complied with ("
+            }
+          ]
+        },
+        {
+          "text": "After the international phase, the applicant must enter the national phase in each desired Contracting State for a patent to be granted.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 1,
+              "quote": "”, out of which you can expect to receive a search report plus a patentability opinion. The application will then be published (“\ninternational publication\n”). You may additionally ask for “\ninternational preliminary examination\n” to get an examination report. Thereafter, you may decide whether, and in which countries, you wish to have your application processed further by the national Offices in the “\nnational phase\n” to decide if a patent can be granted.\nFind out more details about these procedures below.\narrow_right\nFormalities Check\nThe receiving Office will first check whether your application can be accorded an international filing date, namely, whether the applicant is entitled to file a PCT application and whether the application contains all the essential elements (\nPCT Article 11(1)\n). It will further determine whether all the other PCT formality requirements are complied with ("
+            }
+          ]
+        },
+        {
+          "text": "The PCT application is recognized in all Contracting States as having the same effect as filing separate national applications, but patents are granted only by the national offices.",
+          "evidence": [
+            {
+              "source": 5,
+              "span": 1,
+              "quote": "Learn more about\nentering the national Phase\n.\nBenefits of the PCT\nUsing the PCT to seek patent protection for your invention internationally can be advantageous in many respects.\nFirst, it is\nmore convenient\nthan filing separate national patent applications in multiple countries, as your single PCT application is recognized in all Contracting States as having the same effect as a national application.\nSecond, you will have\nmore time\nto decide whether you would like to further pursue your application before any interested national Office.\nThird, you will be provided with expert opinions on the potential patentability of your invention and thus be\nbetter informed\nto make decisions during the process.\nLast but not the least, using the PCT can help you\nsave effort and unnecessary cost\nin seeking patent protection in a number of countries.\nPCT System success stories"
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1,
+        2,
+        3
+      ],
+      "reason": "Each claim is directly entailed by the provided source quotations. Claim 1 is supported by source 1, which explains that a PCT application results in a search report, publication, and does not itself grant a patent. Claim 2 is supported by the same source, which states that after the international phase the applicant must enter the national phase for a patent to be granted. Claim 3 is supported by source 5, which says the PCT application has the same effect as separate national applications in all Contracting States, and by source 1, which indicates that patents are granted only by national offices during the national phase."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "The Madrid System protects trademarks by providing a single international filing that secures trademark rights in the 133 member countries.",
+          "evidence": [
+            {
+              "source": 4,
+              "span": 1,
+              "quote": "IP tools\nwill remain available.\nMadrid System – The International Trademark System\nProtect and manage your trademarks abroad\nDue to a technical issue, our customer service support is currently unavailable by phone. We're working to restore service as quickly as possible. Please reach us via \"\nContact Us\n\" for assistance. Thank you for your understanding.\nWhat is the Madrid System?\nStatement of provisions potentially applicable to WIPO global IP services regarding Ukraine and the Russian Federation\n.\nThe Madrid System is a convenient and cost-effective solution for registering and managing\ntrademarks\nworldwide. File a single international trademark application and pay\none set of fees\nto apply for protection in the\n133 countries\ncovered. Modify, renew, or expand your global trademark portfolio through one centralized system.\narrow_right\nWho can use the Madrid System?"
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1
+      ],
+      "reason": "The source (source 4) states that the Madrid System allows filing a single international trademark application to apply for protection in the 133 countries covered, which directly supports the claim that it protects trademarks via a single filing securing rights in those member countries."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "The Hague System is the international registration system for industrial designs, allowing a single application to seek protection in up to 99 contracting parties.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 5,
+              "quote": "will remain available.\nHague System – The International Design System\nProtecting your designs internationally since 1925\nWhat is the Hague System?\nThe Hague System for the International Registration of Industrial Designs provides a practical business solution for registering up to 100\ndesigns\nin 99 countries [\nPDF\n], by filing a single international application.\narrow_right\nWho can use the Hague System?\nNationals of…\nAnyone with domicile or habitual residence in…\nAnyone with a real and effective industrial or commercial establishment in…\n…any of the\nHague System’s 82 members\n(referred to as “contracting parties”) – including all countries in the European Union (EU) and the African Intellectual Property Organization (OAPI) – can use the Hague System.\narrow_right\nHow much does it cost to secure international design protection?"
+            }
+          ]
+        },
+        {
+          "text": "It enables applicants to register up to 100 designs in one international filing.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 5,
+              "quote": "will remain available.\nHague System – The International Design System\nProtecting your designs internationally since 1925\nWhat is the Hague System?\nThe Hague System for the International Registration of Industrial Designs provides a practical business solution for registering up to 100\ndesigns\nin 99 countries [\nPDF\n], by filing a single international application.\narrow_right\nWho can use the Hague System?\nNationals of…\nAnyone with domicile or habitual residence in…\nAnyone with a real and effective industrial or commercial establishment in…\n…any of the\nHague System’s 82 members\n(referred to as “contracting parties”) – including all countries in the European Union (EU) and the African Intellectual Property Organization (OAPI) – can use the Hague System.\narrow_right\nHow much does it cost to secure international design protection?"
+            }
+          ]
+        },
+        {
+          "text": "The system assists contracting parties in meeting their TRIPS obligations to protect independently created industrial designs that are new or original.",
+          "evidence": [
+            {
+              "source": 2,
+              "span": 1,
+              "quote": "9.\nThere shall be no obligation under this Agreement to protect geographical indications which are not or cease to be protected in their country of origin, or which have fallen into disuse in that country.\nSection 4: Industrial Designs\nArticle 25\nRequirements for Protection\n1.\nMembers shall provide for the protection of independently created industrial designs that are new or original. Members may provide that designs are not new or original if they do not significantly differ from known designs or combinations of known design features. Members may provide that such protection shall not extend to designs dictated essentially by technical or functional considerations.\n2."
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": false,
+      "supported_claims": [
+        2
+      ],
+      "reason": "Claim 1 is not fully supported: the source states there are 82 contracting parties (members), not up to 99 contracting parties. Claim 3 is not supported: the source provides TRIPS obligations but does not state that the Hague System assists contracting parties in meeting those obligations. Only Claim 2 is directly supported by the provided source."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "When an applicant commercialises intellectual‑property rights, the monetary benefit‑sharing is up to 1 % of the annual gross ex‑factory sale price if the applicant uses the IP itself, and up to 5 % of any licence or assignment fee and up to 5 % of annual royalties if the IP is licensed to a third party; if traditional knowledge is involved the rate is 25 % higher than the applicable rate (source 1, spans 3 and 4).",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 3,
+              "quote": "(i) when the applicant himself uses the intellectual property rights for commercialisation, the monetary benefit sh aring \nshall be in the range of up to one percent. based on sectoral approach, which shall be worked out on the annual gross \nex-factory sale price of product excluding Government taxes, on case to case basis; \n(ii) when the applicant assigns or licenses the intellectual property rights to a third party for commercialisation, the \napplicant shall pay to the Authority up to five percent. of the fee received (in any form including the license or \nassignee fee) and up to five percent. of the royalty amount received  annually from the assignee or licensee, based on \nsectoral approach, on case to case basis.   \n8. Mode of benefit sharing for commercialisation of intellectual property rights by persons covered under "
+            },
+            {
+              "source": 1,
+              "span": 4,
+              "quote": "section 3 of the Act. -– (1) The applicant shall pay to the Authority such monetary benefit or share non -monetary \nbenefit, as agreed between the applicant and the Authority:– \n(i)  when the applicant himself uses the intellectual property rights for commercialisation, the monetary benefit \nsharing shall be in the range of up to one percent. based on sectoral approach, which shall be worked out on the annual \ngross ex-factory sale price of the product excluding Government taxes, on case to case basis: \nProvided that in case the traditional knowledge is involved in th e invention, the benefit sharing obligation \nshall be twenty-five percent. higher than the benefit sharing due: \nProvided further that any person, if upon cease or revocation of the intellectual property rights, intends to "
+            }
+          ]
+        },
+        {
+          "text": "For direct commercial utilisation of a biological resource (or its digital sequence information), benefit‑sharing is determined by the applicant’s annual turnover: nil for turnover up to ₹5 crore, 0.2 % for ₹5‑50 crore, 0.4 % for ₹50‑250 crore, and 0.6 % for turnover above ₹250 crore of gross ex‑factory sales (source 3, span 2).",
+          "evidence": [
+            {
+              "source": 3,
+              "span": 2,
+              "quote": "including upfront payment, as it deems fit, on case to case basis. \n4. Mode of benefit sharing for access to biological resource or associated knowledge for commercial utilisati on \nunder section 3 of the Act. —(1) When the biological resource including digital sequence information or knowledge \nassociated thereto, is accessed for commercial utilisation, the applicant shall have to pay benefit sharing amount as per \nthe Table given below:—    \nTable \nSl. \nNo. \nAnnual turnover of the person  \n(in Indian rupee) \nAmount payable on account of benefit sharing for access to \nbiological resource for commercial utilisation(Percentage of \nannual gross ex-factory sale price of product excluding \nGovernment taxes) \n(1) (2) (3) \n1. Up to 5 crore Nil \n2. Above 5 crore to 50 crore 0.2% \n3. Above 50 crore to 250 crore 0.4% \n4. Above 250 crore 0.6% \n  "
+            }
+          ]
+        },
+        {
+          "text": "If the accessed biological resource has conservation or high economic value (e.g., red sanders, sandalwood, agarwood or threatened species), the benefit‑sharing shall be at least 5 % of the auction or sale proceeds, and the overall benefit‑sharing component is increased by 20 % over the standard rate (source 3, span 4).",
+          "evidence": [
+            {
+              "source": 3,
+              "span": 4,
+              "quote": "sale amount or the purchase price, as the case may be, as determined b y the Authority on case to case basis, as upfront \npayment: \nProvided that in case of biological resource having conservation value or high economic value such as red \nsanders, sandalwood,  agarwood or any other items as decided by the Authority from time to t ime, and including \nthreatened species notified under section 38 of the Act, including digital sequence information or knowledge \nassociated thereto, the benefit sharing component shall be twenty percent. more than the benefit sharing amount due as \nreferred under sub-regulation (1) of this regulation.  \n5. Procedure for prior intimation for commercial utilisation by persons covered under section 7 of the Act .—\n(1) Any person who intends to access biological resource including digital sequence information or kno wledge "
+            }
+          ]
+        },
+        {
+          "text": "The accrued benefits must be shared with the Authority at a minimum of 10 % and a maximum of 15 % of the total; half of this amount may be retained by the Authority and the remainder allocated to the State Biodiversity Board or Council, with the balance distributed among benefit claimers, while if the resource source is unknown the Authority may retain the full amount (source 2, spans 5 and 7).",
+          "evidence": [
+            {
+              "source": 2,
+              "span": 5,
+              "quote": "developed leading to intellectual property rights for controlling epidemics, mitigating environmental pollution \naffecting human, animal or plant health, or for food security or conservation of biodiversity, and in such cases, the \nbenefit sharing  may be at a  lower percentage in the range, as decided by the Authority or  the Board or Counci l, on \ncase to case basis: \nProvided further that in the event of contribution to non -monetary benefit as mutually agreed, the monetary \nbenefit sharing obligation, if any, may be reduced, as determined by the Authority or the Board or Council. \n(3) The amount of benefit sharing shall remain the same whether the product contains on e or more biological \nresources. \n(4) Where the biological resource is sourced from the jurisdiction of  two or more Boards or Councils, the total amount "
+            },
+            {
+              "source": 2,
+              "span": 7,
+              "quote": "and in case where the biological resource including digital sequence information is accessed from an unknown source, \nthe Authority may retain the full amount of the accrued benefit which may be utilised by the Authority in accordance \nwith sub-section (2) of section 27 of the Act; "
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "reason": "Each claim is directly entailed by the quoted passages from the 2025 ABS Regulations: claim 1 matches spans 3‑4 of source 1; claim 2 matches span 2 of source 3; claim 3 matches span 4 of source 3; claim 4 matches spans 5 and 7 of source 2. All qualifications and percentages are preserved, and the claims answer the question about benefit‑sharing provisions."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "Section 3 of the Patents Act, 1970 lists inventions that are not patentable, including discoveries of natural substances, methods of medical treatment, plants or animals, and any invention that is essentially traditional knowledge.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 1,
+              "quote": "अध्याय 2\nघर\nआविष्कार पेटेंट योग्य नहीं हैं\nधारा 3. क्या आविष्कार नहीं हैं\nनिम्नलिखित इस अधिनियम के अर्थ के भीतर आविष्कार नहीं हैं -\n(ए) एक आविष्कार जो तुच्छ है या जो स्पष्ट रूप से अच्छी तरह से स्थापित प्राकृतिक नियमों के विपरीत कुछ भी दावा करता है;\n(ख) एक ऐसा आविष्कार जिसका प्राथमिक या इच्छित उपयोग या वाणिज्यिक दोहन सार्वजनिक व्यवस्था या नैतिकता के विपरीत हो सकता है या जो मानव, पशु या पादप जीवन या स्वास्थ्य या पर्यावरण के लिए गंभीर पूर्वाग्रह पैदा करता है;\n(ग) केवल एक वैज्ञानिक सिद्धांत की खोज या एक अमूर्त सिद्धांत का निर्माण या प्रकृति में पाए जाने वाले किसी भी जीवित वस्तु या निर्जीव पदार्थ की खोज;"
+            },
+            {
+              "source": 1,
+              "span": 4,
+              "quote": "(l)   a literary, dramatic, musical or artistic  work or any other aesthetic creation whatsoever including cinematographic works  and television productions;\n(m) a mere scheme or rule or method  of performing mental act or method of playing game;\n(n)    a presentation of information;\n(o)    topography of integrated circuits;\n(p)   an invention which in effect, is  traditional knowledge or which is an aggregation or duplication of known  properties of traditionally known component or components.\nHome\nNext"
+            }
+          ]
+        },
+        {
+          "text": "When an Ayurvedic invention that uses Indian biological resources is commercialised by the applicant themselves, the monetary benefit‑sharing payable to the Authority is up to one percent of the annual gross ex‑factory sale price, determined on a sector‑specific basis.",
+          "evidence": [
+            {
+              "source": 2,
+              "span": 3,
+              "quote": "(i) when the applicant himself uses the intellectual property rights for commercialisation, the monetary benefit sh aring \nshall be in the range of up to one percent. based on sectoral approach, which shall be worked out on the annual gross \nex-factory sale price of product excluding Government taxes, on case to case basis; \n(ii) when the applicant assigns or licenses the intellectual property rights to a third party for commercialisation, the \napplicant shall pay to the Authority up to five percent. of the fee received (in any form including the license or \nassignee fee) and up to five percent. of the royalty amount received  annually from the assignee or licensee, based on \nsectoral approach, on case to case basis.   \n8. Mode of benefit sharing for commercialisation of intellectual property rights by persons covered under "
+            }
+          ]
+        },
+        {
+          "text": "If the patent is assigned or licensed to a third party, the applicant must pay up to five percent of the licence/assignment fee and up to five percent of any annual royalty received, again based on a sector‑specific approach.",
+          "evidence": [
+            {
+              "source": 2,
+              "span": 3,
+              "quote": "(i) when the applicant himself uses the intellectual property rights for commercialisation, the monetary benefit sh aring \nshall be in the range of up to one percent. based on sectoral approach, which shall be worked out on the annual gross \nex-factory sale price of product excluding Government taxes, on case to case basis; \n(ii) when the applicant assigns or licenses the intellectual property rights to a third party for commercialisation, the \napplicant shall pay to the Authority up to five percent. of the fee received (in any form including the license or \nassignee fee) and up to five percent. of the royalty amount received  annually from the assignee or licensee, based on \nsectoral approach, on case to case basis.   \n8. Mode of benefit sharing for commercialisation of intellectual property rights by persons covered under "
+            },
+            {
+              "source": 2,
+              "span": 4,
+              "quote": "section 3 of the Act. -– (1) The applicant shall pay to the Authority such monetary benefit or share non -monetary \nbenefit, as agreed between the applicant and the Authority:– \n(i)  when the applicant himself uses the intellectual property rights for commercialisation, the monetary benefit \nsharing shall be in the range of up to one percent. based on sectoral approach, which shall be worked out on the annual \ngross ex-factory sale price of the product excluding Government taxes, on case to case basis: \nProvided that in case the traditional knowledge is involved in th e invention, the benefit sharing obligation \nshall be twenty-five percent. higher than the benefit sharing due: \nProvided further that any person, if upon cease or revocation of the intellectual property rights, intends to "
+            }
+          ]
+        },
+        {
+          "text": "Where the invention involves traditional knowledge, the benefit‑sharing rate is increased by twenty‑five percent over the standard rate applicable to the same activity.",
+          "evidence": [
+            {
+              "source": 2,
+              "span": 4,
+              "quote": "section 3 of the Act. -– (1) The applicant shall pay to the Authority such monetary benefit or share non -monetary \nbenefit, as agreed between the applicant and the Authority:– \n(i)  when the applicant himself uses the intellectual property rights for commercialisation, the monetary benefit \nsharing shall be in the range of up to one percent. based on sectoral approach, which shall be worked out on the annual \ngross ex-factory sale price of the product excluding Government taxes, on case to case basis: \nProvided that in case the traditional knowledge is involved in th e invention, the benefit sharing obligation \nshall be twenty-five percent. higher than the benefit sharing due: \nProvided further that any person, if upon cease or revocation of the intellectual property rights, intends to "
+            }
+          ]
+        },
+        {
+          "text": "The 2023 amendment to the Biological Diversity Act exempts the use of cultivated medicinal plants by Indian AYUSH practitioners from the ABS monetary‑sharing requirement.",
+          "evidence": [
+            {
+              "source": 6,
+              "span": 1,
+              "quote": "23. Does the Biological Diversity Act in any way hinder industrial development and restrict free trade in biological resources?\nNo. While the BD Act promotes conservation and sustainable use of biodiversity, it also facilitates trade and commerce in relation to biodiversity. It does the balancing act between conservation and commerce, by clear stipulations like, the provision on exemption from the benefit-sharing requirement, in relation to the notified bioresources as Normally Traded as Commodities (NTACs). The recent amendments brought out measures to encourage ‘ease of doing business’ which include,\nEncouraging the cultivation of medicinal plants by exempting the use of cultivated medicinal plants for Indians.\nExemption of codified traditional knowledge from the purview of the ABS mechanism to provide a favourable environment for the growth of AYUSH sectors;"
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "reason": "Each claim is directly entailed by the provided source quotations. The Patents Act excerpt lists the non‑patentable categories mentioned in claim 1. The ABS regulations excerpts specify the up‑to‑1% benefit‑sharing for self‑commercialisation (claim 2), the up‑to‑5% fee and royalty for licensing/assignment (claim 3), the additional 25% uplift when traditional knowledge is involved (claim 4), and the 2023 amendment exemption for cultivated medicinal plants used by Indian AYUSH practitioners (claim 5). No claim lacks supporting evidence."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "english": "Can traditional knowledge be patented in India?"
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "இந்தியப் பாட்டெண்ட் சட்டத்தின் பிரிவு 3(p) படி, பாரம்பரிய அறிவை அல்லது அதன் கூறுகளின் அறியப்பட்ட பண்புகளின் சேர்க்கை/நகல் ஆகியவை காப்புரிமை பெற முடியாது.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 4,
+              "quote": "(l)   a literary, dramatic, musical or artistic  work or any other aesthetic creation whatsoever including cinematographic works  and television productions;\n(m) a mere scheme or rule or method  of performing mental act or method of playing game;\n(n)    a presentation of information;\n(o)    topography of integrated circuits;\n(p)   an invention which in effect, is  traditional knowledge or which is an aggregation or duplication of known  properties of traditionally known component or components.\nHome\nNext"
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1
+      ],
+      "reason": "The claim accurately reflects Section 3(p) of the Indian Patent Act, which lists as non‑patentable \"an invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components.\" The provided source span contains this exact wording, fully supporting the claim."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "english": "Can traditional knowledge be patented in India?"
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "भारतीय पेटेंट अधिनियम की धारा 3(p) के अनुसार पारंपरिक ज्ञान या उसके घटकों के ज्ञात गुणों का संकलन पेटेंट योग्य नहीं है।",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 4,
+              "quote": "(l)   a literary, dramatic, musical or artistic  work or any other aesthetic creation whatsoever including cinematographic works  and television productions;\n(m) a mere scheme or rule or method  of performing mental act or method of playing game;\n(n)    a presentation of information;\n(o)    topography of integrated circuits;\n(p)   an invention which in effect, is  traditional knowledge or which is an aggregation or duplication of known  properties of traditionally known component or components.\nHome\nNext"
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1
+      ],
+      "reason": "The quoted text from Section 3(p) of the Indian Patent Act lists 'an invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components' among inventions that are not patentable, directly supporting the claim that traditional knowledge or a collection of known properties of its components is not patentable."
+    }
+  },
+  {
+    "kind": "generation",
+    "result": {
+      "claims": [
+        {
+          "text": "The order provides a list of Ayurveda Aahara products covered under category A, as authorised by Note (1) of Schedule B of the Food Safety and Standards (Ayurveda Aahara) Regulations 2022, and states that the list may be updated from time to time.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 2,
+              "quote": "Eेणी\n \n'\nक\n' \nम<\n \nसFGमिलत\n \nआयुव6द\n \nआहार\n \nक=\n \nसूची\n \nदे\n \nसकती\n \nहै\n।\nThis is in reference to the Note (1) under Schedule B of the Food Safety and\nStandards (\nAyurveda Aahara\n) Regulations, 2022 which speciﬁes that \nthe Food\nAuthority may provide a list of Ayurveda Aahara covered under category A from\ntime to time.\n२.\n२.\n           \nइस\n \nसंबंध\n \nम<\n, \nआयुष\n \nमं\nालय\n \nके\n \nपरामश9\n \nसे\n, \nएफएसएसएआई\n, \nखा\b\n \nसुर\nा\n \nएवं\nमानक\n (\nआयुव6द\n \nआहार\n) \n\u001fविनयम\n, \n२०२२\n \nके\n \nअंतग9त\n \nEेणी\n \n'\nक\n'\n \nके\n \nअंतग9त\n \nआने\n \nवाले\nआयुव6द\n \nआहार\n (\n\u0012ित\n\u0012ित\n \n \nसंलKन\nसंलKन\n) \nखा\b\n \nLयवसाय\n \nसंचालकM\n (\nएफबीओ\n) \nक=\n \nआयुव6द\n \nआहार\n \nके\nउPपादन\n \nएवं\n \nसु\u001fवधा\n \nहेतु\n \n\u0012\u0017तुत\n \nकर\n \nरहा\n \nहै\n।\n2.\n           In this regard, in consultation with Ministry of Ayush, \nFSSAI is hereby\nproviding \nAyurveda Aahara\n covered under category A under \nthe Food Safety and\nStandards (\nAyurveda Aahara\n) Regulations, 2022 (\ncopy enclosed\n) for facilitating\nFood Business Operators (FBOs) for manufacturing of \nAyurveda Aahara\n."
+            }
+          ]
+        },
+        {
+          "text": "It is issued to facilitate Food Business Operators in manufacturing category A Ayurveda Aahara by publishing the list and allowing operators to request inclusion of products not mentioned, upon submission of literature from authoritative texts.",
+          "evidence": [
+            {
+              "source": 1,
+              "span": 2,
+              "quote": "Eेणी\n \n'\nक\n' \nम<\n \nसFGमिलत\n \nआयुव6द\n \nआहार\n \nक=\n \nसूची\n \nदे\n \nसकती\n \nहै\n।\nThis is in reference to the Note (1) under Schedule B of the Food Safety and\nStandards (\nAyurveda Aahara\n) Regulations, 2022 which speciﬁes that \nthe Food\nAuthority may provide a list of Ayurveda Aahara covered under category A from\ntime to time.\n२.\n२.\n           \nइस\n \nसंबंध\n \nम<\n, \nआयुष\n \nमं\nालय\n \nके\n \nपरामश9\n \nसे\n, \nएफएसएसएआई\n, \nखा\b\n \nसुर\nा\n \nएवं\nमानक\n (\nआयुव6द\n \nआहार\n) \n\u001fविनयम\n, \n२०२२\n \nके\n \nअंतग9त\n \nEेणी\n \n'\nक\n'\n \nके\n \nअंतग9त\n \nआने\n \nवाले\nआयुव6द\n \nआहार\n (\n\u0012ित\n\u0012ित\n \n \nसंलKन\nसंलKन\n) \nखा\b\n \nLयवसाय\n \nसंचालकM\n (\nएफबीओ\n) \nक=\n \nआयुव6द\n \nआहार\n \nके\nउPपादन\n \nएवं\n \nसु\u001fवधा\n \nहेतु\n \n\u0012\u0017तुत\n \nकर\n \nरहा\n \nहै\n।\n2.\n           In this regard, in consultation with Ministry of Ayush, \nFSSAI is hereby\nproviding \nAyurveda Aahara\n covered under category A under \nthe Food Safety and\nStandards (\nAyurveda Aahara\n) Regulations, 2022 (\ncopy enclosed\n) for facilitating\nFood Business Operators (FBOs) for manufacturing of \nAyurveda Aahara\n."
+            },
+            {
+              "source": 2,
+              "span": 1,
+              "quote": "३.\n३.\n           \nतथा\n, \n\u0012वग9\n \n'\nक\n' \nके\n \nअंतग9त\n \nआने\n \nवाले\n \nपरंतु\n \nसूची\n \nम<\n \nन\n \nउF\u001bलFखत\n \nआयुव6द\n \nआहार\nउPपादM\n \nक=\n \nF\u0017थित\n \nम<\n \nखा\b\n \nकारोबार$\n \nउSह<\n \nसूची\n \nम<\n \nशािमल\n \nकरने\n \nके\n \nिलए\n \nखा\b\n \n\u0012ािधकरण\nको\n \nअनुसूची\n \n'\nक\n' \nम<\n \nसFGमिलत\n \nTंथM\n \nसे\n \nआिधका\u001aरक\n \nसंगत\n \nपाठ\n \n\u0012\u0017तुत\n \nकरते\n \nहुए\n \nअनुरोध\nकर\n \nसकते\n \nहै\n। \n \nअतः\n \nसमय\n-\nसमय\n \nपर\n \nहोने\n \nवाले\n \n(कसी\n \nभी\n \nप\u001aरवत9न\n \nक=\n \nसूचना\n \nअलग\n \nसे\nखा\b\n \n\u0012ािधकरण\n \nWारा\n \nद$\n \nजाएगी\n। \nय(द\n \nकोई\n \n\u0012X\n/\n(टBपण\n \nहM\n, \nतो\n \nउSह<\n \nayurveda-\naahara@fssai.gov.in \nपर\n \nईमेल\n \nकर<\n।\n3.\n           \nFurther, in case of \nAyurveda Aahara\n products falling under category A, but\nnot mentioned in the list, Food Business Operator shall request the Food Authority\nfor inclusion by submitting relevant literature from Authoritative text listed under\nSchedule A books. \nThus, any changes happening from time to time will be notiﬁed\nseparately. Any queries/concern may be forwarded to the email:\n ayurveda-\naahara@fssai.gov.in.\n४.\n४.\n \n \n         \nयह\n \nस\nम\n \n\u0012ािधकार$\n \nके\n \nअनुमोदन\n \nसे\n \nिनग9त\n \nहै\n।\n4."
+            }
+          ]
+        }
+      ],
+      "clarification": ""
+    }
+  },
+  {
+    "kind": "audit",
+    "result": {
+      "supported": true,
+      "supported_claims": [
+        1,
+        2
+      ],
+      "reason": "Both claims are directly entailed by the quoted passages from the FSSAI order dated 25 July 2025. The order references Note (1) of Schedule B of the Food Safety and Standards (Ayurveda Aahara) Regulations, 2022, stating that the Food Authority may provide and update a list of Category A Ayurveda Aahara products, and it explicitly states that the list is being provided to facilitate Food Business Operators (FBOs) in manufacturing. Additionally, the order specifies that if a Category A product is not on the list, an FBO may request its inclusion by submitting literature from authoritative texts, as quoted in the second source."
+    }
+  }
+]

@@ -1,0 +1,194 @@
+{
+  "calls": [
+    {
+      "stage": "generation",
+      "result": {
+        "claims": [
+          {
+            "text": "The label of an Ayurveda Aahara must be prepared in accordance with the Food Safety and Standards (Labelling and Display) Regulations, 2020.",
+            "evidence": [
+              {
+                "source": 2,
+                "span": 12
+              }
+            ]
+          },
+          {
+            "text": "The label must contain the words “AYURVEDA AAHARA” near the product name/brand and the prescribed logo, an advisory “ONLY FOR DIETARY USE” warning, a statement that the product is not a substitute for a varied diet, any necessary warnings, precautions, known side‑effects, contraindications or drug‑interaction information, a storage‑out‑of‑reach‑of‑children statement, and a warning that the product is for oral consumption only and not for parenteral use.",
+            "evidence": [
+              {
+                "source": 2,
+                "span": 13
+              }
+            ]
+          },
+          {
+            "text": "The label must not claim that the Ayurveda Aahara prevents, treats or cures any human disease; any health or disease‑risk‑reduction claims must comply with the Food Safety and Standards (Advertising and Claims) Regulations, 2018 and be approved as per Schedule B of the Ayurveda Aahara Regulations.",
+            "evidence": [
+              {
+                "source": 2,
+                "span": 8
+              }
+            ]
+          },
+          {
+            "text": "Packaging of Ayurveda Aahara must also meet the requirements of the Food Safety and Standards (Packaging) Regulations, 2018.",
+            "evidence": [
+              {
+                "source": 2,
+                "span": 6
+              }
+            ]
+          }
+        ],
+        "clarification": ""
+      }
+    }
+  ],
+  "answer": "**India**\n\nI could not verify this from the available authoritative sources, so I don't want to give you an unsupported legal conclusion.\n\nEvidence status: insufficient.\n\nThis information is for general guidance and is not legal advice. Please confirm important decisions with a qualified IP professional or the relevant authority.",
+  "documents": [
+    {
+      "text": "The Traditional Knowledge Digital Library (TKDL) is a pioneering initiative of India to protect Indian traditional medicinal knowledge and prevent its misappropriation due to wrong grant of patents. Traditional Knowledge (TK) is a valuable yet vulnerable asset to indigenous and local communities who depend on TK for their livelihood. In the context of traditional medicine for instance, the healthcare needs of a vast population and livelihood of millions of people in India is dependent on traditional medicine. Globally, too there has been renewed attention and interest in the use of traditional medicine increasing its vulnerability to exploitation. The grant of a US patent to wound healing properties of turmeric flagged the danger of complacence in proactively guarding the traditional knowledge. The time, effort and money spent on revocation of turmeric patent at USPTO highlighted the need for putting in place a proactive mechanism for TK protection. The problem related to Indian TK is further compounded by the fact that India’s traditional medicinal knowledge exists in languages such as Sanskrit, Hindi, Arabic, Urdu, Tamil etc. that too in ancient local dialects that are no more in practice. Thus, the published Indian TK literature is neither accessible nor understood by patent examiners at international patent offices. Such challenges exist in all forms of traditional knowledge in India, making them susceptible to misappropriation.\nTraditional Knowledge Digital Library has overcome the language and format barrier by systematically and scientifically converting and structuring the available content of the ancient texts on Indian Systems of Medicines i.e. Ayurveda, Siddha, Unani and Sowa Rigpa as well as Yoga, into five international languages, namely, English, Japanese, French, German and Spanish, with the help of information technology tools and an innovative classification system - Traditional Knowledge Resource Classification (TKRC). As on date, more than 5.0 lakh formulations/ practices have been transcribed into the TKDL database.\nTKDL technology integrates diverse disciplines such as Ayurveda, Unani, Siddha, Yoga, modern science & modern medicine as well as diverse languages such as Sanskrit, Arabic, Urdu, Persian, Tamil, English, Japanese, Spanish, French, German. Currently, TKDL is based on texts of Indian Systems of Medicine, which are available in open domain and can be sourced by any individual/organization at national/international level. TKDL acts as a bridge between these texts (prior art) and patent examiners worldwide.\nCurrently, TKRC has structured and classified the Indian Traditional Medicine System into several thousand subgroups for Ayurveda, Unani, Siddha and Yoga. The creation of the TKDL and TKRC enabled incorporation of about 200 sub-groups under A61K 36/00 in International Patent Classification instead of few sub-groups earlier available on medicinal plants under A61K 35/00, thus enhancing the quality of search and examination of priorart with respect to patent applications field in the area of traditional knowledge.\nThe TKDL has also set international specifications and standards for setting up of TK databases based on TKDL specifications. This was adopted in 2003 by the Intergovernmental Committee (IGC) of WIPO on Intellectual Property and Genetic Resources, Traditional Knowledge and Expression of Folklore in their Fifth session. As of May 2024, the much-awaited WIPO treaty on Intellectual Property genetic resources (GR) and associated TK was concluded. Notable is that in the Article 6 recommends establishing information systems such as databases of GR associated TK. This is a recognition of the efforts leading to the creation of TKDL and its immense utility.\nAt present, as per the approval of Cabinet Committee on Economic Affairs, access of TKDL is available to seventeen Patent Offices (European Patent Office, United State Patent & Trademark Office, Japan Patent Office, United Kingdom Patent Office, Canadian Intellectual Property Office, German Patent Office, Intellectual Property Australia, Indian Patent Office, Chile Patent Office, Intellectual Property Corporation of Malaysia, Rospatent- Intellectual Property Office of Russia, Peru Patent Office, Spanish Patent and Trademark Office, Danish Patent, Trademark office, National Industrial Property Institute, France and Eurasian Patent Organization), and Intellectual Property Office of the Philippines under TKDL Access (Non-disclosure) Agreement. As per the terms and conditions of the Access agreement, examiners of patent office can utilize TKDL for search and examination purposes only and cannot reveal the contents of TKDL to any third party unless it is necessary for the purpose of citation. TKDL Access Agreement comprises in-built safeguards on non-disclosure to protect India’s interest against any possible misuse.\nIn addition, third party submissions or pre-grant oppositions (as per provisions available in national laws) are being filed at various Patent Offices, along with prior art evidences from TKDL. Significant impact has already been realized. So far globally close to 370 patent applications have either been rejected/ set aside/ withdrawn/ amended/ abandoned based on the prior art evidences present in the TKDL database. This is with minimal cost and in a short period of time, whereas APEDA had to spend about seven crores towards legal fee only for getting few claims of Basmati rice patent revoked.\nThe TKDL is proving to be an effective deterrent against bio-piracy and has been recognized internationally as a unique effort. TKDL has set a benchmark in TK protection around the world, particularly in TK-rich countries, by demonstrating the advantages of proactive action and the power of strong deterrence. The key here is preventing the wrong grant of patents by ensuring access to TK related prior art for patent examiners, without restricting the use of traditional knowledge.\nWork towards digitization of traditional agricultural practices and traditional metallurgical knowledge from India into the TKDL has been initiated.\nFor further query on TKDL and Access Agreement (for Patent Offices), contact Head, CSIR-Traditional Knowledge Digital Library Unit (email:\nhead[dot]tkdl[at]csir[dot]res[dot]in)",
+      "metadata": {
+        "jurisdiction": "india",
+        "source_type": "official_web",
+        "title": "CSIR TKDL public information and access framework",
+        "source_url": "https://www.csir.res.in/en/documents/tkdl",
+        "version": "Official source snapshot; check subsequent amendments before relying on current law",
+        "regime": "traditional_knowledge",
+        "content_hash": "7dc2241a21d941dd50e8b0b94183b91c0231883fe52b037a0f298f7641ac9569",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\official\\tkdl_csir\\original.txt",
+        "source_id": "tkdl_csir",
+        "organization": "CSIR",
+        "retrieved_at": "2026-09-28T11:07:08.213609+00:00",
+        "retrieval_score": 0.017685,
+        "semantic_score": 0.5455
+      }
+    },
+    {
+      "text": "16  THE GAZETTE OF INDIA : EXTRAORDINARY    [PART III—SEC.4] \n \n(2) No person shall manufacture or sell Ayurveda Aahara intended for administration to  infants up to \nthe age of  twenty-four  months. \n(3) The Food Business Operator shall manufacture  Ayurveda Aahara in  accordance with the Schedule \n4 of th e Food Safety and Standards (Licensing and Registration  of Food Businesses) Regulation,  \n2011. \n(4) No person shall add  vitamins, minerals and amino acids to Ayurveda Aahara: \n      Provided that natural vitamins and minerals if present in the Ayurveda Aahara may be declared on \nthe label. \n(5) Food Business Operator may adopt the purity criteria for the ingredients as per the  Food  Safety \nand Standards Regulations or generally accepted by pharmacopoeias (namely, Indian \nPharmacopoeia, Ayurvedic Pharmacopoeia of India, British Pharmacopoeia, United  States \nPharmacopoeia), or relevant BIS Specifications, or Quality Standards of Indian Medicinal Plants as \npublished by Indian Council of Medical Research. The Food Business Operator shall provide \ninformation on the purity  criteria adopted for ingredients at the time of  licensing and any \nsubsequent changes. \n4. Additives.- The products covered under these regulations shall contain only food additives  as \nspecified in  Schedule C of these regulations. \n5. Contaminants.- The products cover ed under these regulations shall conform to the safety  \nrequirements specified in Schedule D of these regulations. \n6. Packaging.- Ayurveda Aahara shall conform to the Food Safety and Standards (Packaging)  \nRegulations, 2018. \n7. Restriction on sale, manufacture, et c. of Aurveda Ahara. - No person shall manufacture, pack, \nsell, offer for sale, market or otherwise distribute or  import Ayurveda Aahara unless the product \ncomplies  with the requirements laid down in these regulations. \n8. Not to claim treating human disease, etc. .- The labelling, presentation and advertisement shall not \nclaim that the Ayurveda Aahara has                                           the property of preventing, treating or curing a human disease or \nrefer to such properties. \n9. Claim by Food Business  Operator.- (1) Food Business Operator shall make claims in accordance \nwith the Food Safety and Standards (Advertising and Claims) Regulations, 2018.  \n(2)    Health claims and Disease risk reduction claims for the different categories of Ayurveda \nAahara and their approval process shall be in accordance with the requirements specified in \nSchedule B of these regulations. \n10. Prior approval for Ayurveda Aahara . -  If Ayurveda Aahara need prior approval as per Schedule \nB of these  regulations, the same shall be in a ccordance with the Food Safety and Standards \n(Approval for Non-Specific Food and Food Ingredients) Regulation, 2017. \n11. Constitution of Expert committee. - The Food Safety and Standards Authority of India  shall \nconstitute a n Expert Committee  under the Ministr y of Ayush consisting of relevant  experts \nincluding representatives of Food Safety and Standards Authority of India  for providing \nrecommendation on approval of claims and products as specified in sub-regulation (9) and (10) and  \nthe Committee shall  also empower to address concerns regarding registration or licensing or \ncertification or  laboratory accreditation or testing or quality issues related to Ayurveda Aahara. \n12. Labelling of Ayurveda  Aahara .-  The labelling of Ayurveda Aahara shall be in accordance wi th \nthe Food Safety and Standards (Labelling and Display) Regulations, 2020, and the specific labelling \nrequirements provided in these regulations. \n13. Other requirement for  Ayurveda Aahara .-  Every label of Ayurveda Aahara shall  specify the \nintended purpose,  the target  consumer group, recommended duration of use and other specific \nlabelling requirements, namely:- ",
+      "metadata": {
+        "retrieved_at": "2026-09-28T11:09:12.932640+00:00",
+        "title": "Food Safety and Standards (Ayurveda Aahara) Regulations 2022: original Gazette",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\official\\ayurveda_aahara_2022\\original.pdf",
+        "jurisdiction": "india",
+        "content_hash": "1ae8cfc632fad0a775316a84999a48adb6cf4b47d05bd4faa75f5190c511f699",
+        "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+        "total_pages": 27,
+        "page": 15,
+        "source_type": "official_pdf",
+        "source_url": "https://stg-old.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf",
+        "version": "Official source snapshot; check subsequent amendments before relying on current law",
+        "moddate": "2022-05-07T17:35:35+05:30",
+        "creationdate": "2022-05-07T17:34:56+05:30",
+        "source_id": "ayurveda_aahara_2022",
+        "page_label": "16",
+        "organization": "FSSAI",
+        "creator": "PyPDF",
+        "regime": "food_regulation",
+        "retrieval_score": 0.033333,
+        "semantic_score": 0.8386
+      }
+    },
+    {
+      "text": "[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 17 \n \n(a) the words “AYURVEDA AAHARA” printed in the immediate proximity of  the name \nor brand name of the product; and the logo as specified in the  Schedule E  of these \nregulations, on the front of the pack of the label; \n(b) an advisory warning ‘ONLY FOR DIETARY USE’ prominently written; \n(c) a statement that the Ayurveda Aahara is not to be used as a substitute for a varied diet; \n(d) a warning or any other precautions to be taken while consuming, known side effects, if \nany, contraindications, and published product or drug interactions, as applicable; and \n(e) a statement that the product is required to be stored out of reach of children. \n(f) a warning that the product is for oral consumption only and not for parenteral use. \n14. Information by the Food Business Operator to Food Authority. -  The Food Business Operator \nshall inform the licensing authority in writing, if any, of his existing food  products duly licensed to \nbe assigned as an Ay urveda Aahara and the Licensing Authority  shall within thirty days from the \ndate of recommendation received from the Expert Committee,  permit the same with applicable \nmodifications including labelling as specified in these regulations. \nSchedule A \n[See regulation 2(b)] \nList of authoritative books* for Ayurveda Aahara \nSl. No. Books \n1. Abhinava Chintamani \n2. Arka Prakasha \n3. Arogya Kalpadruma \n4. Arya Bishak \n5. Ashtanga Hridaya \n6. Ashtanga Samgraha \n7. Ayurveda Chintamani \n8. Ayurveda Kalpadruma \n9. Ayurveda Prakasha \n10. Ayurveda Ratnakara \n11. Ayurveda Samgraha \n12. Bangasena \n13. Ayurvedic Formulary of India \n14. Ayurveda Sara Samgraha \n15. Ayurvedic Pharmacopeia of India \n16. Bhaishajya Ratnavali \n17. Bhava Prakash \n18. Bhela Samhita \n19. Bhojana Kutuhalam \n20. Brihat Bhaishajya Ratnakar \n21. Brihat Nighantu Ratnakar ",
+      "metadata": {
+        "source_type": "official_pdf",
+        "organization": "FSSAI",
+        "version": "Official source snapshot; check subsequent amendments before relying on current law",
+        "retrieved_at": "2026-09-28T11:09:12.932640+00:00",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\official\\ayurveda_aahara_2022\\original.pdf",
+        "title": "Food Safety and Standards (Ayurveda Aahara) Regulations 2022: original Gazette",
+        "source_id": "ayurveda_aahara_2022",
+        "creator": "PyPDF",
+        "page": 16,
+        "page_label": "17",
+        "regime": "food_regulation",
+        "total_pages": 27,
+        "moddate": "2022-05-07T17:35:35+05:30",
+        "source_url": "https://stg-old.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf",
+        "jurisdiction": "india",
+        "creationdate": "2022-05-07T17:34:56+05:30",
+        "content_hash": "1ae8cfc632fad0a775316a84999a48adb6cf4b47d05bd4faa75f5190c511f699",
+        "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+        "retrieval_score": 0.031281,
+        "semantic_score": 0.7596
+      }
+    },
+    {
+      "text": "[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 19 \n \n59. Susena Nighantu/Ayurveda Mahodadhi \n60. Sushruta Samhita \n61. Vaidya Chintamani \n62. Vaidyaka Chikitsa Sara \n63. Vaidyaka Shabda Sindhu \n64. Vasava Rajeeyam \n65. Vidya Jiwan \n66. Vishwanath Chikitsa \n67. Vrinda Chikitsa \n68. Yoga Chintamani \n69. Yoga Ratnakara \n70. Yoga Tarangini \n71. Yogaratna Samgraha \n \n*Note 1. - Ingredients and recipes listed in the above  editions of authoritative books and those \nauthoritative texts  published before 1940 shall be  considered by the Food Authority for approval as \nAyurveda Aahara. \nNote 2. - Ingredients and recipes listed in Appendix or  Annexure to the above authoritative texts in \nSchedule A shall not be considered by the Food Authority for approval s Ayurveda Aahara. \nSchedule B \n[See regulation 3 (1)] \nCategories of Ayurveda Aahara  and Regulatory Requirements \nCategory  Description   Ingredients \nPermitted and \nProcess \n \nSafety Data (prior \napproval of \nproduct) \n \nLabel Claim \nHealth Benefit  Disease Risk \nReduction  \n(1) (2) (3) (4) (5) (6) \nA Ayurveda \nAahara prepared \nin accordance \nwith the \nAuthoritative \nAyurveda Texts \nin  Books  listed \nin  Schedule A. \nAs provided in \nthe \nAuthoritative \nAyurveda \nTexts in Books \nlisted in \nSchedule A \nNot Required Prior approval of the \nFood Authority not \nrequired if claim is as \nper the Authoritative \nAyurveda Texts in Books \nlisted in Schedule A \nEvidence based prior \napproval of the Food \nAuthority Required \nB A new recipe \nof         Ayurveda \nAahara using \ningredients \nlisted in  the \nAuthoritative \nAyurveda Texts \nin Books listed \nText  \nReference \nrequired for \nusing new \nrecipe  or \ningredient(s) \nprovided in the \nAuthoritative \nRequired \n(Rationale, and \nSafety   Data \n(including \nmutagenicity, \ncarcinogenicity,   \nand teratogenicity   \ntesting) of the new \nPrior approval required \nbased on the \nAuthoritative Ayurveda \nTexts in Books listed in  \nSchedule A \nEvidence based prior \napproval of the Food \nAuthority Required ",
+      "metadata": {
+        "title": "Food Safety and Standards (Ayurveda Aahara) Regulations 2022: original Gazette",
+        "source_type": "official_pdf",
+        "content_hash": "1ae8cfc632fad0a775316a84999a48adb6cf4b47d05bd4faa75f5190c511f699",
+        "source_url": "https://stg-old.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf",
+        "version": "Official source snapshot; check subsequent amendments before relying on current law",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\official\\ayurveda_aahara_2022\\original.pdf",
+        "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+        "source_id": "ayurveda_aahara_2022",
+        "creationdate": "2022-05-07T17:34:56+05:30",
+        "page_label": "19",
+        "regime": "food_regulation",
+        "page": 18,
+        "moddate": "2022-05-07T17:35:35+05:30",
+        "creator": "PyPDF",
+        "retrieved_at": "2026-09-28T11:09:12.932640+00:00",
+        "total_pages": 27,
+        "jurisdiction": "india",
+        "organization": "FSSAI",
+        "retrieval_score": 0.030798,
+        "semantic_score": 0.74
+      }
+    },
+    {
+      "text": "भारतीय\nभारतीय\n \nखा\b\nखा\b\n \nसुर\u000bा\nसुर\u000bा\n \nएवं\nएवं\n \nमानक\nमानक\n \n\u0012ािधकरण\n\u0012ािधकरण\nFood Safety and Standards Authority of India\n(\n\u0017वा\u0017\u0018य\n \nएवं\n \nप\u001aरवार\n \nक\u001bयाण\n \nमं\u001cालय\n)\n(Ministry of Health and Family Welfare)\n\u001fव ान\n \nएवं\n \nमानक\n \n\u001fवभाग\nScience and Standards Division\nएफ\n \nड$\n \nए\n \nभवन\n, \nकोटला\n \nरोड\n, \nनई\n \n(द\u001bली\n-\n११०००२\nFDA Bhawan, Kotla Road, New Delhi - 110002\nईमेल\nईमेल\n/Email : ayurveda-aahara@fssai.gov.in                                                        \n                \n(दनांक\n(दनांक\n/Dated\n 25 \nजुलाई\n/\nJuly \n2025\n \nआदेश\nआदेश\nOrder\n \n\u001fवषय\n\u001fवषय\n:\n:\n \nखा\b\nखा\b\n \n \nसुर\u000bा\nसुर\u000bा\n \n \nऔर\nऔर\n \n \nमानक\nमानक\n (\n (\nआयुव6द\nआयुव6द\n \n \nआहार\nआहार\n) \n) \n\u001fविनयम\n\u001fविनयम\n, \n२०२२\n२०२२\n \n \nके\nके\n \n \nअंतग9त\nअंतग9त\n \n \nशािमल\nशािमल\nआयुव6द\nआयुव6द\n \n \nआहार\nआहार\n– \n– \nके\nके\n \n \nसंबंध\nसंबंध\n \n \nम<\nम<\nSubject: \nAyurveda Aahara\n covered under Food Safety and Standards\n(\nAyurveda Aahara\n) Regulations, 2022 – reg\n \nखा\b\n \nसुर\u000bा\n \nएवं\n \nमानक\n (\nआयुव6द\n \nआहार\n) \n\u001fविनयम\n, \n२०२२\n \nक=\n \nअनुसूची\n ‘\nख\n’\n \nके\nअंतग9त\n \n(टBपण\n \n१\n \nका\n \nसंदभ9\n \nलेते\n \nहुए\n,  \nजो\n \nयह\n \nिन(द9C\n \nकरता\n \nहै\n \n(क\n \nखा\b\n \n\u0012ािधकरण\n \nसमय\n-\nसमय\n \nपर\n \nEेणी\n \n'\nक\n' \nम<\n \nसFGमिलत\n \nआयुव6द\n \nआहार\n \nक=\n \nसूची\n \nदे\n \nसकती\n \nहै\n।\nThis is in reference to the Note (1) under Schedule B of the Food Safety and\nStandards (\nAyurveda Aahara\n) Regulations, 2022 which speciﬁes that \nthe Food\nAuthority may provide a list of Ayurveda Aahara covered under category A from\ntime to time.\n२.\n२.\n           \nइस\n \nसंबंध\n \nम<\n, \nआयुष\n \nमं\u001cालय\n \nके\n \nपरामश9\n \nसे\n, \nएफएसएसएआई\n, \nखा\b\n \nसुर\u000bा\n \nएवं\nमानक\n (\nआयुव6द\n \nआहार\n) \n\u001fविनयम\n, \n२०२२\n \nके\n \nअंतग9त\n \nEेणी\n \n'\nक\n'\n \nके\n \nअंतग9त\n \nआने\n \nवाले\nआयुव6द\n \nआहार\n (\n\u0012ित\n\u0012ित\n \n \nसंलKन\nसंलKन\n) \nखा\b\n \nLयवसाय\n \nसंचालकM\n (\nएफबीओ\n) \nक=\n \nआयुव6द\n \nआहार\n \nके\nउPपादन\n \nएवं\n \nसु\u001fवधा\n \nहेतु\n \n\u0012\u0017तुत\n \nकर\n \nरहा\n \nहै\n।\n2.\n           In this regard, in consultation with Ministry of Ayush, \nFSSAI is hereby\nproviding \nAyurveda Aahara\n covered under category A under \nthe Food Safety and\nStandards (\nAyurveda Aahara\n) Regulations, 2022 (\ncopy enclosed\n) for facilitating\nFood Business Operators (FBOs) for manufacturing of \nAyurveda Aahara\n.\nSS-T0SP05(EC)/2/2022-Standard-FSSAI I/29912/2025",
+      "metadata": {
+        "organization": "FSSAI",
+        "creator": "PyPDF",
+        "page_label": "1",
+        "jurisdiction": "india",
+        "publication_date": "2025-07-25",
+        "source_id": "fssai_category_a_order",
+        "total_pages": 172,
+        "moddate": "2025-07-25T10:13:03+00:00",
+        "creationdate": "",
+        "source_type": "official_pdf",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\official\\fssai_category_a_order\\Order dated 25-07-2025 enclosing Ayurveda Aahara.pdf",
+        "page": 0,
+        "retrieved_at": "2026-09-19T03:45:44.026816+00:00",
+        "source_url": "https://www.fssai.gov.in/upload/uploadfiles/files/Order%20dated%2025-07-2025%20enclosing%20Ayurveda%20Aahara.pdf",
+        "producer": "iLovePDF",
+        "regime": "food_regulation",
+        "title": "FSSAI order dated 25 July 2025: Ayurveda Aahara category A",
+        "content_hash": "498d6f579357e7bb8e8d7b9f7741db5863f6eea8d29ffd559ff9add7d32d7edc",
+        "retrieval_score": 0.026316,
+        "semantic_score": 0.6659
+      }
+    },
+    {
+      "text": "[भागIII—खण् ड 4] भारत का रािपत्र : असाधारण 37 \n(vii) Soybeans and their products (To be declared as Soy); \n(viii)Sulphite in concentrations of 10mg/kg or more (To be declared as sulphite) \nProvided that in case presence of ingredients due to cross contamination which are known to cause \nallergy may be declared separately as May Contains.......................... (Name of allergy caus ing ingredients). \n       Provided further that this declaration is not required in case of oils derived from these ingredients.” \nRaw agricultural commodities are exempted from the allergen labelling requirements. \n(15) Every package of food material sold in retail  but which is n ot meant for human consumption example Pooja \nwater, Ghee for diya, Oil for Pooja etc. shall bear a declaration to this effect by a symbol as stipulated below. \nThe symbol shall consist of a black colour cross inside a square with black outline having the si des of square \nnot less than the minimum size specified in the Table mentioned in the regulation 5 (4) (c), as indicated \nbelow: \n \n \n \n6. Principal display panel .- (1) The information required under these regulations shall be given on the principal \ndisplay panel of the package or container and such information may be given in following manner, - \n     (a) All information should be grouped together and given at one place. \n                                                             Or \n       (b) The pre-printed information be grouped together and given in one place and, \n          Online information or those not pre-printed be grouped together in another place.”   \n(2) Area of Principal Display Panel-The area of principal display panel shall not be less than: \n(a) In the case of a rectangular package, forty percent of the product of height and width of the panel of such \npackage having the largest area; \n(b) In case of cylindrical or nearly cylindrical, round or nearly round, oval or nearly oval package, forty percent \nof the product of the height and average circumference of such package; or \n(c) In the case of package of any other shape, twenty percent of the total surface area of the package;  \n(d) In the case of package having a capacity of ten cubic centimeters or less, the principal display panel may be \ncard or tape affixed firmly to the package and bearing the required information under these regulations.  \n(3) The height of any numeral and letter required under these regulations, on the principal display panel shall be as \nshown in table below: \nTABLE I  \nSI. \nNo.  \nArea of Principal Display Panel  Minimum Height of numeral and letter \nin mm  \nNormal \nCase  \nWhen Blown, formed \nMoulded, or perforated \non container  \n1.  Upto 100 cm 2 1 2 \n2.  Above 100 cm 2 upto 500 cm 2 2 4 \n3.  Above 500 cm 2 upto 2500 c m2 4 6 \n4.  Above 2500 cm 2 6 8 \n \n             Provided that the size of numeral and/or letters required for declaration of net weight, retail \nsale price, date of expiry or best before or the use by date (wherever and as applicable) and Consumer care \ndetails o n the principal display panel shall be as provided in the Legal Metrology Act, 2009 (1 of \n2010) and the rules made there under.  \nThe width of the letter or numeral shall not be less than one -third of its height, but this proviso \nshall not apply in the case of numeral “1” and letters i, I and l.  ",
+      "metadata": {
+        "version": "Original Gazette notification; later amendments must also be consulted",
+        "regime": "food_regulation",
+        "page_label": "37",
+        "source": "C:\\Users\\User\\Downloads\\RAG CHATBOT LANGUVAGE (2)\\RAG CHATBOT LANGUVAGE\\RAG CHATBOT LANGUVAGE\\dataset\\raw\\official\\fssai_labelling\\original.pdf",
+        "organization": "FSSAI",
+        "retrieved_at": "2026-09-28T11:09:13.906254+00:00",
+        "creator": "PyPDF",
+        "title": "FSSAI Labelling and Display Regulations 2020: original notification",
+        "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+        "page": 36,
+        "source_type": "official_pdf",
+        "jurisdiction": "india",
+        "source_url": "https://stg-old.fssai.gov.in/upload/notifications/2020/12/5fd87c6a0f6adGazette_Notification_Labelling_Display_14_12_2020.pdf",
+        "creationdate": "2020-12-10T18:55:47+05:30",
+        "moddate": "2020-12-10T19:21:20+05:30",
+        "total_pages": 48,
+        "source_id": "fssai_labelling",
+        "content_hash": "c23820b2952ca06ec22dca1cf7c14897441ffb2d290bd1940dd48b09a2f39b7a",
+        "retrieval_score": 0.022504,
+        "semantic_score": 0.5502
+      }
+    }
+  ]
+}

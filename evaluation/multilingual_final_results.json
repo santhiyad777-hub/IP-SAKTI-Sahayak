@@ -1,0 +1,98 @@
+[
+  {
+    "test": "English selection / English question",
+    "passed": true,
+    "answer": "**India**\n\n\n\n- Traditional knowledge is excluded from patentability under Section 3(p) of the Indian Patents Act, 1970. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "seconds": 40.39
+  },
+  {
+    "test": "Hindi selection / English question",
+    "passed": true,
+    "answer": "**भारत**\n\n\n\n- भारत में परम्परागत ज्ञान को Patents Act, 1970 का Section 3(p) के तहत पेटेंटयोग्यता से बाहर रखा गया है। [1]\n\n\n\n**स्रोत**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nसंदर्भों और सहायक उद्धरणों की जाँच की गई है; कानूनी शुद्धता की गारंटी नहीं है।\n\n\n\nयह केवल जानकारी है, कानूनी सलाह नहीं। निर्णय की पुष्टि योग्य बौद्धिक संपदा सलाहकार या नियामक से करें।",
+    "seconds": 34.97
+  },
+  {
+    "test": "Tamil selection / English question",
+    "passed": true,
+    "answer": "**இந்தியா**\n\n\n\n- இந்தியாவில் பாரம்பரிய அறிவு தானாகவே காப்புரிமை பெறுவதிலிருந்து விலக்கப்பட்டுள்ளது. [1]\n\n- Section 3(p) இன் Indian Patents Act, 1970 கூறுகிறது, பாரம்பரிய அறிவாகவோ அல்லது அறியப்பட்ட பாரம்பரிய பண்புகளின் சேர்க்கையாகவோ இருக்கும் கண்டுபிடிப்பு காப்புரிமை பெறக்கூடிய கண்டுபிடிப்பு அல்ல. [1]\n\n\n\n**ஆதாரங்கள்**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nமேற்கோள்களும் அவற்றுக்கான ஆதாரப் பகுதிகளும் சரிபார்க்கப்பட்டன; சட்டரீதியான துல்லியத்திற்கு உத்தரவாதம் இல்லை.\n\n\n\nஇது தகவலுக்காக மட்டுமே; சட்ட ஆலோசனை அல்ல. முடிவுகளைத் தகுதியுள்ள அறிவுசார் சொத்துரிமை ஆலோசகர் அல்லது ஒழுங்குமுறை அதிகாரியிடம் உறுதிப்படுத்துங்கள்.",
+    "seconds": 45.14
+  },
+  {
+    "test": "Auto / English",
+    "passed": true,
+    "answer": "**India**\n\n\n\n- Traditional knowledge is expressly excluded from patentability under Section 3(p) of the Indian Patents Act, 1970. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator.",
+    "seconds": 16.59
+  },
+  {
+    "test": "Auto / Hindi",
+    "passed": true,
+    "answer": "**भारत**\n\n\n\n- भारत में पारंपरिक ज्ञान को पेटेंटयोग्यता से Section 3(p) के तहत Patents Act, 1970 में बाहर रखा गया है, जो कहता है कि ऐसा आविष्कार जो पारंपरिक ज्ञान है या ज्ञात पारंपरिक गुणों का संकलन है, पेटेंट योग्य आविष्कार नहीं है। [1]\n\n\n\n**स्रोत**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nसंदर्भों और सहायक उद्धरणों की जाँच की गई है; कानूनी शुद्धता की गारंटी नहीं है।\n\n\n\nयह केवल जानकारी है, कानूनी सलाह नहीं। निर्णय की पुष्टि योग्य बौद्धिक संपदा सलाहकार या नियामक से करें।",
+    "seconds": 35.52
+  },
+  {
+    "test": "Auto / Tamil",
+    "passed": true,
+    "answer": "**இந்தியா**\n\n\n\n- இந்தியாவில் பாரம்பரிய அறிவு காப்புரிமை பெறுவதிலிருந்து விலக்கப்பட்டுள்ளது. [1]\n\n- இந்த விலக்கு Section 3(p) இல் Indian Patents Act, 1970 இன் பகுதியாக குறிப்பிடப்பட்டுள்ளது, இது பாரம்பரிய அறிவாகும் கண்டுபிடிப்பை காப்புரிமை பெறாத கண்டுபிடிப்பாக பட்டியலிடுகிறது. [1]\n\n\n\n**ஆதாரங்கள்**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nமேற்கோள்களும் அவற்றுக்கான ஆதாரப் பகுதிகளும் சரிபார்க்கப்பட்டன; சட்டரீதியான துல்லியத்திற்கு உத்தரவாதம் இல்லை.\n\n\n\nஇது தகவலுக்காக மட்டுமே; சட்ட ஆலோசனை அல்ல. முடிவுகளைத் தகுதியுள்ள அறிவுசார் சொத்துரிமை ஆலோசகர் அல்லது ஒழுங்குமுறை அதிகாரியிடம் உறுதிப்படுத்துங்கள்.",
+    "seconds": 29.45
+  },
+  {
+    "test": "Individual English-origin answer -> Tamil",
+    "passed": true,
+    "answer": "**இந்தியா**\n\n\n\n- பாரம்பரிய அறிவு Section 3(p) இன் Indian Patents Act, 1970 கீழ் காப்புரிமை பெறுவதிலிருந்து விலக்கப்பட்டுள்ளது. [1]\n\n\n\n**ஆதாரங்கள்**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | சேகரித்த தேதி: 2026-09-19\n\n\n\nமேற்கோள்களும் அவற்றுக்கான ஆதாரப் பகுதிகளும் சரிபார்க்கப்பட்டன; சட்டரீதியான துல்லியத்திற்கு உத்தரவாதம் இல்லை.\n\n\n\nஇது தகவலுக்காக மட்டுமே; சட்ட ஆலோசனை அல்ல. முடிவுகளைத் தகுதியுள்ள அறிவுசார் சொத்துரிமை ஆலோசகர் அல்லது ஒழுங்குமுறை அதிகாரியிடம் உறுதிப்படுத்துங்கள்."
+  },
+  {
+    "test": "Individual English-origin answer -> Hindi",
+    "passed": true,
+    "answer": "**भारत**\n\n\n\n- परम्परागत ज्ञान को Section 3(p) के Indian Patents Act, 1970 के तहत पेटेंटयोग्यता से बाहर रखा गया है। [1]\n\n\n\n**स्रोत**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | संग्रह की तारीख: 2026-09-19\n\n\n\nसंदर्भों और सहायक उद्धरणों की जाँच की गई है; कानूनी शुद्धता की गारंटी नहीं है।\n\n\n\nयह केवल जानकारी है, कानूनी सलाह नहीं। निर्णय की पुष्टि योग्य बौद्धिक संपदा सलाहकार या नियामक से करें।"
+  },
+  {
+    "test": "Individual English-origin answer -> English",
+    "passed": true,
+    "answer": "**India**\n\n\n\n- Traditional knowledge is excluded from patentability under Section 3(p) of the Indian Patents Act, 1970. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator."
+  },
+  {
+    "test": "Original and neighboring messages retained",
+    "passed": true
+  },
+  {
+    "test": "Tamil-origin answer -> English",
+    "passed": true,
+    "answer": "**India**\n\n\n\n- In India, traditional knowledge has been excluded from automatically receiving patents. [1]\n\n- Section 3(p)'s Indian Patents Act, 1970 states that an invention that is traditional knowledge or a compilation of known traditional practices is not an invention that can be patented. [1]\n\n\n\n**Sources**\n\n\n\n[1] [Patents Act: inventions not patentable](https://ipindia.gov.in/acts/patent-act-1970/section-3) | https://ipindia.gov.in/acts/patent-act-1970/section-3 | Retrieved: 2026-09-19\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator."
+  },
+  {
+    "test": "Document upload / processing / embeddings / index",
+    "passed": true,
+    "chunks": 3
+  },
+  {
+    "test": "Uploaded document question / English",
+    "passed": true,
+    "answer": "**India**\n\n\n\n- Traditional knowledge cannot be patented in India as it is excluded under the non‑patentable subject‑matter provision (p). [1]\n\n\n\n**Sources**\n\n\n\n[1] verification_8ffb3b43a8df4411b1541626d4e4c9b4.txt | User upload; authority not verified\n\n\n\nEvidence status: citations and supporting quotations checked; legal correctness is not guaranteed.\n\n\n\nInformation only, not legal advice. Confirm decisions with a qualified IP facilitator or regulator."
+  },
+  {
+    "test": "Uploaded document question / Tamil",
+    "passed": true,
+    "answer": "**இந்தியா**\n\n\n\n- The Indian Patents Act பாரம்பரிய அறிவாகும் கண்டுபிடிப்புகளை காப்புரிமை பெறுவதிலிருந்து விலக்குகிறது. [1]\n\n- Section 3(p) சட்டத்தின் பிரிவில் \"மூலமாக பாரம்பரிய அறிவாகும் கண்டுபிடிப்பு அல்லது பாரம்பரியமாக அறியப்பட்ட கூறுகள் அல்லது கூறுகளின் அறியப்பட்ட பண்புகளின் சேர்க்கை அல்லது நகலெடுப்பு\" என்பதை காப்புரிமை பெற முடியாத பொருளாக பட்டியலிடுகிறது. [1]\n\n\n\n**ஆதாரங்கள்**\n\n\n\n[1] verification_8ffb3b43a8df4411b1541626d4e4c9b4.txt | User upload; authority not verified\n\n\n\nமேற்கோள்களும் அவற்றுக்கான ஆதாரப் பகுதிகளும் சரிபார்க்கப்பட்டன; சட்டரீதியான துல்லியத்திற்கு உத்தரவாதம் இல்லை.\n\n\n\nஇது தகவலுக்காக மட்டுமே; சட்ட ஆலோசனை அல்ல. முடிவுகளைத் தகுதியுள்ள அறிவுசார் சொத்துரிமை ஆலோசகர் அல்லது ஒழுங்குமுறை அதிகாரியிடம் உறுதிப்படுத்துங்கள்."
+  },
+  {
+    "test": "Uploaded document question / Hindi",
+    "passed": true,
+    "answer": "**भारत**\n\n\n\n- भारत में, एक आविष्कार जो अनिवार्य रूप से पारंपरिक ज्ञान है, पेटेंट योग्यता से बाहर है। [1]\n\n\n\n**स्रोत**\n\n\n\n[1] verification_8ffb3b43a8df4411b1541626d4e4c9b4.txt | User upload; authority not verified\n\n\n\nसंदर्भों और सहायक उद्धरणों की जाँच की गई है; कानूनी शुद्धता की गारंटी नहीं है।\n\n\n\nयह केवल जानकारी है, कानूनी सलाह नहीं। निर्णय की पुष्टि योग्य बौद्धिक संपदा सलाहकार या नियामक से करें।"
+  },
+  {
+    "test": "Temporary upload cleaned up",
+    "passed": true
+  },
+  {
+    "test": "Unsupported question / English",
+    "passed": true
+  },
+  {
+    "test": "Unsupported question / Tamil",
+    "passed": true
+  },
+  {
+    "test": "Unsupported question / Hindi",
+    "passed": true
+  }
+]

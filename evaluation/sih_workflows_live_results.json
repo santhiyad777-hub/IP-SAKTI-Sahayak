@@ -1,0 +1,18 @@
+[
+  {
+    "task": "classification",
+    "answer": "**India**\n\nI could not verify this from the available authoritative sources, so I don't want to give you an unsupported legal conclusion.\n\nEvidence status: insufficient.\n\nThis information is for general guidance and is not legal advice. Please confirm important decisions with a qualified IP professional or the relevant authority.",
+    "response_kind": "answer",
+    "abstained": true,
+    "citation_references_resolve": true,
+    "evidence_status": "Insufficient evidence"
+  },
+  {
+    "task": "abs",
+    "answer": "To give a relevant answer, I need one detail. Are the biological resources cultivated or collected from the wild, and what evidence of their origin is available?",
+    "response_kind": "clarification",
+    "abstained": false,
+    "evidence_status": "Awaiting product details",
+    "citation_references_resolve": true
+  }
+]

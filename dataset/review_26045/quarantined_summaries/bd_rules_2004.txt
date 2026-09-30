@@ -1,0 +1,34 @@
+# Biological Diversity Rules, 2004
+National Biodiversity Authority (NBA) / Ministry of Environment, Forest and Climate Change (MoEFCC)
+
+## Statutory Background
+Enacted in exercise of powers conferred by Section 62 of the Biological Diversity Act, 2002 (18 of 2003), the Biological Diversity Rules, 2004 govern the operational procedures, application formats, fees, and compliance requirements for access to biological resources, commercial utilization, and intellectual property rights.
+
+## Mandatory Application Forms under BD Rules, 2004
+
+### 1. Form I (Rule 14) – Access to Biological Resources and Associated Traditional Knowledge
+- **Purpose:** Application for access to biological resources and associated traditional knowledge for research or commercial utilization or bio-survey and bio-utilization.
+- **Applicability:** Required for non-Indian entities, foreign citizens, non-resident Indians (NRIs), or Indian entities having non-Indian participation/equity under Section 3(2) of the Act.
+- **Submission:** Submitted to the National Biodiversity Authority (NBA) along with statutory fees.
+
+### 2. Form II (Rule 17) – Transfer of Results of Research
+- **Purpose:** Application for seeking prior approval of NBA for transferring the results of research relating to Indian biological resources to foreign entities or persons covered under Section 4 of the Act.
+
+### 3. Form III (Rule 18) – Application for Approval of Intellectual Property Rights (IPR)
+- **Purpose:** Application for seeking prior approval of the National Biodiversity Authority (NBA) for applying for or obtaining Intellectual Property Rights (Patents, Plant Variety protection) in India or outside India for any invention based on any research or information on a biological resource obtained from India (Section 6 of the Biological Diversity Act).
+- **Mandatory Timing:** 
+  - For patent applications in India: Must be filed before the grant of the patent by the Indian Patent Office (CGPDTM).
+  - For international patent filings (PCT, foreign patent offices): Must be filed before patent grant or commercialization.
+- **Procedure:**
+  1. The applicant submits Form III to the Secretary, NBA, Chennai.
+  2. The application details the exact scientific botanical/zoological name of the biological resource, part used (leaves, roots, seeds), geographical location in India from where it was sourced, associated traditional knowledge, and patent application number.
+  3. NBA scrutinizes the application in consultation with the concerned State Biodiversity Boards (SBBs) and Biodiversity Management Committees (BMCs).
+  4. Upon approval, NBA enters into an Access and Benefit Sharing (ABS) agreement with the applicant (specifying upfront payments or 0.1%–0.5% royalty on gross ex-factory sales or 2.0%–5.0% on licensing fee / commercial transfer proceeds).
+  5. NBA issues an approval letter / No Objection Certificate (NOC) which the applicant submits to the Controller General of Patents to permit patent grant.
+
+### 4. Form IV (Rule 19) – Third Party Transfer of Accessed Biological Resources
+- **Purpose:** Seeking approval for third-party transfer of accessed biological resources or associated knowledge under Section 20 of the Act.
+
+## Biological Diversity (Amendment) Act, 2023 & 2025 ABS Regulations Integration
+- **AYUSH Practitioners Exemption:** Registered AYUSH practitioners, folk healers, and local communities are exempted from prior intimation to SBB under Section 7 for manufacturing and dispensing classical Ayurvedic formulations for local healthcare.
+- **Commercial IP Manufacturers:** Commercial entities and pharmaceutical manufacturers creating proprietary or patentable formulations from biological resources must comply with Form III and the ABS Regulations 2025 benefit-sharing percentages.

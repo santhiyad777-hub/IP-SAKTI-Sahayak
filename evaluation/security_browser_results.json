@@ -1,0 +1,11 @@
+{
+  "unauthenticated_chat_hidden": true,
+  "register_login_1": true,
+  "private_download_has_no_public_url": true,
+  "export_contains_own_chat": true,
+  "logout_clears_workspace_1": true,
+  "register_login_2": true,
+  "second_user_has_no_first_user_history": true,
+  "logout_clears_workspace_2": true,
+  "database_not_served": true
+}

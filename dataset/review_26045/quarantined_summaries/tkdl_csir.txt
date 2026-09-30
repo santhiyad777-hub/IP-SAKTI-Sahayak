@@ -1,0 +1,32 @@
+# Traditional Knowledge Digital Library (TKDL)
+Council of Scientific and Industrial Research (CSIR) & Ministry of AYUSH, Government of India
+
+## Overview & Mission
+The Traditional Knowledge Digital Library (TKDL) is a pioneering Indian initiative established in 2001 by the Council of Scientific and Industrial Research (CSIR) in collaboration with the Ministry of AYUSH. Its primary objective is to prevent the misappropriation of India's traditional medicinal knowledge at international and national patent offices (biopiracy) and to foster innovation based on traditional knowledge.
+
+## Structure and Traditional Knowledge Resource Classification (TKRC)
+1. **Digitization of Ancient Treatises:**
+   TKDL has systematically transcribed and digitized ancient classical treatises of Ayurveda, Unani, Siddha, and Sowa-Rigpa into an innovative classification system known as the Traditional Knowledge Resource Classification (TKRC).
+2. **Multilingual Access:**
+   TKDL translates traditional slokas and formulations from classical languages (Sanskrit, Arabic, Persian, Tamil, and Urdu) into five major international languages: English, French, German, Japanese, and Spanish.
+3. **Integration with International Patent Classification (IPC):**
+   TKRC maps traditional formulations to the International Patent Classification (IPC), enabling patent examiners across the world to easily identify prior art during examination.
+
+## Role in Patent Examination & Biopiracy Defense
+1. **TKDL Access Agreements with Global Patent Offices:**
+   CSIR-TKDL has concluded formal Access Agreements with major international patent offices, including:
+   - European Patent Office (EPO)
+   - United States Patent and Trademark Office (USPTO)
+   - Japan Patent Office (JPO)
+   - Canadian Intellectual Property Office (CIPO)
+   - IP Australia, UK Intellectual Property Office (UKIPO), and German Patent and Trade Mark Office (DPMA).
+2. **Third-Party Pre-Grant Observations & Oppositions:**
+   Under these agreements, patent examiners are required to search TKDL before granting patents on herbal formulations. Furthermore, the TKDL team proactively monitors published patent applications worldwide and files third-party observations and pre-grant oppositions against wrongful claims on Indian herbs (e.g. Turmeric, Neem, Basmati, Ashwagandha, Tulasi, Ginger).
+3. **Evidentiary Weight in Indian Patent Law:**
+   In Indian patent examination, a citation from TKDL establishes definitive prior art under Section 2(1)(j) (anticipation) and triggers the statutory bar under Section 3(p) of the Patents Act, 1970.
+
+## TKDL User Access Policy (2022 onwards)
+In 2022, the Union Cabinet approved widening the access of the TKDL database to domestic and international users beyond patent offices, including:
+- Academic researchers and educational institutions.
+- AYUSH startups, MSMEs, and pharmaceutical innovators.
+- Industry practitioners seeking to identify verified traditional leads for research and development while ensuring non-misappropriation.

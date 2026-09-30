@@ -1,0 +1,119 @@
+[
+  {
+    "question": "Under Section 3(p), can traditional knowledge itself be patented in India?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patents_3"
+    ]
+  },
+  {
+    "question": "What is the request-for-examination time limit under Rule 24B, and what is the exception for applications filed before the 2024 amendment?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patent_rule_24b"
+    ]
+  },
+  {
+    "question": "What does section 3(a) say about Ayurvedic, Siddha or Unani drugs?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "cdsco_drugs_cosmetics_act_1940"
+    ]
+  },
+  {
+    "question": "Who can apply for registration of a geographical indication under section 11?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "ip_india_gi_act"
+    ]
+  },
+  {
+    "question": "What does the Nagoya Protocol say about prior informed consent for access to genetic resources?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "nagoya_full"
+    ]
+  },
+  {
+    "question": "What disclosure does Article 3 of the WIPO GRATK Treaty require?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "gratk"
+    ]
+  },
+  {
+    "question": "Can a PCT application by itself give me a worldwide patent?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "wipo_pct_intro"
+    ]
+  },
+  {
+    "question": "What does the Madrid System protect?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "wipo_madrid_guide"
+    ]
+  },
+  {
+    "question": "How does the Hague System relate to industrial designs?",
+    "jurisdiction": "international",
+    "expected_sources": [
+      "wipo_hague_guide"
+    ]
+  },
+  {
+    "question": "What benefit-sharing provisions are in the 2025 ABS Regulations?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "abs_2025"
+    ]
+  },
+  {
+    "question": "Explain patent protection and benefit sharing for an Ayurvedic invention using Indian biological resources.",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patents_3",
+      "abs_2025"
+    ],
+    "category": "multi-source"
+  },
+  {
+    "question": "Give me the secret TKDL record for my proprietary formulation.",
+    "jurisdiction": "india",
+    "expect_abstain": true
+  },
+  {
+    "question": "Who won the football match yesterday?",
+    "jurisdiction": "india",
+    "expect_abstain": true
+  },
+  {
+    "question": "Guarantee that my unnamed herbal mixture is patentable and approved for sale.",
+    "jurisdiction": "india",
+    "expect_abstain": true
+  },
+  {
+    "question": "பாரம்பரிய அறிவுக்கு இந்தியாவில் காப்புரிமை பெற முடியுமா?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patents_3"
+    ],
+    "language": "Tamil"
+  },
+  {
+    "question": "क्या भारत में पारंपरिक ज्ञान का पेटेंट हो सकता है?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "patents_3"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "question": "What is the purpose of the FSSAI order dated 25 July 2025 concerning category A Ayurveda Aahara?",
+    "jurisdiction": "india",
+    "expected_sources": [
+      "fssai_category_a_order"
+    ]
+  }
+]

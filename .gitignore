@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+knowledge_base/
+chroma_db/
+uploaded_documents/
+*.log
+
+.venv-crawl/
+
+private_data/
+.security-test*/
+.audit-venv/
+
+.security-backup/
+.security-wheels/

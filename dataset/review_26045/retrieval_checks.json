@@ -1,0 +1,191 @@
+{
+  "cases": 13,
+  "passed": 13,
+  "results": [
+    {
+      "question": "Biological Diversity Rules 2024 application forms NBA approval",
+      "jurisdiction": "india",
+      "expected": [
+        "bd_rules_2024"
+      ],
+      "retrieved": [
+        "abs_2025",
+        "bd_rules_2024",
+        "bd_rules_amendment_2025",
+        "nba_faq"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "Convention on Biological Diversity Article 15 access genetic resources",
+      "jurisdiction": "international",
+      "expected": [
+        "cbd_convention"
+      ],
+      "retrieved": [
+        "cbd_convention",
+        "nagoya_full"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "Cosmetics Rules 2020 labelling import registration certificate",
+      "jurisdiction": "india",
+      "expected": [
+        "cosmetics_rules_2020"
+      ],
+      "retrieved": [
+        "cdsco_drugs_cosmetics_act_1940",
+        "cosmetics_rules_2020"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "phytopharmaceutical new drug clinical trials rules 2019",
+      "jurisdiction": "india",
+      "expected": [
+        "ndct_rules_2019"
+      ],
+      "retrieved": [
+        "cdsco_drugs_cosmetics_act_1940",
+        "ndct_rules_2019"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "Ayurveda Aahara 2022 NOT FOR MEDICINAL USE label",
+      "jurisdiction": "india",
+      "expected": [
+        "ayurveda_aahara_2022"
+      ],
+      "retrieved": [
+        "ayurveda_aahara_2022",
+        "fssai_category_a_order",
+        "fssai_labelling",
+        "fssai_nutraceuticals"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "Drugs and Magic Remedies 1954 prohibition misleading advertisements section 4",
+      "jurisdiction": "india",
+      "expected": [
+        "drugs_magic_remedies_1954"
+      ],
+      "retrieved": [
+        "drugs_magic_remedies_1954",
+        "patanjali_judgment_2024"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "UK MHRA traditional herbal registration THR 30 years",
+      "jurisdiction": "international",
+      "expected": [
+        "uk_herbal_registration"
+      ],
+      "retrieved": [
+        "uk_herbal_registration",
+        "wto_trips_agreement"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "Budapest Treaty Article 3 deposit microorganisms patent",
+      "jurisdiction": "international",
+      "expected": [
+        "budapest_treaty"
+      ],
+      "retrieved": [
+        "budapest_treaty",
+        "wipo_budapest_guide"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "Madrid Protocol Article 3 international trademark application",
+      "jurisdiction": "international",
+      "expected": [
+        "madrid_protocol"
+      ],
+      "retrieved": [
+        "madrid_protocol",
+        "wipo_madrid_guide"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "Hague Geneva Act Article 5 international design application",
+      "jurisdiction": "international",
+      "expected": [
+        "hague_geneva_act"
+      ],
+      "retrieved": [
+        "hague_geneva_act",
+        "wipo_hague_guide"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "DPDP Rules 2025 Data Fiduciary security safeguards consent",
+      "jurisdiction": "india",
+      "expected": [
+        "dpdp_rules_2025"
+      ],
+      "retrieved": [
+        "dpdp_act_2023",
+        "dpdp_rules_2025"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "Navara Rice geographical indication registration application 17",
+      "jurisdiction": "india",
+      "expected": [
+        "navara_gi_record"
+      ],
+      "retrieved": [
+        "ip_india_gi_act",
+        "navara_gi_record"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    },
+    {
+      "question": "NIST AI RMF GOVERN MAP MEASURE MANAGE",
+      "jurisdiction": "international",
+      "expected": [
+        "nist_ai_rmf"
+      ],
+      "retrieved": [
+        "nist_ai_rmf"
+      ],
+      "relevant_source_found": true,
+      "jurisdiction_separation": true,
+      "source_citations_present": true
+    }
+  ]
+}

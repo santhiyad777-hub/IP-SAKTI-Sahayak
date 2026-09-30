@@ -1,0 +1,23 @@
+# Food Safety and Standards (Ayurveda Aahara) Regulations, 2022
+Food Safety and Standards Authority of India (FSSAI) & Ministry of AYUSH
+
+## Regulatory Definition & Scope
+"Ayurveda Aahara" means food prepared in accordance with the recipes or books/processes specified in the authoritative texts of Ayurveda listed in Schedule A of the regulations. It covers food products used for dietary support, nutrition, physiological balance, and wellbeing.
+
+## Exclusions & Demarcation from Drugs
+- Ayurveda Aahara does NOT include Ayurvedic, Siddha, or Unani drugs under the Drugs and Cosmetics Act, 1940.
+- It does not include medicines for disease diagnosis, treatment, cure, mitigation, or prevention.
+- It shall not contain synthetic vitamins, minerals, amino acids, or isolated chemical compounds unless naturally occurring in the Ayurvedic raw materials.
+
+## Categorization (Schedule A Texts & Ingredients)
+- **Category A (Classical Ayurveda Aahara):** Formulations prepared strictly according to recipes and processing methods mentioned in authoritative texts specified in the First Schedule of the Drugs and Cosmetics Act, 1940 (e.g. Caraka Samhita, Sushruta Samhita, Astanga Hridaya, Sharangadhara Samhita, Bhavaprakasha, Bhaishajya Ratnavali).
+- **Category B (Innovative / Proprietary Ayurveda Aahara):** Innovative food formulations containing botanical ingredients recognized in Ayurvedic authoritative texts, formulated using modern dietary matrices (e.g. nutrition bars, teas, ready-to-drink beverages), backed by traditional safety and usage rationale.
+
+## Labeling, Logo & Mandatory Disclaimers
+1. Every package of Ayurveda Aahara must prominently display the official **Ayurveda Aahara Logo** on the principal display panel.
+2. The label must explicitly declare:
+   - "AYURVEDA AAHARA" in bold capital letters.
+   - Purpose, target consumer group, and recommended daily usage level.
+   - Clear warning: "NOT FOR MEDICINAL USE".
+   - Advisory: "Food supplement; not a substitute for a varied diet".
+3. Prohibited Claims: No misleading health or disease-cure claims are permitted on packaging or promotional materials.

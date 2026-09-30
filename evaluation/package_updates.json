@@ -1,0 +1,82 @@
+{
+  "langchain-core": {
+    "version": "1.6.5",
+    "requires_python": "<4.0.0,>=3.10.0",
+    "vulnerabilities": 0
+  },
+  "langchain-text-splitters": {
+    "version": "1.1.2",
+    "requires_python": "<4.0.0,>=3.10.0",
+    "vulnerabilities": 0
+  },
+  "langchain-chroma": {
+    "version": "1.1.0",
+    "requires_python": "<4.0.0,>=3.10.0",
+    "vulnerabilities": 0
+  },
+  "langchain-huggingface": {
+    "version": "1.2.2",
+    "requires_python": "<4.0.0,>=3.10.0",
+    "vulnerabilities": 0
+  },
+  "chromadb": {
+    "version": "1.5.9",
+    "requires_python": ">=3.9",
+    "vulnerabilities": 8
+  },
+  "streamlit": {
+    "version": "1.64.0",
+    "requires_python": ">=3.10",
+    "vulnerabilities": 0
+  },
+  "pypdf": {
+    "version": "6.19.0",
+    "requires_python": ">=3.9",
+    "vulnerabilities": 0
+  },
+  "lxml": {
+    "version": "6.1.3",
+    "requires_python": ">=3.8",
+    "vulnerabilities": 0
+  },
+  "python-dotenv": {
+    "version": "1.2.3",
+    "requires_python": ">=3.10",
+    "vulnerabilities": 0
+  },
+  "pillow": {
+    "version": "12.3.0",
+    "requires_python": ">=3.10",
+    "vulnerabilities": 0
+  },
+  "torch": {
+    "version": "2.14.0",
+    "requires_python": ">=3.10",
+    "vulnerabilities": 0
+  },
+  "transformers": {
+    "version": "5.17.0",
+    "requires_python": ">=3.10.0",
+    "vulnerabilities": 0
+  },
+  "sentence-transformers": {
+    "version": "6.1.0",
+    "requires_python": ">=3.10",
+    "vulnerabilities": 0
+  },
+  "pip": {
+    "version": "26.2.1",
+    "requires_python": ">=3.10",
+    "vulnerabilities": 0
+  },
+  "setuptools": {
+    "version": "84.0.0",
+    "requires_python": ">=3.10",
+    "vulnerabilities": 0
+  },
+  "weasyprint": {
+    "version": "70.0",
+    "requires_python": ">=3.10",
+    "vulnerabilities": 0
+  }
+}

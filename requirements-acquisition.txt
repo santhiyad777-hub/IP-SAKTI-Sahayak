@@ -1,0 +1,4 @@
+crawl4ai==0.9.3
+pypdf==6.0.0
+requests>=2.32.4,<3
+beautifulsoup4>=4.12.3,<5

@@ -1,0 +1,7 @@
+{
+  "idempotent": true,
+  "chunks": 6895,
+  "sources": 48,
+  "public_only": true,
+  "portable_source_paths": true
+}

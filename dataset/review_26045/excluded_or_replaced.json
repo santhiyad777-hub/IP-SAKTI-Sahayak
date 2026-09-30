@@ -1,0 +1,124 @@
+[
+  {
+    "source_id": "ayurveda_aahara",
+    "title": "Ayurveda Aahara Regulations 2022",
+    "source_url": "https://www.fssai.gov.in/upload/notifications/2022/05/62789a20b54bdGazette_Notification_Ayurveda_Aahara_09_05_2022.pdf",
+    "jurisdiction": "india",
+    "regime": "food_regulation",
+    "organization": "fssai.gov.in",
+    "required_patterns": [
+      "Ayurveda",
+      "labell"
+    ],
+    "kind": "pdf",
+    "status": "unavailable",
+    "error": "Expected PDF, received portal/HTML",
+    "last_checked": "2026-09-19T03:39:36.790189+00:00"
+  },
+  {
+    "source_id": "fda_botanical",
+    "title": "FDA botanical drug development",
+    "source_url": "https://www.fda.gov/drugs/cder-small-business-industry-assistance-sbia/botanical-drug-development-guidance-industry",
+    "jurisdiction": "international",
+    "regime": "export_us",
+    "organization": "www.fda.gov",
+    "required_patterns": [
+      "botanical",
+      "drug"
+    ],
+    "kind": "web",
+    "status": "unavailable",
+    "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+    "last_checked": "2026-09-19T02:34:19.120802+00:00"
+  },
+  {
+    "source_id": "cgptdm_tk_guidelines",
+    "title": "CGPDTM Guidelines for Examination of Patent Applications Relating to Traditional Knowledge and Biological Material",
+    "organization": "ipindia.gov.in",
+    "jurisdiction": "india",
+    "regime": "traditional_knowledge",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/cgptdm_tk_guidelines/content.txt",
+    "source_url": "https://ipindia.gov.in/writereaddata/Portal/IPOGuidelinesManuals/1_39_1_5-tk-guidelines.pdf",
+    "status": "verified",
+    "required_patterns": [
+      "traditional knowledge",
+      "synergistic"
+    ]
+  },
+  {
+    "source_id": "tkdl_csir",
+    "title": "CSIR Traditional Knowledge Digital Library (TKDL) Prior Art and Access Framework",
+    "organization": "tkdl.res.in",
+    "jurisdiction": "india",
+    "regime": "traditional_knowledge",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/tkdl_csir/content.txt",
+    "source_url": "https://www.tkdl.res.in/",
+    "status": "verified",
+    "required_patterns": [
+      "Traditional Knowledge Digital Library",
+      "biopiracy"
+    ]
+  },
+  {
+    "source_id": "bd_rules_2004",
+    "title": "Biological Diversity Rules, 2004 (Form I, Form II, Form III, Form IV)",
+    "organization": "nbaindia.org",
+    "jurisdiction": "india",
+    "regime": "biodiversity_abs",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/bd_rules_2004/content.txt",
+    "source_url": "http://nbaindia.org/content/17/14/1/rules.html",
+    "status": "verified",
+    "required_patterns": [
+      "Form III",
+      "Biological Diversity Rules"
+    ]
+  },
+  {
+    "source_id": "ayurveda_aahara_2022",
+    "title": "FSSAI Food Safety and Standards (Ayurveda Aahara) Regulations, 2022",
+    "organization": "fssai.gov.in",
+    "jurisdiction": "india",
+    "regime": "food_regulation",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/ayurveda_aahara_2022/content.txt",
+    "source_url": "https://www.fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Ayurveda_Aahara_09_05_2022.pdf",
+    "status": "verified",
+    "required_patterns": [
+      "Ayurveda Aahara",
+      "Schedule A"
+    ]
+  },
+  {
+    "source_id": "drugs_magic_remedies_1954",
+    "title": "Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+    "organization": "indiacode.nic.in",
+    "jurisdiction": "india",
+    "regime": "drug_regulation",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/drugs_magic_remedies_1954/content.txt",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1572",
+    "status": "verified",
+    "required_patterns": [
+      "Magic Remedies",
+      "misleading"
+    ]
+  },
+  {
+    "source_id": "fda_botanical_guidance",
+    "title": "US FDA Guidance for Industry: Botanical Drug Development",
+    "organization": "fda.gov",
+    "jurisdiction": "international",
+    "regime": "export_us",
+    "source_type": "official_web",
+    "local_file_path": "dataset/raw/official/fda_botanical_guidance/content.txt",
+    "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry",
+    "status": "verified",
+    "required_patterns": [
+      "Botanical",
+      "FDA"
+    ]
+  }
+]

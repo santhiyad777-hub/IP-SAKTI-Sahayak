@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-09-28T11:19:28.992711+00:00",
+  "active_sources": 46,
+  "acquired_sources": 22,
+  "curated_chunks": 7657,
+  "removed_curated_chunks": 9,
+  "removed_out_of_scope_upload_chunks": 65,
+  "remaining_upload_chunks": 30,
+  "repaired_source_paths": 3694,
+  "excluded_source_ids": [
+    "ayurveda_aahara",
+    "bd_rules_2004",
+    "drugs_magic_remedies_1954",
+    "fda_botanical"
+  ],
+  "backup": "dataset\\review_26045\\before_update",
+  "final_active_sources": 48,
+  "final_curated_chunks": 6895,
+  "final_upload_chunks": 0,
+  "total_removed_upload_chunks": 95,
+  "new_source_ids": [
+    "bd_act_consolidated",
+    "bd_rules_2024",
+    "bd_rules_amendment_2025",
+    "budapest_treaty",
+    "cbd_convention",
+    "cosmetics_rules_2020",
+    "dpdp_act_2023",
+    "dpdp_rules_2025",
+    "fssai_food_claims",
+    "fssai_labelling",
+    "fssai_nutraceuticals",
+    "hague_geneva_act",
+    "madrid_protocol",
+    "navara_gi_record",
+    "ndct_rules_2019",
+    "nist_ai_rmf",
+    "patanjali_judgment_2024",
+    "pct_treaty",
+    "uk_herbal_registration"
+  ],
+  "replaced_source_ids": [
+    "ayurveda_aahara_2022",
+    "cgptdm_tk_guidelines",
+    "drugs_magic_remedies_1954",
+    "fda_botanical_guidance",
+    "tkdl_csir"
+  ],
+  "retired_source_ids": [
+    "bd_rules_2004"
+  ]
+}
